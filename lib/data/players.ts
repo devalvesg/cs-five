@@ -76,3 +76,20 @@ export function searchPlayers(query: string, limit = 8): Player[] {
   scored.sort((a, b) => a.s - b.s || a.p.id.length - b.p.id.length);
   return scored.slice(0, limit).map((x) => x.p);
 }
+
+/** Busca client-side de times por nome ou sigla; prefixo > substring. */
+export function searchTeams(query: string, limit = 8): Team[] {
+  const n = norm(query.trim());
+  if (!n) return [];
+  const scored: Array<{ t: Team; s: number }> = [];
+  for (const t of teams) {
+    const abbr = norm(t.abbr);
+    const name = norm(t.name);
+    let s = -1;
+    if (abbr.startsWith(n) || name.startsWith(n)) s = 0;
+    else if (abbr.includes(n) || name.includes(n)) s = 1;
+    if (s >= 0) scored.push({ t, s });
+  }
+  scored.sort((a, b) => a.s - b.s || a.t.name.length - b.t.name.length);
+  return scored.slice(0, limit).map((x) => x.t);
+}
