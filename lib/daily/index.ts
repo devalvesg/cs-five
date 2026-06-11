@@ -14,6 +14,27 @@ export function getPuzzleNumber(d: Date = new Date()): number {
   return Math.floor((today - LAUNCH_UTC) / MS_PER_DAY) + 1;
 }
 
+/**
+ * Data atual de uma fonte confiável (header HTTP `Date` da própria origem),
+ * pra não confiar no relógio do PC — que o usuário poderia adiantar/atrasar
+ * pra trocar o puzzle do dia. Cai pro relógio local se offline ou sem header.
+ */
+export async function getTrustedNow(): Promise<Date> {
+  if (typeof window !== "undefined") {
+    try {
+      const res = await fetch(window.location.origin, { method: "HEAD", cache: "no-store" });
+      const header = res.headers.get("date");
+      if (header) {
+        const d = new Date(header);
+        if (!Number.isNaN(d.getTime())) return d;
+      }
+    } catch {
+      // offline / bloqueado → fallback abaixo
+    }
+  }
+  return new Date();
+}
+
 /** Hash FNV-1a → uint32. */
 export function hashStr(s: string): number {
   let h = 2166136261;

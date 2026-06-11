@@ -1,4 +1,3 @@
-import { getPuzzleNumber } from "@/lib/daily";
 import { getPlayer, teamName } from "@/lib/data/players";
 import type { Top10Puzzle } from "@/lib/top10/schedule";
 
@@ -19,9 +18,9 @@ export type Top10CardData = {
 };
 
 /** Monta os dados do card de compartilhamento a partir do puzzle e dos acertos. */
-export function buildTop10CardData(puzzle: Top10Puzzle, found: string[]): Top10CardData {
+export function buildTop10CardData(puzzle: Top10Puzzle, found: string[], puzzleNumber: number): Top10CardData {
   return {
-    puzzle: getPuzzleNumber(),
+    puzzle: puzzleNumber,
     theme: puzzle.title,
     correct: found.length,
     total: puzzle.answers.length,

@@ -1,4 +1,3 @@
-import { getPuzzleNumber } from "@/lib/daily";
 import type { Criterion, GridPuzzle } from "@/lib/grid/generator";
 
 export type GridCardData = {
@@ -11,7 +10,11 @@ export type GridCardData = {
 };
 
 /** Monta os dados do card de compartilhamento do Grid a partir das células preenchidas. */
-export function buildGridCardData(puzzle: GridPuzzle, cells: Record<string, string>): GridCardData {
+export function buildGridCardData(
+  puzzle: GridPuzzle,
+  cells: Record<string, string>,
+  puzzleNumber: number,
+): GridCardData {
   let correct = 0;
   const solved = puzzle.rows.map((_, r) =>
     puzzle.cols.map((_, c) => {
@@ -20,5 +23,5 @@ export function buildGridCardData(puzzle: GridPuzzle, cells: Record<string, stri
       return ok;
     }),
   );
-  return { puzzle: getPuzzleNumber(), cols: puzzle.cols, rows: puzzle.rows, solved, correct };
+  return { puzzle: puzzleNumber, cols: puzzle.cols, rows: puzzle.rows, solved, correct };
 }

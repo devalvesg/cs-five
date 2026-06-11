@@ -22,32 +22,32 @@ const playerPuzzle: Top10Puzzle = {
 
 describe("buildTop10CardData", () => {
   it("conta acertos e mapeia solved por slot", () => {
-    const data = buildTop10CardData(teamPuzzle, ["NAVI", "Astralis"]);
+    const data = buildTop10CardData(teamPuzzle, ["NAVI", "Astralis"], 23);
     expect(data.correct).toBe(2);
     expect(data.total).toBe(3);
     expect(data.slots.map((s) => s.solved)).toEqual([true, false, true]);
   });
 
   it("preserva a ordem por rank das respostas", () => {
-    const data = buildTop10CardData(teamPuzzle, []);
+    const data = buildTop10CardData(teamPuzzle, [], 23);
     expect(data.theme).toBe("Times com mais títulos");
     expect(data.slots).toHaveLength(3);
     expect(data.correct).toBe(0);
   });
 
   it("tema de time não tem bandeira (flag = null)", () => {
-    const data = buildTop10CardData(teamPuzzle, []);
+    const data = buildTop10CardData(teamPuzzle, [], 23);
     expect(data.slots.every((s) => s.flag === null)).toBe(true);
   });
 
   it("tema de jogador mapeia bandeira e nome pelo id", () => {
-    const data = buildTop10CardData(playerPuzzle, ["FalleN"]);
+    const data = buildTop10CardData(playerPuzzle, ["FalleN"], 23);
     expect(data.slots[0]).toEqual({ label: "FalleN", flag: "BR", solved: true });
     expect(data.slots[1]).toEqual({ label: "device", flag: "DK", solved: false });
   });
 
-  it("puzzle é um número (determinístico pela data)", () => {
-    const data = buildTop10CardData(teamPuzzle, []);
-    expect(typeof data.puzzle).toBe("number");
+  it("usa o número de puzzle recebido", () => {
+    const data = buildTop10CardData(teamPuzzle, [], 42);
+    expect(data.puzzle).toBe(42);
   });
 });

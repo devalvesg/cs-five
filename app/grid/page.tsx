@@ -9,7 +9,7 @@ import {
   playerMatches, solveRemaining, type Criterion, type GridPuzzle,
 } from "@/lib/grid/generator";
 import { getGridForPuzzle } from "@/lib/grid/schedule";
-import { getPuzzleNumber } from "@/lib/daily";
+import { usePuzzleNumber } from "@/lib/daily/usePuzzleNumber";
 import {
   loadGame, saveGame, recordResult, loadStats, type SavedGame, type GridStats,
 } from "@/lib/stats/grid";
@@ -21,9 +21,10 @@ import SiteHeader, { IconButton } from "@/components/SiteHeader";
 import { BrandMark, Wordmark } from "@/components/Brand";
 
 export default function GridPage() {
+  const puzzleNumber = usePuzzleNumber();
   const puzzle = useMemo<GridPuzzle | null>(
-    () => getGridForPuzzle(getPuzzleNumber()),
-    []
+    () => (puzzleNumber == null ? null : getGridForPuzzle(puzzleNumber)),
+    [puzzleNumber]
   );
 
   const [cells, setCells] = useState<Record<string, string>>({});
@@ -56,6 +57,17 @@ export default function GridPage() {
     if (status === "playing" && Object.keys(cells).length === 0) return;
     saveGame({ cells, status });
   }, [cells, status]);
+
+  if (puzzleNumber == null) {
+    return (
+      <div className="relative z-[1] min-h-screen">
+        <SiteHeader left={<BackButton />} />
+        <main className="mx-auto flex max-w-md flex-col items-center gap-4 px-6 py-24 text-center">
+          <p className="text-cs-muted">Carregando…</p>
+        </main>
+      </div>
+    );
+  }
 
   if (!puzzle) {
     return (
@@ -134,7 +146,7 @@ export default function GridPage() {
       <main className="mx-auto max-w-[920px] px-4 pb-24 pt-7">
         <h1 className="mb-1 mt-1.5 text-center font-display text-[32px] font-extrabold tracking-[0.02em]">
           <Wordmark size={32} /> <span className="text-cs-txt">GRID</span>{" "}
-          <span className="align-middle text-base font-bold text-cs-muted">#{getPuzzleNumber()}</span>
+          <span className="align-middle text-base font-bold text-cs-muted">#{puzzleNumber}</span>
         </h1>
         <p className="mx-auto mb-6 max-w-[560px] text-center text-[15px] font-semibold text-cs-txt">
           Nomeie um jogador que satisfaça os dois critérios de cada cruzamento
@@ -249,7 +261,7 @@ export default function GridPage() {
       </main>
 
       {shareOpen && puzzle && (() => {
-        const cardData = buildGridCardData(puzzle, cells);
+        const cardData = buildGridCardData(puzzle, cells, puzzleNumber);
         return (
           <ShareCardModal
             filename={`cs-five-grid-${cardData.puzzle}`}

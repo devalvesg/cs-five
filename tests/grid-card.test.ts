@@ -18,7 +18,7 @@ const puzzle: GridPuzzle = {
 describe("buildGridCardData", () => {
   it("monta matriz 3x3 de acertos e conta corretos", () => {
     const cells = { "0-0": "device", "0-2": "rain", "2-1": "fer" }; // 3 preenchidas
-    const data = buildGridCardData(puzzle, cells);
+    const data = buildGridCardData(puzzle, cells, 23);
     expect(data.correct).toBe(3);
     expect(data.solved).toEqual([
       [true, false, true],
@@ -27,11 +27,11 @@ describe("buildGridCardData", () => {
     ]);
   });
 
-  it("preserva linhas e colunas do puzzle", () => {
-    const data = buildGridCardData(puzzle, {});
+  it("preserva linhas e colunas do puzzle e usa o número recebido", () => {
+    const data = buildGridCardData(puzzle, {}, 42);
     expect(data.cols).toBe(puzzle.cols);
     expect(data.rows).toBe(puzzle.rows);
     expect(data.correct).toBe(0);
-    expect(typeof data.puzzle).toBe("number");
+    expect(data.puzzle).toBe(42);
   });
 });

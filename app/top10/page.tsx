@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { getTop10ForPuzzle, type Top10Answer, type Top10Puzzle } from "@/lib/top10/schedule";
 import { matchGuess } from "@/lib/top10/match";
-import { getPuzzleNumber } from "@/lib/daily";
+import { usePuzzleNumber } from "@/lib/daily/usePuzzleNumber";
 import { loadGame, saveGame, recordResult, loadStats, type Top10Stats } from "@/lib/stats/top10";
 import { teamLogo, teamName, getPlayer, flagSrc, countryLabel, searchPlayers, searchTeams, type Player, type Team } from "@/lib/data/players";
 import SiteHeader, { IconButton } from "@/components/SiteHeader";
@@ -16,7 +16,11 @@ import { buildTop10CardData } from "@/lib/share/top10-card";
 type Flash = "hit" | "miss" | "dupe" | null;
 
 export default function Top10Page() {
-  const puzzle = useMemo<Top10Puzzle | null>(() => getTop10ForPuzzle(getPuzzleNumber()), []);
+  const puzzleNumber = usePuzzleNumber();
+  const puzzle = useMemo<Top10Puzzle | null>(
+    () => (puzzleNumber == null ? null : getTop10ForPuzzle(puzzleNumber)),
+    [puzzleNumber],
+  );
   const [found, setFound] = useState<string[]>([]);
   const [status, setStatus] = useState<"playing" | "won" | "gaveup">("playing");
   const [val, setVal] = useState("");
@@ -34,6 +38,14 @@ export default function Top10Page() {
     if (status === "playing" && found.length === 0) return;
     saveGame({ found, status });
   }, [found, status]);
+
+  if (puzzleNumber == null) {
+    return (
+      <Shell>
+        <p className="text-center text-cs-muted">Carregando…</p>
+      </Shell>
+    );
+  }
 
   if (!puzzle) {
     return (
@@ -84,7 +96,7 @@ export default function Top10Page() {
     >
       <h1 className="mb-1 mt-1.5 text-center font-display text-[32px] font-extrabold tracking-[0.02em]">
         <Wordmark size={32} /> <span className="text-cs-txt">TOP </span><span className="text-cs-gold">10</span>{" "}
-        <span className="align-middle text-base font-bold text-cs-muted">#{getPuzzleNumber()}</span>
+        <span className="align-middle text-base font-bold text-cs-muted">#{puzzleNumber}</span>
       </h1>
       <p className="mx-auto mb-7 max-w-[560px] text-center text-[15px] font-semibold text-cs-txt">{puzzle.title}</p>
 
@@ -178,7 +190,7 @@ export default function Top10Page() {
       )}
 
       {shareOpen && (() => {
-        const cardData = buildTop10CardData(puzzle, found);
+        const cardData = buildTop10CardData(puzzle, found, puzzleNumber);
         return (
           <ShareCardModal
             filename={`cs-five-top10-${cardData.puzzle}`}
