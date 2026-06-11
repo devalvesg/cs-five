@@ -1,0 +1,737 @@
+[
+  {
+    "id": "player_appearances",
+    "title": "Jogadores com mais presenças em Major",
+    "entityKind": "player",
+    "answers": [
+      {
+        "rank": 1,
+        "kind": "player",
+        "id": "apEX",
+        "value": 22,
+        "aliases": [
+          "apEX",
+          "Dan Madesclaire"
+        ]
+      },
+      {
+        "rank": 2,
+        "kind": "player",
+        "id": "karrigan",
+        "value": 22,
+        "aliases": [
+          "karrigan",
+          "Finn Andersen"
+        ]
+      },
+      {
+        "rank": 3,
+        "kind": "player",
+        "id": "dupreeh",
+        "value": 19,
+        "aliases": [
+          "dupreeh",
+          "Peter Rasmussen"
+        ]
+      },
+      {
+        "rank": 4,
+        "kind": "player",
+        "id": "FalleN",
+        "value": 19,
+        "aliases": [
+          "FalleN",
+          "Gabriel Toledo"
+        ]
+      },
+      {
+        "rank": 5,
+        "kind": "player",
+        "id": "rain",
+        "value": 19,
+        "aliases": [
+          "rain",
+          "Håvard Nygaard"
+        ]
+      },
+      {
+        "rank": 6,
+        "kind": "player",
+        "id": "KRIMZ",
+        "value": 18,
+        "aliases": [
+          "KRIMZ",
+          "Freddy Johansson"
+        ]
+      },
+      {
+        "rank": 7,
+        "kind": "player",
+        "id": "device",
+        "value": 17,
+        "aliases": [
+          "device",
+          "Nicolai Reedtz"
+        ]
+      },
+      {
+        "rank": 8,
+        "kind": "player",
+        "id": "EliGE",
+        "value": 17,
+        "aliases": [
+          "EliGE",
+          "Jonathan Jablonowski"
+        ]
+      },
+      {
+        "rank": 9,
+        "kind": "player",
+        "id": "NiKo",
+        "value": 17,
+        "aliases": [
+          "NiKo",
+          "Nikola Kovač"
+        ]
+      },
+      {
+        "rank": 10,
+        "kind": "player",
+        "id": "shox",
+        "value": 17,
+        "aliases": [
+          "shox",
+          "Richard Papillon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "player_mvps",
+    "title": "Jogadores com mais prêmios de MVP de Major",
+    "entityKind": "player",
+    "answers": [
+      {
+        "rank": 1,
+        "kind": "player",
+        "id": "ZywOo",
+        "value": 3,
+        "aliases": [
+          "ZywOo",
+          "Mathieu Herbaut"
+        ]
+      },
+      {
+        "rank": 2,
+        "kind": "player",
+        "id": "coldzera",
+        "value": 2,
+        "aliases": [
+          "coldzera",
+          "Marcelo David"
+        ]
+      },
+      {
+        "rank": 3,
+        "kind": "player",
+        "id": "device",
+        "value": 2,
+        "aliases": [
+          "device",
+          "Nicolai Reedtz"
+        ]
+      },
+      {
+        "rank": 4,
+        "kind": "player",
+        "id": "donk",
+        "value": 1,
+        "aliases": [
+          "donk",
+          "Danil Kryshkovets"
+        ]
+      },
+      {
+        "rank": 5,
+        "kind": "player",
+        "id": "flusha",
+        "value": 1,
+        "aliases": [
+          "flusha",
+          "Robin Rönnquist"
+        ]
+      },
+      {
+        "rank": 6,
+        "kind": "player",
+        "id": "friberg",
+        "value": 1,
+        "aliases": [
+          "friberg",
+          "Adam Friberg"
+        ]
+      },
+      {
+        "rank": 7,
+        "kind": "player",
+        "id": "Happy",
+        "value": 1,
+        "aliases": [
+          "Happy",
+          "Vincent Schopenhauer"
+        ]
+      },
+      {
+        "rank": 8,
+        "kind": "player",
+        "id": "jame",
+        "value": 1,
+        "aliases": [
+          "jame",
+          "Dzhami Ali"
+        ]
+      },
+      {
+        "rank": 9,
+        "kind": "player",
+        "id": "jL",
+        "value": 1,
+        "aliases": [
+          "jL",
+          "Justinas Lekavičius"
+        ]
+      },
+      {
+        "rank": 10,
+        "kind": "player",
+        "id": "JW",
+        "value": 1,
+        "aliases": [
+          "JW",
+          "Jesper Wecksell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "player_titles",
+    "title": "Jogadores com mais títulos de Major (all-time)",
+    "entityKind": "player",
+    "answers": [
+      {
+        "rank": 1,
+        "kind": "player",
+        "id": "dupreeh",
+        "value": 5,
+        "aliases": [
+          "dupreeh",
+          "Peter Rasmussen"
+        ]
+      },
+      {
+        "rank": 2,
+        "kind": "player",
+        "id": "apEX",
+        "value": 4,
+        "aliases": [
+          "apEX",
+          "Dan Madesclaire"
+        ]
+      },
+      {
+        "rank": 3,
+        "kind": "player",
+        "id": "device",
+        "value": 4,
+        "aliases": [
+          "device",
+          "Nicolai Reedtz"
+        ]
+      },
+      {
+        "rank": 4,
+        "kind": "player",
+        "id": "gla1ve",
+        "value": 4,
+        "aliases": [
+          "gla1ve",
+          "Lukas Rossander"
+        ]
+      },
+      {
+        "rank": 5,
+        "kind": "player",
+        "id": "Magisk",
+        "value": 4,
+        "aliases": [
+          "Magisk",
+          "Emil Reif"
+        ]
+      },
+      {
+        "rank": 6,
+        "kind": "player",
+        "id": "Xyp9x",
+        "value": 4,
+        "aliases": [
+          "Xyp9x",
+          "Andreas Højsleth"
+        ]
+      },
+      {
+        "rank": 7,
+        "kind": "player",
+        "id": "flusha",
+        "value": 3,
+        "aliases": [
+          "flusha",
+          "Robin Rönnquist"
+        ]
+      },
+      {
+        "rank": 8,
+        "kind": "player",
+        "id": "JW",
+        "value": 3,
+        "aliases": [
+          "JW",
+          "Jesper Wecksell"
+        ]
+      },
+      {
+        "rank": 9,
+        "kind": "player",
+        "id": "pronax",
+        "value": 3,
+        "aliases": [
+          "pronax",
+          "Markus Wallsten"
+        ]
+      },
+      {
+        "rank": 10,
+        "kind": "player",
+        "id": "ropz",
+        "value": 3,
+        "aliases": [
+          "ropz",
+          "Robin Kool"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "team_finals",
+    "title": "Times em mais finais de Major (all-time)",
+    "entityKind": "team",
+    "answers": [
+      {
+        "rank": 1,
+        "kind": "team",
+        "id": "NAVI",
+        "value": 6,
+        "aliases": [
+          "NAVI",
+          "Natus Vincere"
+        ]
+      },
+      {
+        "rank": 2,
+        "kind": "team",
+        "id": "FaZe",
+        "value": 5,
+        "aliases": [
+          "FaZe",
+          "FaZe Clan"
+        ]
+      },
+      {
+        "rank": 3,
+        "kind": "team",
+        "id": "NIP",
+        "value": 5,
+        "aliases": [
+          "NIP",
+          "Ninjas in Pyjamas"
+        ]
+      },
+      {
+        "rank": 4,
+        "kind": "team",
+        "id": "Astralis",
+        "value": 4,
+        "aliases": [
+          "Astralis"
+        ]
+      },
+      {
+        "rank": 5,
+        "kind": "team",
+        "id": "fnatic",
+        "value": 4,
+        "aliases": [
+          "fnatic",
+          "Fnatic"
+        ]
+      },
+      {
+        "rank": 6,
+        "kind": "team",
+        "id": "Vitality",
+        "value": 3,
+        "aliases": [
+          "Vitality",
+          "Team Vitality"
+        ]
+      },
+      {
+        "rank": 7,
+        "kind": "team",
+        "id": "EnVyUs",
+        "value": 2,
+        "aliases": [
+          "EnVyUs",
+          "Team EnVyUs"
+        ]
+      },
+      {
+        "rank": 8,
+        "kind": "team",
+        "id": "Virtus.pro",
+        "value": 2,
+        "aliases": [
+          "Virtus.pro"
+        ]
+      },
+      {
+        "rank": 9,
+        "kind": "team",
+        "id": "Cloud9",
+        "value": 1,
+        "aliases": [
+          "Cloud9"
+        ]
+      },
+      {
+        "rank": 10,
+        "kind": "team",
+        "id": "Gambit",
+        "value": 1,
+        "aliases": [
+          "Gambit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "team_podiums",
+    "title": "Times com mais pódios em Major (all-time)",
+    "entityKind": "team",
+    "answers": [
+      {
+        "rank": 1,
+        "kind": "team",
+        "id": "NAVI",
+        "value": 10,
+        "aliases": [
+          "NAVI",
+          "Natus Vincere"
+        ]
+      },
+      {
+        "rank": 2,
+        "kind": "team",
+        "id": "Virtus.pro",
+        "value": 7,
+        "aliases": [
+          "Virtus.pro"
+        ]
+      },
+      {
+        "rank": 3,
+        "kind": "team",
+        "id": "Astralis",
+        "value": 6,
+        "aliases": [
+          "Astralis"
+        ]
+      },
+      {
+        "rank": 4,
+        "kind": "team",
+        "id": "fnatic",
+        "value": 6,
+        "aliases": [
+          "fnatic",
+          "Fnatic"
+        ]
+      },
+      {
+        "rank": 5,
+        "kind": "team",
+        "id": "NIP",
+        "value": 6,
+        "aliases": [
+          "NIP",
+          "Ninjas in Pyjamas"
+        ]
+      },
+      {
+        "rank": 6,
+        "kind": "team",
+        "id": "FaZe",
+        "value": 5,
+        "aliases": [
+          "FaZe",
+          "FaZe Clan"
+        ]
+      },
+      {
+        "rank": 7,
+        "kind": "team",
+        "id": "Vitality",
+        "value": 4,
+        "aliases": [
+          "Vitality",
+          "Team Vitality"
+        ]
+      },
+      {
+        "rank": 8,
+        "kind": "team",
+        "id": "EnVyUs",
+        "value": 3,
+        "aliases": [
+          "EnVyUs",
+          "Team EnVyUs"
+        ]
+      },
+      {
+        "rank": 9,
+        "kind": "team",
+        "id": "SK",
+        "value": 3,
+        "aliases": [
+          "SK",
+          "SK Gaming"
+        ]
+      },
+      {
+        "rank": 10,
+        "kind": "team",
+        "id": "Spirit",
+        "value": 3,
+        "aliases": [
+          "Spirit",
+          "Team Spirit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "team_titles",
+    "title": "Times com mais títulos de Major (all-time)",
+    "entityKind": "team",
+    "answers": [
+      {
+        "rank": 1,
+        "kind": "team",
+        "id": "Astralis",
+        "value": 4,
+        "aliases": [
+          "Astralis"
+        ]
+      },
+      {
+        "rank": 2,
+        "kind": "team",
+        "id": "fnatic",
+        "value": 3,
+        "aliases": [
+          "fnatic",
+          "Fnatic"
+        ]
+      },
+      {
+        "rank": 3,
+        "kind": "team",
+        "id": "Vitality",
+        "value": 3,
+        "aliases": [
+          "Vitality",
+          "Team Vitality"
+        ]
+      },
+      {
+        "rank": 4,
+        "kind": "team",
+        "id": "NAVI",
+        "value": 2,
+        "aliases": [
+          "NAVI",
+          "Natus Vincere"
+        ]
+      },
+      {
+        "rank": 5,
+        "kind": "team",
+        "id": "Cloud9",
+        "value": 1,
+        "aliases": [
+          "Cloud9"
+        ]
+      },
+      {
+        "rank": 6,
+        "kind": "team",
+        "id": "EnVyUs",
+        "value": 1,
+        "aliases": [
+          "EnVyUs",
+          "Team EnVyUs"
+        ]
+      },
+      {
+        "rank": 7,
+        "kind": "team",
+        "id": "FaZe",
+        "value": 1,
+        "aliases": [
+          "FaZe",
+          "FaZe Clan"
+        ]
+      },
+      {
+        "rank": 8,
+        "kind": "team",
+        "id": "Gambit",
+        "value": 1,
+        "aliases": [
+          "Gambit"
+        ]
+      },
+      {
+        "rank": 9,
+        "kind": "team",
+        "id": "Luminosity",
+        "value": 1,
+        "aliases": [
+          "Luminosity"
+        ]
+      },
+      {
+        "rank": 10,
+        "kind": "team",
+        "id": "NIP",
+        "value": 1,
+        "aliases": [
+          "NIP",
+          "Ninjas in Pyjamas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "team_appearances",
+    "title": "Times com mais presenças em Major",
+    "entityKind": "team",
+    "answers": [
+      {
+        "rank": 1,
+        "kind": "team",
+        "id": "NAVI",
+        "value": 23,
+        "aliases": [
+          "NAVI",
+          "Natus Vincere"
+        ]
+      },
+      {
+        "rank": 2,
+        "kind": "team",
+        "id": "fnatic",
+        "value": 18,
+        "aliases": [
+          "fnatic",
+          "Fnatic"
+        ]
+      },
+      {
+        "rank": 3,
+        "kind": "team",
+        "id": "MOUZ",
+        "value": 17,
+        "aliases": [
+          "MOUZ"
+        ]
+      },
+      {
+        "rank": 4,
+        "kind": "team",
+        "id": "NIP",
+        "value": 17,
+        "aliases": [
+          "NIP",
+          "Ninjas in Pyjamas"
+        ]
+      },
+      {
+        "rank": 5,
+        "kind": "team",
+        "id": "FaZe",
+        "value": 16,
+        "aliases": [
+          "FaZe",
+          "FaZe Clan"
+        ]
+      },
+      {
+        "rank": 6,
+        "kind": "team",
+        "id": "G2",
+        "value": 16,
+        "aliases": [
+          "G2",
+          "G2 Esports"
+        ]
+      },
+      {
+        "rank": 7,
+        "kind": "team",
+        "id": "Virtus.pro",
+        "value": 16,
+        "aliases": [
+          "Virtus.pro"
+        ]
+      },
+      {
+        "rank": 8,
+        "kind": "team",
+        "id": "Liquid",
+        "value": 15,
+        "aliases": [
+          "Liquid",
+          "Team Liquid"
+        ]
+      },
+      {
+        "rank": 9,
+        "kind": "team",
+        "id": "Cloud9",
+        "value": 14,
+        "aliases": [
+          "Cloud9"
+        ]
+      },
+      {
+        "rank": 10,
+        "kind": "team",
+        "id": "Astralis",
+        "value": 11,
+        "aliases": [
+          "Astralis"
+        ]
+      }
+    ]
+  }
+]

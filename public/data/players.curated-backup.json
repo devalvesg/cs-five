@@ -1,0 +1,3180 @@
+[
+  {
+    "id": "device",
+    "realName": "Nicolai Reedtz",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis",
+      "NIP",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "Astralis",
+      "NIP",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "dupreeh",
+    "realName": "Peter Rasmussen",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis",
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "Astralis",
+      "Vitality"
+    ]
+  },
+  {
+    "id": "Xyp9x",
+    "realName": "Andreas Højsleth",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis"
+    ],
+    "teamOrgsRaw": [
+      "Astralis"
+    ]
+  },
+  {
+    "id": "gla1ve",
+    "realName": "Lukas Rossander",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis"
+    ],
+    "teamOrgsRaw": [
+      "Astralis"
+    ]
+  },
+  {
+    "id": "Magisk",
+    "realName": "Emil Reif",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis",
+      "Vitality",
+      "Heroic"
+    ],
+    "teamOrgsRaw": [
+      "Astralis",
+      "Vitality",
+      "Heroic"
+    ]
+  },
+  {
+    "id": "karrigan",
+    "realName": "Finn Andersen",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FaZe",
+      "MOUZ",
+      "Astralis",
+      "Heroic",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "FaZe",
+      "MOUZ",
+      "Astralis",
+      "Heroic",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "cadiaN",
+    "realName": "Casper Møller",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "Liquid"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "Liquid"
+    ]
+  },
+  {
+    "id": "blameF",
+    "realName": "Benjamin Bremer",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Complexity",
+      "Astralis",
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "Complexity",
+      "Astralis",
+      "FaZe"
+    ]
+  },
+  {
+    "id": "stavn",
+    "realName": "Martin Lund",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "TeSeS",
+    "realName": "René Madsen",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "BIG",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "BIG",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "jabbi",
+    "realName": "Jakob Nygaard",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "Astralis",
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "Astralis",
+      "Vitality"
+    ]
+  },
+  {
+    "id": "sjuush",
+    "realName": "Rasmus Beck",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "BIG",
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "BIG",
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "k0nfig",
+    "realName": "Kristian Wienecke",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis",
+      "Complexity",
+      "North"
+    ],
+    "teamOrgsRaw": [
+      "Astralis",
+      "Complexity",
+      "North"
+    ]
+  },
+  {
+    "id": "Kjaerbye",
+    "realName": "Markus Kjærbye",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis",
+      "North",
+      "MIBR"
+    ],
+    "teamOrgsRaw": [
+      "Astralis",
+      "North",
+      "MIBR"
+    ]
+  },
+  {
+    "id": "HooXi",
+    "realName": "Philip Aistrup",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2",
+      "Heroic"
+    ],
+    "teamOrgsRaw": [
+      "G2",
+      "Heroic"
+    ]
+  },
+  {
+    "id": "MSL",
+    "realName": "Mathias Lauridsen",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "North",
+      "Dignitas"
+    ],
+    "teamOrgsRaw": [
+      "North",
+      "Dignitas"
+    ]
+  },
+  {
+    "id": "roeJ",
+    "realName": "Rasmus Stæhr",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "Dignitas"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "Dignitas"
+    ]
+  },
+  {
+    "id": "Bubzkji",
+    "realName": "Lucas Andersen",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis",
+      "MAD Lions"
+    ],
+    "teamOrgsRaw": [
+      "Astralis",
+      "MAD Lions"
+    ]
+  },
+  {
+    "id": "refrezh",
+    "realName": "Nikolaj Christensen",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "BIG"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "BIG"
+    ]
+  },
+  {
+    "id": "Staehr",
+    "realName": "Victor Staehr",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Astralis",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "Astralis",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "f0rest",
+    "realName": "Patrik Lindberg",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "Dignitas"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "Dignitas"
+    ]
+  },
+  {
+    "id": "GeT_RiGhT",
+    "realName": "Christopher Alesund",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "Dignitas"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "Dignitas"
+    ]
+  },
+  {
+    "id": "JW",
+    "realName": "Jesper Wecksell",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "NIP"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "NIP"
+    ]
+  },
+  {
+    "id": "KRIMZ",
+    "realName": "Freddy Johansson",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic"
+    ],
+    "teamOrgsRaw": [
+      "fnatic"
+    ]
+  },
+  {
+    "id": "flusha",
+    "realName": "Robin Rönnquist",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "GODSENT"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "GODSENT"
+    ]
+  },
+  {
+    "id": "olofmeister",
+    "realName": "Olof Kajbjer",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "FaZe"
+    ]
+  },
+  {
+    "id": "pronax",
+    "realName": "Markus Wallsten",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "GODSENT"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "GODSENT"
+    ]
+  },
+  {
+    "id": "friberg",
+    "realName": "Adam Friberg",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP"
+    ],
+    "teamOrgsRaw": [
+      "NIP"
+    ]
+  },
+  {
+    "id": "Xizt",
+    "realName": "Richard Landström",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "fnatic",
+      "Dignitas"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "fnatic",
+      "Dignitas"
+    ]
+  },
+  {
+    "id": "dennis",
+    "realName": "Dennis Edman",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "NIP"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "NIP"
+    ]
+  },
+  {
+    "id": "twist",
+    "realName": "Simon Eliasson",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "NIP"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "NIP"
+    ]
+  },
+  {
+    "id": "Brollan",
+    "realName": "Ludvig Brolin",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "MOUZ",
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "MOUZ",
+      "Vitality"
+    ]
+  },
+  {
+    "id": "REZ",
+    "realName": "Fredrik Sterner",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP"
+    ],
+    "teamOrgsRaw": [
+      "NIP"
+    ]
+  },
+  {
+    "id": "hampus",
+    "realName": "Hampus Poser",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "Plopski",
+    "realName": "Jonas Heuer Adamczyk",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "Heroic"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "Heroic"
+    ]
+  },
+  {
+    "id": "draken",
+    "realName": "William Sundin",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "Heroic"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "Heroic"
+    ]
+  },
+  {
+    "id": "Golden",
+    "realName": "Maikil Selim",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic"
+    ],
+    "teamOrgsRaw": [
+      "fnatic"
+    ]
+  },
+  {
+    "id": "Lekr0",
+    "realName": "Jonas Olofsson",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "fnatic"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "fnatic"
+    ]
+  },
+  {
+    "id": "ZywOo",
+    "realName": "Mathieu Herbaut",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "Vitality"
+    ]
+  },
+  {
+    "id": "apEX",
+    "realName": "Dan Madesclaire",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Vitality",
+      "EnVyUs",
+      "Titan",
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "Vitality",
+      "EnVyUs",
+      "Titan",
+      "G2"
+    ]
+  },
+  {
+    "id": "shox",
+    "realName": "Richard Papillon",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2",
+      "Vitality",
+      "Titan",
+      "VeryGames"
+    ],
+    "teamOrgsRaw": [
+      "G2",
+      "Vitality",
+      "Titan",
+      "VeryGames"
+    ]
+  },
+  {
+    "id": "kennyS",
+    "realName": "Kenny Schrub",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Titan",
+      "EnVyUs",
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "Titan",
+      "EnVyUs",
+      "G2"
+    ]
+  },
+  {
+    "id": "NBK",
+    "realName": "Nathan Schmitt",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2",
+      "EnVyUs",
+      "Vitality",
+      "OG",
+      "VeryGames"
+    ],
+    "teamOrgsRaw": [
+      "G2",
+      "EnVyUs",
+      "Vitality",
+      "OG",
+      "VeryGames"
+    ]
+  },
+  {
+    "id": "Happy",
+    "realName": "Vincent Schopenhauer",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "EnVyUs",
+      "Titan",
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "EnVyUs",
+      "Titan",
+      "G2"
+    ]
+  },
+  {
+    "id": "RpK",
+    "realName": "Cédric Guipouy",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2",
+      "Vitality",
+      "Titan",
+      "VeryGames"
+    ],
+    "teamOrgsRaw": [
+      "G2",
+      "Vitality",
+      "Titan",
+      "VeryGames"
+    ]
+  },
+  {
+    "id": "kioShiMa",
+    "realName": "Fabien Fiey",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "EnVyUs",
+      "FaZe",
+      "MIBR"
+    ],
+    "teamOrgsRaw": [
+      "EnVyUs",
+      "FaZe",
+      "MIBR"
+    ]
+  },
+  {
+    "id": "ScreaM",
+    "realName": "Adil Benrlitom",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Titan",
+      "G2",
+      "EnVyUs"
+    ],
+    "teamOrgsRaw": [
+      "Titan",
+      "G2",
+      "EnVyUs"
+    ]
+  },
+  {
+    "id": "SmithZz",
+    "realName": "Édouard Dubourdeaux",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "EnVyUs",
+      "G2",
+      "Titan",
+      "VeryGames"
+    ],
+    "teamOrgsRaw": [
+      "EnVyUs",
+      "G2",
+      "Titan",
+      "VeryGames"
+    ]
+  },
+  {
+    "id": "Ex6TenZ",
+    "realName": "Kévin Droolans",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "VeryGames",
+      "Titan",
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "VeryGames",
+      "Titan",
+      "G2"
+    ]
+  },
+  {
+    "id": "bodyy",
+    "realName": "Alexandre Pianaro",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "G2"
+    ]
+  },
+  {
+    "id": "AmaNEk",
+    "realName": "Ali Saouli",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2",
+      "EG",
+      "OG"
+    ],
+    "teamOrgsRaw": [
+      "G2",
+      "EG",
+      "OG"
+    ]
+  },
+  {
+    "id": "JACKZ",
+    "realName": "Audric Jug",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "G2"
+    ]
+  },
+  {
+    "id": "misutaaa",
+    "realName": "Audric Toledo",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "Vitality"
+    ]
+  },
+  {
+    "id": "Maka",
+    "realName": "Christophe Badawi",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "EnVyUs"
+    ],
+    "teamOrgsRaw": [
+      "EnVyUs"
+    ]
+  },
+  {
+    "id": "FalleN",
+    "realName": "Gabriel Toledo",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "Liquid",
+      "Imperial"
+    ],
+    "teamOrgsRaw": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "Liquid",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "coldzera",
+    "realName": "Marcelo David",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "FaZe",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "FaZe",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "fer",
+    "realName": "Fernando Alvarenga",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "Imperial"
+    ],
+    "teamOrgsRaw": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "TACO",
+    "realName": "Epitácio de Melo",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "Liquid"
+    ],
+    "teamOrgsRaw": [
+      "Luminosity",
+      "SK",
+      "MIBR",
+      "Liquid"
+    ]
+  },
+  {
+    "id": "fnx",
+    "realName": "Lincoln Lau",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Luminosity",
+      "SK",
+      "Imperial"
+    ],
+    "teamOrgsRaw": [
+      "Luminosity",
+      "SK",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "boltz",
+    "realName": "Ricardo Prass",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Immortals",
+      "SK",
+      "MIBR"
+    ],
+    "teamOrgsRaw": [
+      "Immortals",
+      "SK",
+      "MIBR"
+    ]
+  },
+  {
+    "id": "felps",
+    "realName": "João Vasconcellos",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Immortals",
+      "SK",
+      "MIBR",
+      "GODSENT"
+    ],
+    "teamOrgsRaw": [
+      "Immortals",
+      "SK",
+      "MIBR",
+      "GODSENT"
+    ]
+  },
+  {
+    "id": "kscerato",
+    "realName": "Kaike Cerato",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FURIA"
+    ],
+    "teamOrgsRaw": [
+      "FURIA"
+    ]
+  },
+  {
+    "id": "yuurih",
+    "realName": "Yuri Santos",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FURIA"
+    ],
+    "teamOrgsRaw": [
+      "FURIA"
+    ]
+  },
+  {
+    "id": "arT",
+    "realName": "Andrei Piovezan",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FURIA"
+    ],
+    "teamOrgsRaw": [
+      "FURIA"
+    ]
+  },
+  {
+    "id": "chelo",
+    "realName": "Marcelo Cespedes",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MIBR",
+      "FURIA"
+    ],
+    "teamOrgsRaw": [
+      "MIBR",
+      "FURIA"
+    ]
+  },
+  {
+    "id": "saffee",
+    "realName": "Rafael Costa",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "paiN",
+      "FURIA",
+      "Imperial"
+    ],
+    "teamOrgsRaw": [
+      "paiN",
+      "FURIA",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "HEN1",
+    "realName": "Henrique Teles",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Immortals",
+      "MIBR",
+      "Imperial"
+    ],
+    "teamOrgsRaw": [
+      "Immortals",
+      "MIBR",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "skullz",
+    "realName": "Felipe Medeiros",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "paiN",
+      "Liquid"
+    ],
+    "teamOrgsRaw": [
+      "paiN",
+      "Liquid"
+    ]
+  },
+  {
+    "id": "electronic",
+    "realName": "Denis Sharipov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "NAVI",
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "flamie",
+    "realName": "Egor Vasilyev",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "Perfecto",
+    "realName": "Ilya Zalutskiy",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "Boombl4",
+    "realName": "Kirill Mikhailov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI",
+      "Cloud9",
+      "Spirit"
+    ],
+    "teamOrgsRaw": [
+      "NAVI",
+      "Cloud9",
+      "Spirit"
+    ]
+  },
+  {
+    "id": "sh1ro",
+    "realName": "Dmitry Sokolov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Gambit",
+      "Cloud9",
+      "Spirit"
+    ],
+    "teamOrgsRaw": [
+      "Gambit",
+      "Cloud9",
+      "Spirit"
+    ]
+  },
+  {
+    "id": "Ax1Le",
+    "realName": "Sergey Rykhtorov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Gambit",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "Gambit",
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "interz",
+    "realName": "Timofey Yakushin",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Gambit",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "Gambit",
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "jame",
+    "realName": "Dzhami Ali",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Virtus.pro",
+      "Outsiders",
+      "Spirit"
+    ],
+    "teamOrgsRaw": [
+      "Virtus.pro",
+      "Outsiders",
+      "Spirit"
+    ]
+  },
+  {
+    "id": "magixx",
+    "realName": "Vladislav Bobrov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "donk",
+    "realName": "Danil Kryshkovets",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Spirit"
+    ],
+    "teamOrgsRaw": [
+      "Spirit"
+    ]
+  },
+  {
+    "id": "chopper",
+    "realName": "Leonid Vishnyakov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Spirit"
+    ],
+    "teamOrgsRaw": [
+      "Spirit"
+    ]
+  },
+  {
+    "id": "m0NESY",
+    "realName": "Ilya Osipov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI",
+      "G2",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "NAVI",
+      "G2",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "nafany",
+    "realName": "Vladislav Gorshkov",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Gambit",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "Gambit",
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "s1mple",
+    "realName": "Oleksandr Kostyliev",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI",
+      "Liquid",
+      "FlipSid3",
+      "HellRaisers"
+    ],
+    "teamOrgsRaw": [
+      "NAVI",
+      "Liquid",
+      "FlipSid3",
+      "HellRaisers"
+    ]
+  },
+  {
+    "id": "b1t",
+    "realName": "Valeriy Vakhovskiy",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "Zeus",
+    "realName": "Danylo Teslenko",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI",
+      "Gambit",
+      "HellRaisers"
+    ],
+    "teamOrgsRaw": [
+      "NAVI",
+      "Gambit",
+      "HellRaisers"
+    ]
+  },
+  {
+    "id": "sdy",
+    "realName": "Viktor Orudzhev",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "Outsiders",
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "Outsiders",
+      "NAVI"
+    ]
+  },
+  {
+    "id": "w0nderful",
+    "realName": "Ihor Zhdanov",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "zont1x",
+    "realName": "Andrii Hrytsenko",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Spirit"
+    ],
+    "teamOrgsRaw": [
+      "Spirit"
+    ]
+  },
+  {
+    "id": "allu",
+    "realName": "Aleksi Jalli",
+    "countryCode": "FI",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "ENCE",
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "ENCE",
+      "FaZe"
+    ]
+  },
+  {
+    "id": "Aleksib",
+    "realName": "Aleksi Virolainen",
+    "countryCode": "FI",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "ENCE",
+      "OG",
+      "NAVI",
+      "G2",
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "ENCE",
+      "OG",
+      "NAVI",
+      "G2",
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "sergej",
+    "realName": "Jere Salo",
+    "countryCode": "FI",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "ENCE"
+    ],
+    "teamOrgsRaw": [
+      "ENCE"
+    ]
+  },
+  {
+    "id": "suNny",
+    "realName": "Miikka Kemppi",
+    "countryCode": "FI",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "ENCE",
+      "BIG"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "ENCE",
+      "BIG"
+    ]
+  },
+  {
+    "id": "Jamppi",
+    "realName": "Elias Olkkonen",
+    "countryCode": "FI",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "ENCE",
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "ENCE",
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "Jimpphat",
+    "realName": "Jimi Salo",
+    "countryCode": "FI",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "xseveN",
+    "realName": "Aleksi Ojala",
+    "countryCode": "FI",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "ENCE"
+    ],
+    "teamOrgsRaw": [
+      "ENCE"
+    ]
+  },
+  {
+    "id": "NEO",
+    "realName": "Filip Kubski",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Virtus.pro"
+    ],
+    "teamOrgsRaw": [
+      "Virtus.pro"
+    ]
+  },
+  {
+    "id": "TaZ",
+    "realName": "Wiktor Wojtas",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Virtus.pro"
+    ],
+    "teamOrgsRaw": [
+      "Virtus.pro"
+    ]
+  },
+  {
+    "id": "pashaBiceps",
+    "realName": "Jarosław Jarząbkowski",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Virtus.pro"
+    ],
+    "teamOrgsRaw": [
+      "Virtus.pro"
+    ]
+  },
+  {
+    "id": "Snax",
+    "realName": "Janusz Pogorzelski",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Virtus.pro",
+      "MOUZ",
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "Virtus.pro",
+      "MOUZ",
+      "G2"
+    ]
+  },
+  {
+    "id": "byali",
+    "realName": "Paweł Bieliński",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Virtus.pro"
+    ],
+    "teamOrgsRaw": [
+      "Virtus.pro"
+    ]
+  },
+  {
+    "id": "MICHU",
+    "realName": "Michał Müller",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "Complexity"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "Complexity"
+    ]
+  },
+  {
+    "id": "dycha",
+    "realName": "Paweł Dycha",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "Apeks"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "Apeks"
+    ]
+  },
+  {
+    "id": "siuhy",
+    "realName": "Kamil Szkaradek",
+    "countryCode": "PL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "stewie2k",
+    "realName": "Jake Yip",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Cloud9",
+      "SK",
+      "MIBR",
+      "Liquid",
+      "EG"
+    ],
+    "teamOrgsRaw": [
+      "Cloud9",
+      "SK",
+      "MIBR",
+      "Liquid",
+      "EG"
+    ]
+  },
+  {
+    "id": "EliGE",
+    "realName": "Jonathan Jablonowski",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Liquid",
+      "Complexity",
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "Liquid",
+      "Complexity",
+      "FaZe"
+    ]
+  },
+  {
+    "id": "nitr0",
+    "realName": "Nicholas Cannella",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Liquid",
+      "FaZe",
+      "100T"
+    ],
+    "teamOrgsRaw": [
+      "Liquid",
+      "FaZe",
+      "100T"
+    ]
+  },
+  {
+    "id": "Brehze",
+    "realName": "Vincent Hoang",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "EG",
+      "Liquid",
+      "NRG"
+    ],
+    "teamOrgsRaw": [
+      "EG",
+      "Liquid",
+      "NRG"
+    ]
+  },
+  {
+    "id": "Ethan",
+    "realName": "Ethan Arnold",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "EG",
+      "NRG",
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "EG",
+      "NRG",
+      "FaZe"
+    ]
+  },
+  {
+    "id": "tarik",
+    "realName": "Tarik Celik",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Cloud9",
+      "OpTic",
+      "MIBR",
+      "EG"
+    ],
+    "teamOrgsRaw": [
+      "Cloud9",
+      "OpTic",
+      "MIBR",
+      "EG"
+    ]
+  },
+  {
+    "id": "autimatic",
+    "realName": "Timothy Ta",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Cloud9",
+      "Gen.G",
+      "TSM"
+    ],
+    "teamOrgsRaw": [
+      "Cloud9",
+      "Gen.G",
+      "TSM"
+    ]
+  },
+  {
+    "id": "RUSH",
+    "realName": "William Wierzba",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Cloud9",
+      "Complexity"
+    ],
+    "teamOrgsRaw": [
+      "Cloud9",
+      "Complexity"
+    ]
+  },
+  {
+    "id": "n0thing",
+    "realName": "Jordan Gilbert",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "Skadoodle",
+    "realName": "Tyler Latham",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Cloud9",
+      "TSM",
+      "iBUYPOWER"
+    ],
+    "teamOrgsRaw": [
+      "Cloud9",
+      "TSM",
+      "iBUYPOWER"
+    ]
+  },
+  {
+    "id": "floppy",
+    "realName": "Ricky Kemery",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Complexity",
+      "Liquid"
+    ],
+    "teamOrgsRaw": [
+      "Complexity",
+      "Liquid"
+    ]
+  },
+  {
+    "id": "oSee",
+    "realName": "Josh Ohm",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Liquid"
+    ],
+    "teamOrgsRaw": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "FNS",
+    "realName": "Pujan Mehta",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NRG",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "NRG",
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "NAF",
+    "realName": "Keith Markovic",
+    "countryCode": "CA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Liquid",
+      "Renegades"
+    ],
+    "teamOrgsRaw": [
+      "Liquid",
+      "Renegades"
+    ]
+  },
+  {
+    "id": "Twistzz",
+    "realName": "Russel Van Dulken",
+    "countryCode": "CA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Liquid",
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "Liquid",
+      "FaZe"
+    ]
+  },
+  {
+    "id": "daps",
+    "realName": "Damian Steele",
+    "countryCode": "CA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NRG",
+      "Gen.G"
+    ],
+    "teamOrgsRaw": [
+      "NRG",
+      "Gen.G"
+    ]
+  },
+  {
+    "id": "jks",
+    "realName": "Justin Savage",
+    "countryCode": "AU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Renegades",
+      "100T",
+      "Complexity",
+      "G2",
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "Renegades",
+      "100T",
+      "Complexity",
+      "G2",
+      "FaZe"
+    ]
+  },
+  {
+    "id": "AZR",
+    "realName": "Aaron Ward",
+    "countryCode": "AU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Renegades",
+      "100T"
+    ],
+    "teamOrgsRaw": [
+      "Renegades",
+      "100T"
+    ]
+  },
+  {
+    "id": "Liazz",
+    "realName": "Jay Liaz",
+    "countryCode": "AU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Renegades",
+      "100T"
+    ],
+    "teamOrgsRaw": [
+      "Renegades",
+      "100T"
+    ]
+  },
+  {
+    "id": "NiKo",
+    "realName": "Nikola Kovač",
+    "countryCode": "BA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "FaZe",
+      "G2",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "FaZe",
+      "G2",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "huNter-",
+    "realName": "Nemanja Kovač",
+    "countryCode": "BA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "G2",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "GuardiaN",
+    "realName": "Ladislav Kovács",
+    "countryCode": "SK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI",
+      "FaZe",
+      "Virtus.pro"
+    ],
+    "teamOrgsRaw": [
+      "NAVI",
+      "FaZe",
+      "Virtus.pro"
+    ]
+  },
+  {
+    "id": "frozen",
+    "realName": "David Čerňanský",
+    "countryCode": "SK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "ropz",
+    "realName": "Robin Kool",
+    "countryCode": "EE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "FaZe",
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "FaZe",
+      "Vitality"
+    ]
+  },
+  {
+    "id": "rain",
+    "realName": "Håvard Nygaard",
+    "countryCode": "NO",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "FaZe"
+    ]
+  },
+  {
+    "id": "jkaem",
+    "realName": "Joakim Myrbostad",
+    "countryCode": "NO",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "TSM",
+      "Heroic",
+      "Dignitas"
+    ],
+    "teamOrgsRaw": [
+      "TSM",
+      "Heroic",
+      "Dignitas"
+    ]
+  },
+  {
+    "id": "tabseN",
+    "realName": "Johannes Wagner",
+    "countryCode": "DE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG"
+    ],
+    "teamOrgsRaw": [
+      "BIG"
+    ]
+  },
+  {
+    "id": "syrsoN",
+    "realName": "Florian Rische",
+    "countryCode": "DE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG"
+    ],
+    "teamOrgsRaw": [
+      "BIG"
+    ]
+  },
+  {
+    "id": "tiziaN",
+    "realName": "Tizian Feldbusch",
+    "countryCode": "DE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG"
+    ],
+    "teamOrgsRaw": [
+      "BIG"
+    ]
+  },
+  {
+    "id": "k1to",
+    "realName": "Josef Glaburda",
+    "countryCode": "DE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG",
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "BIG",
+      "Vitality"
+    ]
+  },
+  {
+    "id": "faveN",
+    "realName": "Josef Baumann",
+    "countryCode": "DE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG"
+    ],
+    "teamOrgsRaw": [
+      "BIG"
+    ]
+  },
+  {
+    "id": "nex",
+    "realName": "Nils Gruhne",
+    "countryCode": "DE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG"
+    ],
+    "teamOrgsRaw": [
+      "BIG"
+    ]
+  },
+  {
+    "id": "XANTARES",
+    "realName": "İsmailcan Dörtkardeş",
+    "countryCode": "TR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Space Soldiers",
+      "BIG",
+      "Eternal Fire"
+    ],
+    "teamOrgsRaw": [
+      "Space Soldiers",
+      "BIG",
+      "Eternal Fire"
+    ]
+  },
+  {
+    "id": "woxic",
+    "realName": "Özgür Eker",
+    "countryCode": "TR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "HellRaisers",
+      "Eternal Fire"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "HellRaisers",
+      "Eternal Fire"
+    ]
+  },
+  {
+    "id": "MAJ3R",
+    "realName": "Engin Küpeli",
+    "countryCode": "TR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Space Soldiers",
+      "Eternal Fire"
+    ],
+    "teamOrgsRaw": [
+      "Space Soldiers",
+      "Eternal Fire"
+    ]
+  },
+  {
+    "id": "Calyx",
+    "realName": "Buğra Arkın",
+    "countryCode": "TR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Space Soldiers",
+      "Eternal Fire"
+    ],
+    "teamOrgsRaw": [
+      "Space Soldiers",
+      "Eternal Fire"
+    ]
+  },
+  {
+    "id": "imoRR",
+    "realName": "Ozan Çolak",
+    "countryCode": "TR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Space Soldiers"
+    ],
+    "teamOrgsRaw": [
+      "Space Soldiers"
+    ]
+  },
+  {
+    "id": "Spinx",
+    "realName": "Lotan Giladi",
+    "countryCode": "IL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "ENCE",
+      "Vitality",
+      "Falcons"
+    ],
+    "teamOrgsRaw": [
+      "ENCE",
+      "Vitality",
+      "Falcons"
+    ]
+  },
+  {
+    "id": "flameZ",
+    "realName": "Shahar Shushan",
+    "countryCode": "IL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Vitality",
+      "OG"
+    ],
+    "teamOrgsRaw": [
+      "Vitality",
+      "OG"
+    ]
+  },
+  {
+    "id": "xertioN",
+    "realName": "Dan Girshevich",
+    "countryCode": "IL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "Hobbit",
+    "realName": "Abay Khasenov",
+    "countryCode": "KZ",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Gambit",
+      "Spirit",
+      "HellRaisers"
+    ],
+    "teamOrgsRaw": [
+      "Gambit",
+      "Spirit",
+      "HellRaisers"
+    ]
+  },
+  {
+    "id": "AdreN",
+    "realName": "Dauren Kystaubayev",
+    "countryCode": "KZ",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Gambit",
+      "Virtus.pro"
+    ],
+    "teamOrgsRaw": [
+      "Gambit",
+      "Virtus.pro"
+    ]
+  },
+  {
+    "id": "broky",
+    "realName": "Helvijs Saukants",
+    "countryCode": "LV",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FaZe"
+    ],
+    "teamOrgsRaw": [
+      "FaZe"
+    ]
+  },
+  {
+    "id": "YEKINDAR",
+    "realName": "Mareks Gaļinskis",
+    "countryCode": "LV",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Virtus.pro",
+      "Liquid",
+      "FaZe",
+      "Outsiders"
+    ],
+    "teamOrgsRaw": [
+      "Virtus.pro",
+      "Liquid",
+      "FaZe",
+      "Outsiders"
+    ]
+  },
+  {
+    "id": "nexa",
+    "realName": "Nemanja Isaković",
+    "countryCode": "RS",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2",
+      "OG"
+    ],
+    "teamOrgsRaw": [
+      "G2",
+      "OG"
+    ]
+  },
+  {
+    "id": "jL",
+    "realName": "Justinas Lekavičius",
+    "countryCode": "LT",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "Bymas",
+    "realName": "Aurimas Pipiras",
+    "countryCode": "LT",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FaZe",
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "FaZe",
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "Snappi",
+    "realName": "Marco Pfeiffer",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "ENCE",
+      "Astralis"
+    ],
+    "teamOrgsRaw": [
+      "ENCE",
+      "Astralis"
+    ]
+  },
+  {
+    "id": "valde",
+    "realName": "Valdemar Bjørn Vangså",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "North",
+      "OG",
+      "MAD Lions"
+    ],
+    "teamOrgsRaw": [
+      "North",
+      "OG",
+      "MAD Lions"
+    ]
+  },
+  {
+    "id": "es3tag",
+    "realName": "Patrick Hansen",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Heroic",
+      "Astralis",
+      "Cloud9",
+      "Complexity"
+    ],
+    "teamOrgsRaw": [
+      "Heroic",
+      "Astralis",
+      "Cloud9",
+      "Complexity"
+    ]
+  },
+  {
+    "id": "b0RUP",
+    "realName": "Rasmus Borup",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Sprout",
+      "GamerLegion"
+    ],
+    "teamOrgsRaw": [
+      "Sprout",
+      "GamerLegion"
+    ]
+  },
+  {
+    "id": "nicoodoz",
+    "realName": "Nico Tamjidi",
+    "countryCode": "DK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic"
+    ],
+    "teamOrgsRaw": [
+      "fnatic"
+    ]
+  },
+  {
+    "id": "Maikelele",
+    "realName": "Mikail Bill",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "FaZe",
+      "Space Soldiers"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "FaZe",
+      "Space Soldiers"
+    ]
+  },
+  {
+    "id": "nawwk",
+    "realName": "Tim Jonasson",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NIP",
+      "GamerLegion"
+    ],
+    "teamOrgsRaw": [
+      "NIP",
+      "GamerLegion"
+    ]
+  },
+  {
+    "id": "isak",
+    "realName": "Isak Fahlén",
+    "countryCode": "SE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "GamerLegion",
+      "Astralis"
+    ],
+    "teamOrgsRaw": [
+      "GamerLegion",
+      "Astralis"
+    ]
+  },
+  {
+    "id": "acoR",
+    "realName": "Aurélien Drapier",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Vitality",
+      "MAD Lions",
+      "GamerLegion"
+    ],
+    "teamOrgsRaw": [
+      "Vitality",
+      "MAD Lions",
+      "GamerLegion"
+    ]
+  },
+  {
+    "id": "Lucky",
+    "realName": "Lucas Chastang",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "3DMAX"
+    ],
+    "teamOrgsRaw": [
+      "3DMAX"
+    ]
+  },
+  {
+    "id": "Djoko",
+    "realName": "Bryan Ouedraogo",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "3DMAX"
+    ],
+    "teamOrgsRaw": [
+      "3DMAX"
+    ]
+  },
+  {
+    "id": "Graviti",
+    "realName": "Sebastien Bonin",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "3DMAX"
+    ],
+    "teamOrgsRaw": [
+      "3DMAX"
+    ]
+  },
+  {
+    "id": "Ex3rcice",
+    "realName": "Lucas Quéran",
+    "countryCode": "FR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "3DMAX"
+    ],
+    "teamOrgsRaw": [
+      "3DMAX"
+    ]
+  },
+  {
+    "id": "mezii",
+    "realName": "William Merriman",
+    "countryCode": "GB",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "fnatic",
+      "Vitality"
+    ],
+    "teamOrgsRaw": [
+      "fnatic",
+      "Vitality"
+    ]
+  },
+  {
+    "id": "smooya",
+    "realName": "Owen Butterfield",
+    "countryCode": "GB",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG",
+      "Endpoint"
+    ],
+    "teamOrgsRaw": [
+      "BIG",
+      "Endpoint"
+    ]
+  },
+  {
+    "id": "ALEX",
+    "realName": "Alex McMeekin",
+    "countryCode": "GB",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "Vitality",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "Vitality",
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "VINI",
+    "realName": "Vinicius Figueiredo",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "paiN",
+      "FURIA"
+    ],
+    "teamOrgsRaw": [
+      "paiN",
+      "FURIA"
+    ]
+  },
+  {
+    "id": "drop",
+    "realName": "André Abreu",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "FURIA"
+    ],
+    "teamOrgsRaw": [
+      "FURIA"
+    ]
+  },
+  {
+    "id": "brnz4n",
+    "realName": "Bruno Cassença",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MIBR"
+    ],
+    "teamOrgsRaw": [
+      "MIBR"
+    ]
+  },
+  {
+    "id": "steel",
+    "realName": "Lucas Lopes",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Immortals",
+      "Liquid",
+      "MIBR"
+    ],
+    "teamOrgsRaw": [
+      "Immortals",
+      "Liquid",
+      "MIBR"
+    ]
+  },
+  {
+    "id": "lucas1",
+    "realName": "Lucas Teles",
+    "countryCode": "BR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Immortals",
+      "MIBR",
+      "Imperial"
+    ],
+    "teamOrgsRaw": [
+      "Immortals",
+      "MIBR",
+      "Imperial"
+    ]
+  },
+  {
+    "id": "seized",
+    "realName": "Denis Kostin",
+    "countryCode": "RU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "Edward",
+    "realName": "Ioann Sukhariev",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [
+      "NAVI"
+    ]
+  },
+  {
+    "id": "markeloff",
+    "realName": "Yegor Markelov",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NAVI",
+      "Gambit"
+    ],
+    "teamOrgsRaw": [
+      "NAVI",
+      "Gambit"
+    ]
+  },
+  {
+    "id": "ANGE1",
+    "realName": "Kirill Karasiow",
+    "countryCode": "UA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "HellRaisers"
+    ],
+    "teamOrgsRaw": [
+      "HellRaisers"
+    ]
+  },
+  {
+    "id": "Grim",
+    "realName": "Michael Wince",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Liquid",
+      "Complexity"
+    ],
+    "teamOrgsRaw": [
+      "Liquid",
+      "Complexity"
+    ]
+  },
+  {
+    "id": "Hiko",
+    "realName": "Spencer Martin",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Liquid",
+      "Renegades"
+    ],
+    "teamOrgsRaw": [
+      "Liquid",
+      "Renegades"
+    ]
+  },
+  {
+    "id": "swag",
+    "realName": "Braxton Pierce",
+    "countryCode": "US",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "iBUYPOWER"
+    ],
+    "teamOrgsRaw": [
+      "iBUYPOWER"
+    ]
+  },
+  {
+    "id": "shroud",
+    "realName": "Michael Grzesiek",
+    "countryCode": "CA",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "dexter",
+    "realName": "Aaron Bajric",
+    "countryCode": "AU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "hallzerk",
+    "realName": "Håkon Fjærli",
+    "countryCode": "NO",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Complexity",
+      "FlyQuest"
+    ],
+    "teamOrgsRaw": [
+      "Complexity",
+      "FlyQuest"
+    ]
+  },
+  {
+    "id": "gob b",
+    "realName": "Fatih Dayik",
+    "countryCode": "DE",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "BIG",
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "BIG",
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "xfl0ud",
+    "realName": "Mehmet Özen",
+    "countryCode": "TR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Eternal Fire"
+    ],
+    "teamOrgsRaw": [
+      "Eternal Fire"
+    ]
+  },
+  {
+    "id": "Wicadia",
+    "realName": "Berke Galgonul",
+    "countryCode": "TR",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "Eternal Fire"
+    ],
+    "teamOrgsRaw": [
+      "Eternal Fire"
+    ]
+  },
+  {
+    "id": "oskar",
+    "realName": "David Kaňák",
+    "countryCode": "CZ",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "HellRaisers"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "HellRaisers"
+    ]
+  },
+  {
+    "id": "chrisJ",
+    "realName": "Chris de Jong",
+    "countryCode": "NL",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "STYKO",
+    "realName": "Martin Styk",
+    "countryCode": "SK",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ",
+      "Cloud9"
+    ]
+  },
+  {
+    "id": "torzsi",
+    "realName": "Ádám Torzsás",
+    "countryCode": "HU",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [
+      "MOUZ"
+    ]
+  },
+  {
+    "id": "malbsMd",
+    "realName": "Mario Samayoa",
+    "countryCode": "GT",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "G2"
+    ],
+    "teamOrgsRaw": [
+      "G2"
+    ]
+  },
+  {
+    "id": "CeRq",
+    "realName": "Tarik Cerqueira",
+    "countryCode": "BG",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "NRG",
+      "EG"
+    ],
+    "teamOrgsRaw": [
+      "NRG",
+      "EG"
+    ]
+  },
+  {
+    "id": "BnTeT",
+    "realName": "Hansel Ferdinand",
+    "countryCode": "ID",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "TYLOO",
+      "Gen.G",
+      "ENCE"
+    ],
+    "teamOrgsRaw": [
+      "TYLOO",
+      "Gen.G",
+      "ENCE"
+    ]
+  },
+  {
+    "id": "910",
+    "realName": "Usukhbayar Banzragch",
+    "countryCode": "MN",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "TheMongolz"
+    ],
+    "teamOrgsRaw": [
+      "TheMongolz"
+    ]
+  },
+  {
+    "id": "bLitzZ",
+    "realName": "Garidmagnai Byambasuren",
+    "countryCode": "MN",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "TheMongolz"
+    ],
+    "teamOrgsRaw": [
+      "TheMongolz"
+    ]
+  },
+  {
+    "id": "Techno4K",
+    "realName": "Ayush Batbold",
+    "countryCode": "MN",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "TheMongolz"
+    ],
+    "teamOrgsRaw": [
+      "TheMongolz"
+    ]
+  },
+  {
+    "id": "mzinho",
+    "realName": "Mungunshagai Bilguun",
+    "countryCode": "MN",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "TheMongolz"
+    ],
+    "teamOrgsRaw": [
+      "TheMongolz"
+    ]
+  },
+  {
+    "id": "Senzu",
+    "realName": "Garidmagnai Senzu",
+    "countryCode": "MN",
+    "roles": [],
+    "csgo": true,
+    "cs2": true,
+    "teamsNotable": [
+      "TheMongolz"
+    ],
+    "teamOrgsRaw": [
+      "TheMongolz"
+    ]
+  }
+]

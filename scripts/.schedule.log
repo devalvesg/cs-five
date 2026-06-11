@@ -1,0 +1,7 @@
+
+> cs-5@0.1.0 build:schedule
+> tsx scripts/build-schedule.mjs
+
+✔ 27356 grids únicos colhidos (de 60000 sementes)
+Composição (#países por grid): {"0":15225,"1":9501,"2":2398,"3":232}
+≈ 912 meses de não-repetição (1 grid/dia)

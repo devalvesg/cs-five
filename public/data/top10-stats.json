@@ -1,0 +1,1073 @@
+[
+  {
+    "key": "team_titles",
+    "title": "Times com mais títulos de Major (all-time)",
+    "entries": [
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Astralis"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "fnatic"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Vitality"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NAVI"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NIP"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "FaZe"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Virtus.pro"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "EnVyUs"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "SK"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Spirit"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Gambit"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Luminosity"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Cloud9"
+        },
+        "value": 1
+      }
+    ]
+  },
+  {
+    "key": "team_finals",
+    "title": "Times em mais finais de Major (all-time)",
+    "entries": [
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NAVI"
+        },
+        "value": 6
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NIP"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "FaZe"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Astralis"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "fnatic"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Vitality"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Virtus.pro"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "EnVyUs"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "SK"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Spirit"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Gambit"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Luminosity"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Cloud9"
+        },
+        "value": 1
+      }
+    ]
+  },
+  {
+    "key": "team_podiums",
+    "title": "Times com mais pódios em Major (all-time)",
+    "entries": [
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NAVI"
+        },
+        "value": 10
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Virtus.pro"
+        },
+        "value": 7
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Astralis"
+        },
+        "value": 6
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "fnatic"
+        },
+        "value": 6
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NIP"
+        },
+        "value": 6
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "FaZe"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Vitality"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "EnVyUs"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "SK"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Spirit"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Gambit"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Luminosity"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Cloud9"
+        },
+        "value": 1
+      }
+    ]
+  },
+  {
+    "key": "team_appearances",
+    "title": "Times com mais presenças em Major",
+    "entries": [
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NAVI"
+        },
+        "value": 23
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "fnatic"
+        },
+        "value": 18
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NIP"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "MOUZ"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Virtus.pro"
+        },
+        "value": 16
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "G2"
+        },
+        "value": 16
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "FaZe"
+        },
+        "value": 16
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Liquid"
+        },
+        "value": 15
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Cloud9"
+        },
+        "value": 14
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Astralis"
+        },
+        "value": 11
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Complexity"
+        },
+        "value": 10
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Vitality"
+        },
+        "value": 10
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "FURIA"
+        },
+        "value": 10
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "FlipSid3"
+        },
+        "value": 9
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Spirit"
+        },
+        "value": 9
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "HellRaisers"
+        },
+        "value": 8
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "BIG"
+        },
+        "value": 8
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Renegades"
+        },
+        "value": 7
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Gambit"
+        },
+        "value": 7
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "MIBR"
+        },
+        "value": 7
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "ENCE"
+        },
+        "value": 7
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Heroic"
+        },
+        "value": 7
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "TYLOO"
+        },
+        "value": 6
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "paiN"
+        },
+        "value": 6
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Imperial"
+        },
+        "value": 6
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "SK"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Titan"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Dignitas"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "3DMAX"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "North"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "GamerLegion"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "TheMongolz"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "iBUYPOWER"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "NRG"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "TSM"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Luminosity"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "OpTic"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "OG"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "FlyQuest"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "GODSENT"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Sprout"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Space Soldiers"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "EG"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Eternal Fire"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Apeks"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Falcons"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "VeryGames"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "team",
+          "id": "Immortals"
+        },
+        "value": 1
+      }
+    ]
+  },
+  {
+    "key": "player_titles",
+    "title": "Jogadores com mais títulos de Major (all-time)",
+    "entries": [
+      {
+        "entity": {
+          "kind": "player",
+          "id": "dupreeh"
+        },
+        "value": 5
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "device"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Xyp9x"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "gla1ve"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Magisk"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "apEX"
+        },
+        "value": 4
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "flusha"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "JW"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "pronax"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "ropz"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "ZywOo"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "olofmeister"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "KRIMZ"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Happy"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "kioShiMa"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "FalleN"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "fer"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "coldzera"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "fnx"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "TACO"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "b1t"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "mezii"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "flameZ"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "znajder"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "TaZ"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "NEO"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "pashaBiceps"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Snax"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "byali"
+        },
+        "value": 1
+      }
+    ]
+  },
+  {
+    "key": "player_appearances",
+    "title": "Jogadores com mais presenças em Major",
+    "entries": [
+      {
+        "entity": {
+          "kind": "player",
+          "id": "apEX"
+        },
+        "value": 22
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "karrigan"
+        },
+        "value": 22
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "dupreeh"
+        },
+        "value": 19
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "rain"
+        },
+        "value": 19
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "FalleN"
+        },
+        "value": 19
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "KRIMZ"
+        },
+        "value": 18
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Xyp9x"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "shox"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "device"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Snax"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "EliGE"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "NiKo"
+        },
+        "value": 17
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "olofmeister"
+        },
+        "value": 16
+      }
+    ]
+  },
+  {
+    "key": "player_mvps",
+    "title": "Jogadores com mais prêmios de MVP de Major",
+    "entries": [
+      {
+        "entity": {
+          "kind": "player",
+          "id": "ZywOo"
+        },
+        "value": 3
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "coldzera"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "device"
+        },
+        "value": 2
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "JW"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "pashaBiceps"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "friberg"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Happy"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "olofmeister"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "flusha"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "kennyS"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Kjaerbye"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "tarik"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "Magisk"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "s1mple"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "rain"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "jame"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "jL"
+        },
+        "value": 1
+      },
+      {
+        "entity": {
+          "kind": "player",
+          "id": "donk"
+        },
+        "value": 1
+      }
+    ]
+  }
+]

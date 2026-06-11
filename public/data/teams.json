@@ -1,0 +1,267 @@
+[
+  {
+    "abbr": "100T",
+    "name": "100 Thieves",
+    "logo": "/logos/100T.png"
+  },
+  {
+    "abbr": "3DMAX",
+    "name": "3DMAX",
+    "logo": "/logos/3DMAX.png"
+  },
+  {
+    "abbr": "Apeks",
+    "name": "Apeks",
+    "logo": "/logos/Apeks.png"
+  },
+  {
+    "abbr": "Astralis",
+    "name": "Astralis",
+    "logo": "/logos/Astralis.png"
+  },
+  {
+    "abbr": "BIG",
+    "name": "BIG",
+    "logo": "/logos/BIG.png"
+  },
+  {
+    "abbr": "Cloud9",
+    "name": "Cloud9",
+    "logo": "/logos/Cloud9.png"
+  },
+  {
+    "abbr": "Complexity",
+    "name": "Complexity",
+    "logo": "/logos/Complexity.png"
+  },
+  {
+    "abbr": "Dignitas",
+    "name": "Dignitas",
+    "logo": "/logos/Dignitas.png"
+  },
+  {
+    "abbr": "EG",
+    "name": "Evil Geniuses",
+    "logo": "/logos/EG.png"
+  },
+  {
+    "abbr": "ENCE",
+    "name": "ENCE",
+    "logo": "/logos/ENCE.png"
+  },
+  {
+    "abbr": "EnVyUs",
+    "name": "Team EnVyUs",
+    "logo": "/logos/EnVyUs.png"
+  },
+  {
+    "abbr": "Endpoint",
+    "name": "Endpoint",
+    "logo": "/logos/Endpoint.png"
+  },
+  {
+    "abbr": "Eternal Fire",
+    "name": "Eternal Fire",
+    "logo": "/logos/Eternal_Fire.png"
+  },
+  {
+    "abbr": "FURIA",
+    "name": "FURIA",
+    "logo": "/logos/FURIA.png"
+  },
+  {
+    "abbr": "FaZe",
+    "name": "FaZe Clan",
+    "logo": "/logos/FaZe.png"
+  },
+  {
+    "abbr": "Falcons",
+    "name": "Team Falcons",
+    "logo": "/logos/Falcons.png"
+  },
+  {
+    "abbr": "FlipSid3",
+    "name": "FlipSid3 Tactics",
+    "logo": "/logos/FlipSid3.png"
+  },
+  {
+    "abbr": "FlyQuest",
+    "name": "FlyQuest",
+    "logo": "/logos/FlyQuest.png"
+  },
+  {
+    "abbr": "G2",
+    "name": "G2 Esports",
+    "logo": "/logos/G2.png"
+  },
+  {
+    "abbr": "GODSENT",
+    "name": "GODSENT",
+    "logo": "/logos/GODSENT.png"
+  },
+  {
+    "abbr": "Gambit",
+    "name": "Gambit",
+    "logo": "/logos/Gambit.png"
+  },
+  {
+    "abbr": "GamerLegion",
+    "name": "GamerLegion",
+    "logo": "/logos/GamerLegion.png"
+  },
+  {
+    "abbr": "Gen.G",
+    "name": "Gen.G",
+    "logo": "/logos/Gen_G.png"
+  },
+  {
+    "abbr": "HellRaisers",
+    "name": "HellRaisers",
+    "logo": "/logos/HellRaisers.png"
+  },
+  {
+    "abbr": "Heroic",
+    "name": "Heroic",
+    "logo": "/logos/Heroic.png"
+  },
+  {
+    "abbr": "Immortals",
+    "name": "Immortals",
+    "logo": "/logos/Immortals.png"
+  },
+  {
+    "abbr": "Imperial",
+    "name": "Imperial",
+    "logo": "/logos/Imperial.png"
+  },
+  {
+    "abbr": "Liquid",
+    "name": "Team Liquid",
+    "logo": "/logos/Liquid.png"
+  },
+  {
+    "abbr": "Luminosity",
+    "name": "Luminosity",
+    "logo": "/logos/Luminosity.png"
+  },
+  {
+    "abbr": "MAD Lions",
+    "name": "MAD Lions",
+    "logo": "/logos/MAD_Lions.png"
+  },
+  {
+    "abbr": "MIBR",
+    "name": "MIBR",
+    "logo": "/logos/MIBR.png"
+  },
+  {
+    "abbr": "MOUZ",
+    "name": "MOUZ",
+    "logo": "/logos/MOUZ.png"
+  },
+  {
+    "abbr": "NAVI",
+    "name": "Natus Vincere",
+    "logo": "/logos/NAVI.png"
+  },
+  {
+    "abbr": "NIP",
+    "name": "Ninjas in Pyjamas",
+    "logo": "/logos/NIP.png"
+  },
+  {
+    "abbr": "NRG",
+    "name": "NRG",
+    "logo": "/logos/NRG.png"
+  },
+  {
+    "abbr": "North",
+    "name": "North",
+    "logo": "/logos/North.png"
+  },
+  {
+    "abbr": "OG",
+    "name": "OG",
+    "logo": "/logos/OG.png"
+  },
+  {
+    "abbr": "OpTic",
+    "name": "OpTic Gaming",
+    "logo": "/logos/OpTic.png"
+  },
+  {
+    "abbr": "Renegades",
+    "name": "Renegades",
+    "logo": "/logos/Renegades.png"
+  },
+  {
+    "abbr": "SK",
+    "name": "SK Gaming",
+    "logo": "/logos/SK.png"
+  },
+  {
+    "abbr": "Space Soldiers",
+    "name": "Space Soldiers",
+    "logo": "/logos/Space_Soldiers.png"
+  },
+  {
+    "abbr": "Spirit",
+    "name": "Team Spirit",
+    "logo": "/logos/Spirit.png"
+  },
+  {
+    "abbr": "Sprout",
+    "name": "Sprout",
+    "logo": "/logos/Sprout.png"
+  },
+  {
+    "abbr": "TSM",
+    "name": "Team SoloMid",
+    "logo": "/logos/TSM.png"
+  },
+  {
+    "abbr": "TYLOO",
+    "name": "TYLOO",
+    "logo": "/logos/TYLOO.png"
+  },
+  {
+    "abbr": "TheMongolz",
+    "name": "The Mongolz",
+    "logo": "/logos/TheMongolz.png"
+  },
+  {
+    "abbr": "Titan",
+    "name": "Titan",
+    "logo": "/logos/Titan.png"
+  },
+  {
+    "abbr": "VeryGames",
+    "name": "VeryGames",
+    "logo": "/logos/VeryGames.png"
+  },
+  {
+    "abbr": "Virtus.pro",
+    "name": "Virtus.pro",
+    "logo": "/logos/Virtus_pro.png"
+  },
+  {
+    "abbr": "Vitality",
+    "name": "Team Vitality",
+    "logo": "/logos/Vitality.png"
+  },
+  {
+    "abbr": "fnatic",
+    "name": "Fnatic",
+    "logo": "/logos/fnatic.png"
+  },
+  {
+    "abbr": "iBUYPOWER",
+    "name": "iBUYPOWER",
+    "logo": "/logos/iBUYPOWER.png"
+  },
+  {
+    "abbr": "paiN",
+    "name": "paiN Gaming",
+    "logo": "/logos/paiN.png"
+  }
+]
