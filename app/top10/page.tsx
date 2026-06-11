@@ -6,9 +6,12 @@ import { getTop10ForPuzzle, type Top10Answer, type Top10Puzzle } from "@/lib/top
 import { matchGuess } from "@/lib/top10/match";
 import { getPuzzleNumber } from "@/lib/daily";
 import { loadGame, saveGame, recordResult, loadStats, type Top10Stats } from "@/lib/stats/top10";
-import { teamLogo, teamName, getPlayer, flagSrc, countryLabel, type Player } from "@/lib/data/players";
+import { teamLogo, teamName, getPlayer, flagSrc, countryLabel, searchPlayers, searchTeams, type Player, type Team } from "@/lib/data/players";
 import SiteHeader, { IconButton } from "@/components/SiteHeader";
 import { Wordmark } from "@/components/Brand";
+import ShareCardModal from "@/components/share/ShareCardModal";
+import ShareCard from "@/components/share/ShareCard";
+import { buildTop10CardData } from "@/lib/share/top10-card";
 
 type Flash = "hit" | "miss" | "dupe" | null;
 
@@ -20,7 +23,7 @@ export default function Top10Page() {
   const [flash, setFlash] = useState<Flash>(null);
   const [stats, setStats] = useState<Top10Stats | null>(null);
   const [panel, setPanel] = useState<"none" | "help" | "stats">("none");
-  const [copied, setCopied] = useState(false);
+  const [shareOpen, setShareOpen] = useState(false);
 
   useEffect(() => {
     const saved = loadGame();
@@ -42,27 +45,37 @@ export default function Top10Page() {
 
   function doFlash(k: Flash) { setFlash(k); setTimeout(() => setFlash(null), 600); }
 
-  function submit(e: React.FormEvent) {
-    e.preventDefault();
+  /** Tenta um ou mais textos como palpite; acende a 1ª resposta que casar. */
+  function tryGuess(...candidates: string[]) {
     if (status !== "playing") return;
-    const ans = matchGuess(puzzle!, val);
+    const ans = candidates.map((c) => matchGuess(puzzle!, c)).find(Boolean);
     if (!ans) { doFlash("miss"); return; }
     if (found.includes(ans.id)) { doFlash("dupe"); setVal(""); return; }
     const next = [...found, ans.id];
     setFound(next); setVal(""); doFlash("hit");
     if (next.length === puzzle!.answers.length) { setStatus("won"); setStats(recordResult(true)); }
   }
+
+  function submit(e: React.FormEvent) {
+    e.preventDefault();
+    tryGuess(val);
+  }
   function giveUp() {
     if (status !== "playing") return;
     setStatus("gaveup"); setStats(recordResult(false));
   }
-  async function share() {
-    const lines = puzzle!.answers.map((a) => (found.includes(a.id) ? "🟩" : "⬛")).join("");
-    const txt = `CS-FIVE Top 10 #${getPuzzleNumber()}\n${puzzle!.title}\n${lines} ${found.length}/10`;
-    try { await navigator.clipboard.writeText(txt); setCopied(true); setTimeout(() => setCopied(false), 1800); } catch {}
-  }
 
   const done = status === "won";
+
+  // Sugestões enquanto digita (jogadores OU times, conforme o tema), escondendo os já achados.
+  const q = status === "playing" ? val.trim() : "";
+  const playerSug = q && puzzle.entityKind === "player"
+    ? searchPlayers(q, 6).filter((p) => !found.includes(p.id)) : [];
+  const teamSug = q && puzzle.entityKind === "team"
+    ? searchTeams(q, 6).filter((t) => {
+        const a = matchGuess(puzzle, t.name) ?? matchGuess(puzzle, t.abbr);
+        return !(a && found.includes(a.id));
+      }) : [];
 
   return (
     <Shell
@@ -91,7 +104,7 @@ export default function Top10Page() {
             >
               <span className={`w-7 font-display text-base font-bold ${got ? "text-cs-gold" : "text-cs-muted"}`}>{a.rank}.</span>
               <span className="flex flex-1 items-center">
-                {revealed ? <Entity answer={a} muted={!got} /> : <span className="block h-[18px]" />}
+                {revealed ? <Entity answer={a} muted={!got} /> : <FlagHint answer={a} />}
               </span>
             </div>
           );
@@ -99,35 +112,81 @@ export default function Top10Page() {
       </div>
 
       {status === "playing" ? (
-        <form onSubmit={submit} className="mx-auto mt-8 flex max-w-[440px] flex-col items-center gap-3 sm:flex-row sm:justify-center">
-          <input
-            value={val}
-            onChange={(e) => setVal(e.target.value)}
-            autoFocus
-            placeholder={puzzle.entityKind === "team" ? "Digite o time aqui" : "Digite o jogador aqui"}
-            className={[
-              "h-[46px] w-full rounded-full border-2 bg-[#c9d2dc] px-[18px] text-[16px] font-semibold text-[#1a2230] outline-none transition placeholder:text-[#5b6573] sm:w-[300px]",
-              flash === "miss" ? "border-cs-red shadow-[0_0_0_3px_rgba(207,83,64,.4)] animate-cs-shake"
-                : flash === "hit" ? "border-cs-green shadow-[0_0_0_3px_rgba(79,174,84,.4)]"
-                : flash === "dupe" ? "border-cs-blue shadow-[0_0_0_3px_rgba(74,159,224,.4)]"
-                : "border-[#8b97a6] focus:border-cs-gold focus:shadow-[0_0_0_3px_rgba(224,169,60,0.25)]",
-            ].join(" ")}
-          />
-          <button type="button" onClick={giveUp} className="h-[46px] shrink-0 rounded-full border-2 border-cs-red px-5 font-display text-[15px] font-bold italic text-cs-red transition hover:bg-cs-red hover:text-white">
-            Desistir
-          </button>
-        </form>
+        <div className="mx-auto mt-8 max-w-[440px] space-y-2">
+          <form onSubmit={submit} className="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+            <input
+              value={val}
+              onChange={(e) => setVal(e.target.value)}
+              autoFocus
+              autoComplete="off"
+              placeholder={puzzle.entityKind === "team" ? "Digite o time aqui" : "Digite o jogador aqui"}
+              className={[
+                "h-[46px] w-full rounded-full border-2 bg-[#c9d2dc] px-[18px] text-[16px] font-semibold text-[#1a2230] outline-none transition placeholder:text-[#5b6573] sm:w-[300px]",
+                flash === "miss" ? "border-cs-red shadow-[0_0_0_3px_rgba(207,83,64,.4)] animate-cs-shake"
+                  : flash === "hit" ? "border-cs-green shadow-[0_0_0_3px_rgba(79,174,84,.4)]"
+                  : flash === "dupe" ? "border-cs-blue shadow-[0_0_0_3px_rgba(74,159,224,.4)]"
+                  : "border-[#8b97a6] focus:border-cs-gold focus:shadow-[0_0_0_3px_rgba(224,169,60,0.25)]",
+              ].join(" ")}
+            />
+            <button type="button" onClick={giveUp} className="h-[46px] shrink-0 rounded-full border-2 border-cs-red px-5 font-display text-[15px] font-bold italic text-cs-red transition hover:bg-cs-red hover:text-white">
+              Desistir
+            </button>
+          </form>
+
+          {(playerSug.length > 0 || teamSug.length > 0) && (
+            <ul className="mx-auto max-h-64 max-w-[400px] overflow-auto rounded-lg border border-cs-line bg-cs-surface">
+              {playerSug.map((p) => (
+                <li key={p.id}>
+                  <button onClick={() => tryGuess(p.id)} className="flex w-full items-center gap-3 px-3 py-2 text-left hover:bg-cs-surface2">
+                    <PlayerAvatar player={p} />
+                    <span className="flex flex-1 flex-col leading-tight">
+                      <span className="font-semibold">{p.id}</span>
+                      {p.realName && <span className="text-xs text-cs-muted">{p.realName}</span>}
+                    </span>
+                    {p.countryCode /* eslint-disable-next-line @next/next/no-img-element */ && (
+                      <img src={flagSrc(p.countryCode)} alt={countryLabel(p.countryCode)} className="h-4 w-6 rounded-sm object-cover" />
+                    )}
+                  </button>
+                </li>
+              ))}
+              {teamSug.map((t) => (
+                <li key={t.abbr}>
+                  <button onClick={() => tryGuess(t.name, t.abbr)} className="flex w-full items-center gap-3 px-3 py-2 text-left hover:bg-cs-surface2">
+                    {t.logo /* eslint-disable-next-line @next/next/no-img-element */ && <img src={t.logo} alt={t.name} className="h-7 w-7 object-contain" />}
+                    <span className="font-semibold">{t.name}</span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+          )}
+          {q && playerSug.length === 0 && teamSug.length === 0 && (
+            <p className="text-center text-xs text-cs-muted">
+              Nenhum {puzzle.entityKind === "team" ? "time" : "jogador"} encontrado.
+            </p>
+          )}
+        </div>
       ) : (
         <div className="mx-auto mt-8 flex max-w-[440px] flex-col items-center gap-1.5">
           <span className={`font-display text-xl font-bold ${done ? "text-cs-green" : "text-cs-red"}`}>
             {done ? "Você acertou todos os 10! 🏆" : "Você desistiu."}
           </span>
           <span className="text-[15px] font-bold text-cs-muted">{found.length}/10</span>
-          <button onClick={share} className="mt-3 rounded-full bg-cs-gold px-5 py-2 font-display font-bold text-cs-ink transition hover:bg-cs-goldBright">
-            {copied ? "Copiado!" : "Compartilhar"}
+          <button onClick={() => setShareOpen(true)} className="mt-3 rounded-full bg-cs-gold px-5 py-2 font-display font-bold text-cs-ink transition hover:bg-cs-goldBright">
+            Compartilhar
           </button>
         </div>
       )}
+
+      {shareOpen && (() => {
+        const cardData = buildTop10CardData(puzzle, found);
+        return (
+          <ShareCardModal
+            filename={`cs-five-top10-${cardData.puzzle}`}
+            renderCard={(v) => <ShareCard data={cardData} variant={v} />}
+            onClose={() => setShareOpen(false)}
+          />
+        );
+      })()}
 
       {panel !== "none" && (
         <Overlay onClose={() => setPanel("none")}>
@@ -157,6 +216,16 @@ export default function Top10Page() {
         </Overlay>
       )}
     </Shell>
+  );
+}
+
+/** Slot ainda não descoberto: mostra a bandeira do país como dica (só p/ jogadores). */
+function FlagHint({ answer }: { answer: Top10Answer }) {
+  const code = answer.kind === "player" ? getPlayer(answer.id)?.countryCode : null;
+  if (!code) return <span className="block h-[18px]" />;
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img src={flagSrc(code)} alt={countryLabel(code)} title={countryLabel(code)} className="h-4 w-6 rounded-sm object-cover opacity-90" />
   );
 }
 

@@ -14,7 +14,9 @@ import {
   loadGame, saveGame, recordResult, loadStats, type SavedGame, type GridStats,
 } from "@/lib/stats/grid";
 import { players as allPlayers } from "@/lib/data/players";
-import { buildGridShare } from "@/lib/share/grid";
+import ShareCardModal from "@/components/share/ShareCardModal";
+import GridShareCard from "@/components/share/GridShareCard";
+import { buildGridCardData } from "@/lib/share/grid-card";
 import SiteHeader, { IconButton } from "@/components/SiteHeader";
 import { BrandMark, Wordmark } from "@/components/Brand";
 
@@ -25,7 +27,6 @@ export default function GridPage() {
   );
 
   const [cells, setCells] = useState<Record<string, string>>({});
-  const [revealed, setRevealed] = useState<Record<string, string>>({}); // respostas do "Desistir"
   const [status, setStatus] = useState<SavedGame["status"]>("playing");
   // Jogador escolhido que encaixa em >1 célula: destaca as opções p/ o usuário clicar.
   const [pending, setPending] = useState<{ player: Player; cells: string[] } | null>(null);
@@ -34,7 +35,14 @@ export default function GridPage() {
   const [note, setNote] = useState<string | null>(null);
   const [stats, setStats] = useState<GridStats | null>(null);
   const [panel, setPanel] = useState<"none" | "help" | "stats">("none");
-  const [copied, setCopied] = useState(false);
+  const [shareOpen, setShareOpen] = useState(false);
+
+  // Respostas do "Desistir": derivadas do status (não persistidas), então
+  // reaparecem após recarregar um jogo já encerrado por desistência.
+  const revealed = useMemo<Record<string, string>>(
+    () => (puzzle && status === "gaveup" ? solveRemaining(allPlayers, puzzle, cells) : {}),
+    [puzzle, status, cells]
+  );
 
   // Restaura o jogo do dia.
   useEffect(() => {
@@ -105,17 +113,11 @@ export default function GridPage() {
 
   function giveUp() {
     if (status !== "playing") return;
-    const answers = solveRemaining(allPlayers, puzzle!, cells);
-    setRevealed(answers);
-    setStatus("gaveup");
+    setStatus("gaveup"); // `revealed` é derivado do status (useMemo acima)
     setPending(null);
     setStats(recordResult(false));
   }
 
-  async function share() {
-    const txt = buildGridShare(cells);
-    try { await navigator.clipboard.writeText(txt); setCopied(true); setTimeout(() => setCopied(false), 1800); } catch {}
-  }
 
   return (
     <div className="relative z-[1] min-h-screen">
@@ -239,12 +241,23 @@ export default function GridPage() {
               {status === "won" ? "Grid completo! 🏆" : "Você desistiu."}
             </span>
             <span className="text-[15px] font-bold text-cs-muted">{Object.keys(cells).length}/9 células</span>
-            <button onClick={share} className="mt-3 rounded-full bg-cs-gold px-5 py-2 font-display font-bold text-cs-ink transition hover:bg-cs-goldBright">
-              {copied ? "Copiado!" : "Compartilhar"}
+            <button onClick={() => setShareOpen(true)} className="mt-3 rounded-full bg-cs-gold px-5 py-2 font-display font-bold text-cs-ink transition hover:bg-cs-goldBright">
+              Compartilhar
             </button>
           </div>
         )}
       </main>
+
+      {shareOpen && puzzle && (() => {
+        const cardData = buildGridCardData(puzzle, cells);
+        return (
+          <ShareCardModal
+            filename={`cs-five-grid-${cardData.puzzle}`}
+            renderCard={(v) => <GridShareCard data={cardData} variant={v} />}
+            onClose={() => setShareOpen(false)}
+          />
+        );
+      })()}
 
       {panel !== "none" && (
         <Overlay onClose={() => setPanel("none")}>
