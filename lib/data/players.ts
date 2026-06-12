@@ -43,6 +43,14 @@ export const COUNTRIES: Record<string, { name: string; flag: string }> = {
   HU: { name: "Hungria", flag: "🇭🇺" }, GT: { name: "Guatemala", flag: "🇬🇹" },
   BG: { name: "Bulgária", flag: "🇧🇬" }, ID: { name: "Indonésia", flag: "🇮🇩" },
   MN: { name: "Mongólia", flag: "🇲🇳" }, CN: { name: "China", flag: "🇨🇳" },
+  ES: { name: "Espanha", flag: "🇪🇸" }, MK: { name: "Macedônia do Norte", flag: "🇲🇰" },
+  RO: { name: "Romênia", flag: "🇷🇴" }, KR: { name: "Coreia do Sul", flag: "🇰🇷" },
+  PS: { name: "Palestina", flag: "🇵🇸" }, BY: { name: "Belarus", flag: "🇧🇾" },
+  PT: { name: "Portugal", flag: "🇵🇹" }, UY: { name: "Uruguai", flag: "🇺🇾" },
+  AR: { name: "Argentina", flag: "🇦🇷" }, NZ: { name: "Nova Zelândia", flag: "🇳🇿" },
+  ME: { name: "Montenegro", flag: "🇲🇪" }, CL: { name: "Chile", flag: "🇨🇱" },
+  JO: { name: "Jordânia", flag: "🇯🇴" }, ZA: { name: "África do Sul", flag: "🇿🇦" },
+  XK: { name: "Kosovo", flag: "🇽🇰" },
 };
 export const countryLabel = (code: string): string => COUNTRIES[code]?.name ?? code;
 export const countryFlag = (code: string): string => COUNTRIES[code]?.flag ?? "🏳️";
