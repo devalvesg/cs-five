@@ -265,11 +265,9 @@ function Entity({ answer, muted }: { answer: Top10Answer; muted: boolean }) {
   );
 }
 
+// Top 10 fica "só com nomes": avatar é sempre as iniciais (ignora player.photo
+// de propósito, mesmo agora que o dataset tem fotos — decisão de produto).
 function PlayerAvatar({ player }: { player?: Player }) {
-  if (player?.photo) {
-    // eslint-disable-next-line @next/next/no-img-element
-    return <img src={player.photo} alt={player.id} className="h-7 w-7 rounded-full object-cover" />;
-  }
   return (
     <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-cs-surface text-[10px] font-bold text-cs-muted">
       {(player?.id ?? "?").slice(0, 2).toUpperCase()}

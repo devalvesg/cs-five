@@ -78,6 +78,15 @@ export async function fetchHtml(url, marker = "body", { timeoutMs = 45000 } = {}
   return (await evaluate("document.documentElement.outerHTML")) || "";
 }
 
+/** Avalia uma expressão (que pode retornar Promise) NO contexto da página atual.
+ * Útil p/ baixar imagens via fetch do próprio site (passa o Cloudflare/CDN que
+ * bloqueia fetch externo). Retorna o valor resolvido por valor. */
+export async function evalInPage(expression) {
+  await ensureBrowser();
+  const r = await send("Runtime.evaluate", { expression, returnByValue: true, awaitPromise: true });
+  return r.result?.result?.value;
+}
+
 export async function closeBrowser() {
   try { ws?.close(); } catch { /* noop */ }
   try { proc?.kill(); } catch { /* noop */ }

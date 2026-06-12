@@ -1,0 +1,2776 @@
+[
+  {
+    "id": "team_OG",
+    "title": "Já jogou pela OG",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "flameZ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nexa",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "bodyy",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NBK-",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_FlyQuest",
+    "title": "Já jogou pela FlyQuest",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "CeRq",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Liazz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dexter",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "broky",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "TeSeS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_fnatic",
+    "title": "Já jogou pela Fnatic",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_NAVI",
+    "title": "Já jogou pela Natus Vincere",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "huNter-",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_iBUYPOWER",
+    "title": "Já jogou pela iBUYPOWER",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "steel",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "flameZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Skadoodle",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "swag",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "frozen",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Cloud9",
+    "title": "Já jogou pela Cloud9",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "stewie2k",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "tarik",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "flusha",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "award_mvp_major",
+    "title": "Já foi MVP de um Major",
+    "family": "award",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "yuurih",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Brehze",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "huNter-",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "CeRq",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ZywOo",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_HellRaisers",
+    "title": "Já jogou pela HellRaisers",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Hobbit",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "stavn",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_FURIA",
+    "title": "Já jogou pela FURIA",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "yuurih",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "kscerato",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "flameZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Sprout",
+    "title": "Já jogou pela Sprout",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Staehr",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "w0nderful",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "AZR",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jame",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dycha",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "oskar",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_MAD Lions",
+    "title": "Já jogou pela MAD Lions",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "sjuush",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "roeJ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "acoR",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "HooXi",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jL",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_OpTic",
+    "title": "Já jogou pela OpTic Gaming",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "TeSeS",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "stewie2k",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Imperial",
+    "title": "Já jogou pela Imperial",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nexa",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "chelo",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Spinx",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "boltz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Gambit",
+    "title": "Já jogou pela Gambit",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Ax1Le",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Hobbit",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "AdreN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Zeus",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_100T",
+    "title": "Já jogou pela 100 Thieves",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "AZR",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Liazz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jkaem",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Endpoint",
+    "title": "Já jogou pela Endpoint",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NertZ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "flameZ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FL1T",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "YEKINDAR",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jabbi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "mezii",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Liquid",
+    "title": "Já jogou pela Team Liquid",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Complexity",
+    "title": "Já jogou pela Complexity",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "k0nfig",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "broky",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ZywOo",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_MOUZ",
+    "title": "Já jogou pela MOUZ",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "frozen",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "stavn",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Spinx",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Eternal Fire",
+    "title": "Já jogou pela Eternal Fire",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "XANTARES",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ISSAA",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "MAJ3R",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Wicadia",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jottAAA",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_TYLOO",
+    "title": "Já jogou pela TYLOO",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "somebody",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "bondik",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "BnTeT",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "stewie2k",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "kennyS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_FaZe",
+    "title": "Já jogou pela FaZe Clan",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "woxic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_FlipSid3",
+    "title": "Já jogou pela FlipSid3 Tactics",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "seized",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Hobbit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_EnVyUs",
+    "title": "Já jogou pela Team EnVyUs",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "kscerato",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "kennyS",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "stavn",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "tarik",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Luminosity",
+    "title": "Já jogou pela Luminosity",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "yuurih",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "frozen",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_TSM",
+    "title": "Já jogou pela Team SoloMid",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "frozen",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "cajunb",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Virtus.pro",
+    "title": "Já jogou pela Virtus.pro",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "w0nderful",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Ethan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "mezii",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jame",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "GuardiaN",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_GODSENT",
+    "title": "Já jogou pela GODSENT",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "flusha",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "w0nderful",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "TACO",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Renegades",
+    "title": "Já jogou pela Renegades",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jkaem",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Liazz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dexter",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_3DMAX",
+    "title": "Já jogou pela 3DMAX",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "broky",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "bodyy",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Lucky",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "GuardiaN",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Immortals",
+    "title": "Já jogou pela Immortals",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "boltz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "lucas1",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "felps",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "kNgV-",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "HEN1",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "fnx",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Spinx",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Spirit",
+    "title": "Já jogou pela Team Spirit",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "donk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "w0nderful",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "chopper",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_TheMongolz",
+    "title": "Já jogou pela The Mongolz",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "bLitz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "mzinho",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ANNIHILATION",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "910",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "stavn",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Senzu",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "shox",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Apeks",
+    "title": "Já jogou pela Apeks",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "shox",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jkaem",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ZywOo",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "STYKO",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jL",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dennis",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "nawwk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Heroic",
+    "title": "Já jogou pela Heroic",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "chrisJ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "stavn",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tabseN",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_ENCE",
+    "title": "Já jogou pela ENCE",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ZywOo",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "kennyS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "TeSeS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Spinx",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_BIG",
+    "title": "Já jogou pela BIG",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "blameF",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tabseN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "XANTARES",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "broky",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ZywOo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Dignitas",
+    "title": "Já jogou pela Dignitas",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "f0rest",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "kscerato",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_paiN",
+    "title": "Já jogou pela paiN Gaming",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "dgt",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "chelo",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "snow",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "biguzera",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nqz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "saffee",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "broky",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_NIP",
+    "title": "Já jogou pela Ninjas in Pyjamas",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Brehze",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "flusha",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "stavn",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_VeryGames",
+    "title": "Já jogou pela VeryGames",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Ex6TenZ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "NBK-",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "kennyS",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "SmithZz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "RpK",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "shox",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Falcons",
+    "title": "Já jogou pela Team Falcons",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "NAF",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Spinx",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "flusha",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "TACO",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_North",
+    "title": "Já jogou pela North",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "aizy",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "cajunb",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Kjaerbye",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "k0nfig",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_NRG",
+    "title": "Já jogou pela NRG",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "huNter-",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tarik",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "CeRq",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tabseN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brehze",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Ethan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Space Soldiers",
+    "title": "Já jogou pela Space Soldiers",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Calyx",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "XANTARES",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "MAJ3R",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_G2",
+    "title": "Já jogou pela G2 Esports",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "TeSeS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_GamerLegion",
+    "title": "Já jogou pela GamerLegion",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "mezii",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "iM",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "siuhy",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dennis",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_EG",
+    "title": "Já jogou pela Evil Geniuses",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "CeRq",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "stewie2k",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Ethan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "stanislaw",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brehze",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tarik",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_SK",
+    "title": "Já jogou pela SK Gaming",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "YEKINDAR",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "yuurih",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Ax1Le",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Titan",
+    "title": "Já jogou pela Titan",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "kennyS",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "shox",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "NBK-",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "RpK",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "team_Astralis",
+    "title": "Já jogou pela Astralis",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "kscerato",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brehze",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "shox",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_MIBR",
+    "title": "Já jogou pela MIBR",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tarik",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "stewie2k",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "team_Vitality",
+    "title": "Já jogou pela Team Vitality",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      {
+        "kind": "player",
+        "id": "kscerato",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ZywOo",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "kennyS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      }
+    ]
+  }
+]

@@ -14,7 +14,9 @@
     "build:schedule": "tsx scripts/build-schedule.mjs",
     "harvest:top10": "node scripts/harvest-top10-stats.mjs",
     "harvest:hltv": "node scripts/harvest-hltv-majors.mjs",
-    "build:top10": "node scripts/build-top10.mjs"
+    "build:top10": "node scripts/build-top10.mjs",
+    "build:impostor": "node scripts/build-impostor.mjs",
+    "harvest:profiles": "node scripts/harvest-hltv-profiles.mjs"
   },
   "dependencies": {
     "html-to-image": "^1.11.13",
