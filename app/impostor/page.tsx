@@ -67,11 +67,11 @@ export default function ImpostorPage() {
   }
 
   function tileState(o: ImpostorOption): TileState {
+    if (state.found.includes(o.id)) return "correct"; // achado: verde e travado (jogando ou no fim)
     if (!result) return selectedId === o.id ? "selected" : "idle";
-    if (state.found.includes(o.id)) return "win-correct";
-    if (o.id === state.lostId) return "lose-impostor";
-    if (o.correct && revealed) return "miss";
-    return "idle";
+    if (o.id === state.lostId) return "lost";       // impostor clicado: vermelho
+    if (o.correct) return revealed ? "correct" : "idle"; // correto revelado: verde
+    return revealed ? "impostor" : "idle";          // impostor revelado (não clicado): esmaecido
   }
 
   return (
@@ -115,16 +115,19 @@ export default function ImpostorPage() {
           )}
         </div>
 
-        {puzzle.options.map((o, i) => (
-          <Tile
-            key={o.id}
-            option={o}
-            pos={positions[i]}
-            state={tileState(o)}
-            locked={result}
-            onClick={() => { if (!result) setSelectedId((cur) => (cur === o.id ? null : o.id)); }}
-          />
-        ))}
+        {puzzle.options.map((o, i) => {
+          const found = state.found.includes(o.id);
+          return (
+            <Tile
+              key={o.id}
+              option={o}
+              pos={positions[i]}
+              state={tileState(o)}
+              locked={result || found}
+              onClick={() => { if (!result && !found) setSelectedId((cur) => (cur === o.id ? null : o.id)); }}
+            />
+          );
+        })}
       </Pitch>
 
       {!result ? (
@@ -187,19 +190,21 @@ export default function ImpostorPage() {
   );
 }
 
-type TileState = "idle" | "selected" | "win-correct" | "lose-impostor" | "miss";
+type TileState = "idle" | "selected" | "correct" | "lost" | "impostor";
 
 function Tile({ option, pos, state, locked, onClick }: {
   option: ImpostorOption; pos: { x: number; y: number }; state: TileState; locked: boolean; onClick: () => void;
 }) {
   const frameTone =
-    state === "selected" || state === "win-correct" ? "border-cs-green shadow-[0_0_18px_rgba(79,174,84,0.55)]"
-      : state === "lose-impostor" ? "border-cs-red shadow-[0_0_16px_rgba(207,83,64,0.45)]"
-      : state === "miss" ? "border-[#3a4658]"
+    state === "selected" ? "border-cs-gold shadow-[0_0_20px_rgba(224,169,60,0.6)] -translate-y-0.5"
+      : state === "correct" ? "border-cs-green shadow-[0_0_18px_rgba(79,174,84,0.55)]"
+      : state === "lost" ? "border-cs-red shadow-[0_0_16px_rgba(207,83,64,0.45)]"
+      : state === "impostor" ? "border-[#3a4658] opacity-60"
       : "border-[#2fbdee]/50";
   const overlay =
-    state === "selected" || state === "win-correct" ? "bg-cs-green/[0.33]"
-      : state === "lose-impostor" ? "bg-cs-red/[0.42]"
+    state === "selected" ? "bg-cs-gold/[0.22]"
+      : state === "correct" ? "bg-cs-green/[0.33]"
+      : state === "lost" ? "bg-cs-red/[0.42]"
       : "bg-transparent";
   const hover = state === "idle" && !locked
     ? "group-hover:border-cs-gold group-hover:shadow-[0_0_18px_rgba(224,169,60,0.4)] group-hover:-translate-y-0.5"
@@ -212,12 +217,16 @@ function Tile({ option, pos, state, locked, onClick }: {
       className="group absolute z-[8] flex -translate-x-1/2 -translate-y-1/2 flex-col items-center disabled:cursor-default"
       style={{ left: pos.x, top: pos.y }}
     >
-      <div className={`relative h-[92px] w-[92px] overflow-hidden rounded-2xl border-2 bg-cs-surface2 transition ${frameTone} ${hover} ${state === "miss" ? "opacity-80" : ""}`}>
+      <div className={`relative h-[92px] w-[92px] overflow-hidden rounded-2xl border-2 bg-cs-surface2 transition ${frameTone} ${hover}`}>
         <EntityImage option={option} />
         <div className={`pointer-events-none absolute inset-0 transition ${overlay}`} />
       </div>
       <Badge state={state} />
-      <span className={`relative z-[4] -mt-[9px] whitespace-nowrap rounded-lg px-2.5 py-[3px] font-display text-[12.5px] font-bold tracking-[0.04em] shadow-[0_2px_7px_rgba(0,0,0,0.45)] transition ${state === "idle" && !locked ? "bg-[#2fbdee] text-[#08222e] group-hover:bg-cs-goldBright group-hover:text-[#23170a]" : "bg-[#2fbdee] text-[#08222e]"}`}>
+      <span className={`relative z-[4] -mt-[9px] whitespace-nowrap rounded-lg px-2.5 py-[3px] font-display text-[12.5px] font-bold tracking-[0.04em] shadow-[0_2px_7px_rgba(0,0,0,0.45)] transition ${
+        state === "selected" ? "bg-cs-gold text-[#23170a]"
+          : state === "idle" && !locked ? "bg-[#2fbdee] text-[#08222e] group-hover:bg-cs-goldBright group-hover:text-[#23170a]"
+          : "bg-[#2fbdee] text-[#08222e]"
+      }`}>
         {labelFor(option)}
       </span>
     </button>
@@ -256,16 +265,23 @@ function Initials({ text }: { text: string }) {
 }
 
 function Badge({ state }: { state: TileState }) {
-  if (state === "selected" || state === "win-correct") {
+  if (state === "correct") {
     return (
       <span className="absolute -right-2 -top-2 z-[6] flex h-[26px] w-[26px] items-center justify-center rounded-full border-2 border-[#0b0f15] bg-[#2f9d4f] shadow-[0_2px_6px_rgba(0,0,0,0.5)]">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="3.2" strokeLinecap="round" strokeLinejoin="round"><path d="M20 6L9 17l-5-5" /></svg>
       </span>
     );
   }
-  if (state === "lose-impostor" || state === "miss") {
+  if (state === "lost") {
     return (
-      <span className="absolute -right-2 -top-2 z-[6] flex h-[26px] w-[26px] items-center justify-center rounded-full border-2 border-[#0b0f15] bg-[#f3ead4] font-display text-[15px] font-extrabold text-[#23170a] shadow-[0_2px_6px_rgba(0,0,0,0.5)]">
+      <span className="absolute -right-2 -top-2 z-[6] flex h-[26px] w-[26px] items-center justify-center rounded-full border-2 border-[#0b0f15] bg-cs-red font-display text-[14px] font-extrabold text-white shadow-[0_2px_6px_rgba(0,0,0,0.5)]">
+        ✕
+      </span>
+    );
+  }
+  if (state === "impostor") {
+    return (
+      <span className="absolute -right-2 -top-2 z-[6] flex h-[26px] w-[26px] items-center justify-center rounded-full border-2 border-[#0b0f15] bg-[#f3ead4] font-display text-[14px] font-extrabold text-[#23170a] opacity-90 shadow-[0_2px_6px_rgba(0,0,0,0.5)]">
         ✕
       </span>
     );
