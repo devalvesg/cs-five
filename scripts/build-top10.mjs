@@ -4,6 +4,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { loadExisting, stabilize } from "./stable-merge.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dirname, "..", "public", "data");
@@ -38,9 +39,12 @@ for (const tbl of stats) {
   console.log(`  ✓ ${tbl.key.padEnd(20)} ${answers.map((a) => a.id).slice(0, 4).join(", ")}…`);
 }
 
-// Ordem determinística (hash do id) — estável entre builds, não sequencial.
+// Ordem canônica dos NOVOS temas (hash do id) — determinística, não sequencial.
 const hash = (s) => { let h = 2166136261; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; };
 themes.sort((a, b) => hash(a.id) - hash(b.id));
 
-writeFileSync(join(OUT, "top10-schedule.json"), JSON.stringify(themes, null, 2));
-console.log(`\n✔ ${themes.length} temas → public/data/top10-schedule.json`);
+// Estabiliza contra a schedule já publicada: o tema de cada dia fixado não muda.
+const outPath = join(OUT, "top10-schedule.json");
+const stable = stabilize(loadExisting(outPath), themes, (t) => t.id);
+writeFileSync(outPath, JSON.stringify(stable, null, 2));
+console.log(`\n✔ ${stable.length} temas → public/data/top10-schedule.json`);

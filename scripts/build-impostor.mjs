@@ -10,6 +10,7 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { loadExisting, stabilize } from "./stable-merge.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -102,8 +103,11 @@ if (mvpTbl) {
 // ─── overrides curados (substituem por id) ───
 for (const o of overrides) { const i = puzzles.findIndex((p) => p.id === o.id); if (i >= 0) puzzles[i] = o; else add(o); }
 
-// ordem determinística estável (hash do id)
+// ordem canônica dos NOVOS puzzles (hash do id)
 puzzles.sort((a, b) => hash(a.id) - hash(b.id));
-writeFileSync(join(OUT, "impostor-schedule.json"), JSON.stringify(puzzles, null, 2));
-console.log(`✔ ${puzzles.length} puzzles → impostor-schedule.json`);
-for (const p of puzzles.slice(0, 8)) console.log(`  ${p.id.padEnd(16)} ${p.options.filter((o) => o.correct).length}✓/${p.options.length} — ${p.title}`);
+// Estabiliza contra a schedule já publicada: o critério de cada dia fixado não muda.
+const outPath = join(OUT, "impostor-schedule.json");
+const stable = stabilize(loadExisting(outPath), puzzles, (p) => p.id);
+writeFileSync(outPath, JSON.stringify(stable, null, 2));
+console.log(`✔ ${stable.length} puzzles → impostor-schedule.json`);
+for (const p of stable.slice(0, 8)) console.log(`  ${p.id.padEnd(16)} ${p.options.filter((o) => o.correct).length}✓/${p.options.length} — ${p.title}`);

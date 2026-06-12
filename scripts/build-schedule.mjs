@@ -12,6 +12,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { generateGrid } from "../lib/grid/generator.ts";
 import { players } from "../lib/data/players.ts";
+import { loadExisting, stabilize } from "./stable-merge.mjs";
 
 const OUT = join(dirname(fileURLToPath(import.meta.url)), "..", "public", "data", "grid-schedule.json");
 
@@ -44,12 +45,15 @@ for (let s = 1; s <= SEEDS; s++) {
 }
 
 let grids = [...seen.values()];
-// Ordem determinística: embaralha com semente fixa p/ não agrupar por composição.
+// Ordem canônica dos NOVOS grids: embaralha com semente fixa p/ não agrupar por composição.
 const rng = mulberry32(0x5f3759df);
 for (let i = grids.length - 1; i > 0; i--) {
   const j = Math.floor(rng() * (i + 1));
   [grids[i], grids[j]] = [grids[j], grids[i]];
 }
+
+// Estabiliza contra a schedule já publicada: dias fixados não mudam de grid.
+grids = stabilize(loadExisting(OUT), grids, signature);
 
 writeFileSync(OUT, JSON.stringify(grids, null, 2));
 
