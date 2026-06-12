@@ -30,7 +30,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/0SAMAS.png"
   },
   {
     "id": "7oX1C",
@@ -72,7 +73,8 @@
       "D13",
       "Clutch Gaming",
       "The MongolZ"
-    ]
+    ],
+    "photo": "/players/910.png"
   },
   {
     "id": "AaroN",
@@ -118,7 +120,8 @@
       "FURIA Academy",
       "FURIA Esports",
       "W7M Gaming"
-    ]
+    ],
+    "photo": "/players/ableJ.png"
   },
   {
     "id": "acoR",
@@ -128,10 +131,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MAD Lions",
-      "MOUZ",
+      "TSM",
       "GamerLegion",
-      "TSM"
+      "MOUZ",
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "Infernal Gamerz",
@@ -150,7 +153,8 @@
       "M1X",
       "ECSTATIC",
       "Sashi Esport"
-    ]
+    ],
+    "photo": "/players/acoR.png"
   },
   {
     "id": "Adam9130",
@@ -234,9 +238,9 @@
     "cs2": true,
     "teamsNotable": [
       "Virtus.pro",
-      "HellRaisers",
+      "FaZe",
       "Gambit",
-      "FaZe"
+      "HellRaisers"
     ],
     "teamOrgsRaw": [
       "k23 (Counter-Strike team)",
@@ -252,7 +256,8 @@
       "AVANGAR",
       "K23",
       "NOVAQ"
-    ]
+    ],
+    "photo": "/players/AdreN.png"
   },
   {
     "id": "advent",
@@ -280,7 +285,8 @@
       "Rare Atom",
       "5yclone",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/advent.png"
   },
   {
     "id": "AdY",
@@ -325,7 +331,8 @@
       "Team Zero.TSG",
       "Triumphant Song Gaming",
       "Steel Helmet"
-    ]
+    ],
+    "photo": "/players/AE.png"
   },
   {
     "id": "Aerial",
@@ -348,7 +355,8 @@
       "ENCE",
       "HAVU Gaming",
       "JANO Esports"
-    ]
+    ],
+    "photo": "/players/Aerial.png"
   },
   {
     "id": "afro",
@@ -376,7 +384,8 @@
       "Persona Grata",
       "Mercenaires",
       "Monte"
-    ]
+    ],
+    "photo": "/players/afro.png"
   },
   {
     "id": "ahl",
@@ -425,8 +434,15 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "North",
+      "FaZe",
+      "G2",
+      "Dignitas",
+      "3DMAX"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/aizy.png"
   },
   {
     "id": "Aleksib",
@@ -436,11 +452,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "ENCE",
-      "OG",
-      "G2",
+      "NAVI",
       "NIP",
-      "NAVI"
+      "G2",
+      "OG",
+      "ENCE"
     ],
     "teamOrgsRaw": [
       "Recursive eSports",
@@ -455,7 +471,8 @@
       "G2 Esports",
       "Ninjas in Pyjamas",
       "Natus Vincere"
-    ]
+    ],
+    "photo": "/players/Aleksib.png"
   },
   {
     "id": "ALEX",
@@ -465,9 +482,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Vitality",
+      "fnatic",
       "Cloud9",
-      "fnatic"
+      "Vitality"
     ],
     "teamOrgsRaw": [
       "webSPELL Gaming",
@@ -478,7 +495,8 @@
       "Team Vitality",
       "Cloud9",
       "Fnatic"
-    ]
+    ],
+    "photo": "/players/ALEX.png"
   },
   {
     "id": "alex666",
@@ -504,7 +522,8 @@
       "B8",
       "MelBet Team",
       "Betera Esports"
-    ]
+    ],
+    "photo": "/players/alex666.png"
   },
   {
     "id": "alfa",
@@ -534,8 +553,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Renegades",
-      "FlyQuest"
+      "FlyQuest",
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "Sentinel EC",
@@ -550,7 +569,8 @@
       "FlyQuest",
       "SemperFi Esports",
       "THUNDERdOWNUNDER"
-    ]
+    ],
+    "photo": "/players/aliStair.png"
   },
   {
     "id": "Alkaren",
@@ -558,8 +578,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Heroic"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/Alkaren.png"
   },
   {
     "id": "allen",
@@ -586,12 +609,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
-      "3DMAX",
-      "NIP",
-      "FaZe",
+      "ENCE",
       "OpTic",
-      "ENCE"
+      "FaZe",
+      "NIP",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "munkka",
@@ -613,7 +635,8 @@
       "ENCE",
       "team temp",
       "JANO Esports"
-    ]
+    ],
+    "photo": "/players/allu.png"
   },
   {
     "id": "Altekz",
@@ -626,8 +649,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Astralis",
-      "TSM"
+      "TSM",
+      "Astralis"
     ],
     "teamOrgsRaw": [
       "Lucendi Esports",
@@ -640,7 +663,8 @@
       "TSM",
       "Sashi Esport",
       "AM Gaming"
-    ]
+    ],
+    "photo": "/players/Altekz.png"
   },
   {
     "id": "aLx-",
@@ -689,7 +713,8 @@
       "ghoulsW",
       "ESC Gaming",
       "MINLATE (European team)"
-    ]
+    ],
+    "photo": "/players/AmaNEk.png"
   },
   {
     "id": "aME",
@@ -751,6 +776,7 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
+      "EnVyUs",
       "Complexity"
     ],
     "teamOrgsRaw": [
@@ -760,7 +786,8 @@
       "Ze Pug Godz",
       "compLexity Gaming",
       "Team Envy"
-    ]
+    ],
+    "photo": "/players/ANDROID.png"
   },
   {
     "id": "aNdu",
@@ -811,7 +838,8 @@
       "forZe",
       "Virtus.pro",
       "Astana Dragons"
-    ]
+    ],
+    "photo": "/players/ANGE1.png"
   },
   {
     "id": "anger",
@@ -824,9 +852,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "iBUYPOWER",
+      "Luminosity",
       "Complexity",
-      "Luminosity"
+      "iBUYPOWER"
     ],
     "teamOrgsRaw": [
       "CheckSix Gaming",
@@ -843,7 +871,8 @@
       "Winterfox",
       "PiedPiper",
       "SapphireKelownaDotCom"
-    ]
+    ],
+    "photo": "/players/anger.png"
   },
   {
     "id": "AnJ",
@@ -914,7 +943,8 @@
       "Team NKT",
       "IHC Esports",
       "ATOX Esports"
-    ]
+    ],
+    "photo": "/players/ANNIHILATION.png"
   },
   {
     "id": "Ant1killer",
@@ -966,11 +996,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
-      "VeryGames",
-      "EnVyUs",
+      "Vitality",
       "G2",
-      "Vitality"
+      "EnVyUs",
+      "Titan"
     ],
     "teamOrgsRaw": [
       "gamed!de",
@@ -992,7 +1021,8 @@
       "Team EnVyUs",
       "G2 Esports",
       "Team Vitality"
-    ]
+    ],
+    "photo": "/players/apEX.png"
   },
   {
     "id": "approx",
@@ -1095,7 +1125,8 @@
       "Fluxo",
       "Fluxo W7M",
       "Legacy"
-    ]
+    ],
+    "photo": "/players/arT.png"
   },
   {
     "id": "ArtFr0st",
@@ -1118,7 +1149,8 @@
       "PARIVISION",
       "AMKAL ESPORTS",
       "BetBoom Team"
-    ]
+    ],
+    "photo": "/players/ArtFr0st.png"
   },
   {
     "id": "arya",
@@ -1153,7 +1185,8 @@
       "Spacestation Gaming",
       "Fine Wine",
       "SapphireKelownaDotCom"
-    ]
+    ],
+    "photo": "/players/arya.png"
   },
   {
     "id": "atter",
@@ -1204,12 +1237,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Complexity",
-      "TSM",
-      "Cloud9",
-      "Gen.G",
+      "NRG",
       "EG",
-      "NRG"
+      "Cloud9",
+      "TSM",
+      "Complexity"
     ],
     "teamOrgsRaw": [
       "SapphireKelownaDotCom",
@@ -1224,7 +1256,8 @@
       "Gen.G Esports",
       "Evil Geniuses",
       "NRG"
-    ]
+    ],
+    "photo": "/players/autimatic.png"
   },
   {
     "id": "Ax1Le",
@@ -1234,8 +1267,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Gambit",
-      "Cloud9"
+      "Cloud9",
+      "Gambit"
     ],
     "teamOrgsRaw": [
       "5balls",
@@ -1244,7 +1277,8 @@
       "Cloud9",
       "BetBoom Team",
       "TDK"
-    ]
+    ],
+    "photo": "/players/Ax1Le.png"
   },
   {
     "id": "AZK",
@@ -1271,7 +1305,8 @@
       "Enemy",
       "Torqued",
       "ex-Torqued"
-    ]
+    ],
+    "photo": "/players/AZK.png"
   },
   {
     "id": "AZR",
@@ -1281,9 +1316,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Renegades",
+      "Sprout",
       "100T",
-      "Sprout"
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "Vox Eminor",
@@ -1294,7 +1329,8 @@
       "Sprout",
       "TALON",
       "FlyQuest"
-    ]
+    ],
+    "photo": "/players/AZR.png"
   },
   {
     "id": "AZUWU",
@@ -1321,7 +1357,8 @@
       "Endpoint",
       "SAW",
       "Monte"
-    ]
+    ],
+    "photo": "/players/AZUWU.png"
   },
   {
     "id": "b0RUP",
@@ -1331,9 +1368,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
+      "Astralis",
       "MAD Lions",
-      "Astralis"
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "Team Refuse",
@@ -1356,7 +1393,8 @@
       "The Last Resort",
       "kONO.ECF",
       "MASONIC"
-    ]
+    ],
+    "photo": "/players/b0RUP.png"
   },
   {
     "id": "b1st",
@@ -1376,7 +1414,8 @@
       "ex-FLuffy Gangsters",
       "VP.Prodigy",
       "Virtus.pro"
-    ]
+    ],
+    "photo": "/players/b1st.png"
   },
   {
     "id": "b1t",
@@ -1391,7 +1430,8 @@
     "teamOrgsRaw": [
       "Natus Vincere Junior",
       "Natus Vincere"
-    ]
+    ],
+    "photo": "/players/b1t.png"
   },
   {
     "id": "b4rtiN",
@@ -1419,7 +1459,8 @@
       "DESEMPREGUEIDOS",
       "Gaimin Gladiators",
       "Keyd Stars"
-    ]
+    ],
+    "photo": "/players/b4rtiN.png"
   },
   {
     "id": "Bart4k",
@@ -1443,7 +1484,8 @@
       "The MongolZ",
       "Tsetsegchid",
       "The Huns Esports"
-    ]
+    ],
+    "photo": "/players/Bart4k.png"
   },
   {
     "id": "bds",
@@ -1506,7 +1548,8 @@
       "The Gatekeepers",
       "Team Singularity",
       "Flow"
-    ]
+    ],
+    "photo": "/players/BENDJI.png"
   },
   {
     "id": "Bengan",
@@ -1546,7 +1589,8 @@
       "FlipSid3 Tactics",
       "Team Property",
       "DenDD"
-    ]
+    ],
+    "photo": "/players/berg.png"
   },
   {
     "id": "bigun",
@@ -1586,7 +1630,8 @@
       "NO ORG",
       "ex-Team Wild",
       "paiN Gaming"
-    ]
+    ],
+    "photo": "/players/biguzera.png"
   },
   {
     "id": "blackpanther",
@@ -1611,11 +1656,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
-      "Complexity",
-      "Astralis",
+      "BIG",
       "fnatic",
-      "BIG"
+      "Astralis",
+      "Complexity",
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "Aquiver eSports",
@@ -1626,7 +1671,8 @@
       "Astralis",
       "Fnatic",
       "BIG"
-    ]
+    ],
+    "photo": "/players/blameF.png"
   },
   {
     "id": "Blaze",
@@ -1694,7 +1740,8 @@
       "Checkmate (Mongolian team)",
       "IHC Esports",
       "The MongolZ"
-    ]
+    ],
+    "photo": "/players/bLitz.png"
   },
   {
     "id": "Blizzard",
@@ -1791,8 +1838,7 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "TYLOO",
-      "Gen.G"
+      "TYLOO"
     ],
     "teamOrgsRaw": [
       "Team nxl",
@@ -1805,7 +1851,8 @@
       "Team NKT",
       "Bigetron Fury",
       "Alter Ego"
-    ]
+    ],
+    "photo": "/players/BnTeT.png"
   },
   {
     "id": "bobeksde",
@@ -1839,11 +1886,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "G2",
-      "Falcons",
-      "fnatic",
+      "OG",
       "3DMAX",
-      "OG"
+      "fnatic",
+      "Falcons",
+      "G2"
     ],
     "teamOrgsRaw": [
       "PRANA",
@@ -1861,7 +1908,8 @@
       "Fnatic",
       "3DMAX",
       "OG"
-    ]
+    ],
+    "photo": "/players/bodyy.png"
   },
   {
     "id": "bokor",
@@ -1899,11 +1947,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "Immortals",
-      "SK",
+      "Imperial",
       "MIBR",
-      "Imperial"
+      "Luminosity",
+      "SK",
+      "Immortals"
     ],
     "teamOrgsRaw": [
       "Downstage",
@@ -1927,7 +1975,8 @@
       "BOOM Esports",
       "Last Dance",
       "Imperial Esports"
-    ]
+    ],
+    "photo": "/players/boltz.png"
   },
   {
     "id": "bondik",
@@ -1941,10 +1990,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "FlipSid3",
+      "Gambit",
       "HellRaisers",
       "TYLOO",
-      "Gambit"
+      "FlipSid3"
     ],
     "teamOrgsRaw": [
       "KerchNET",
@@ -1961,7 +2010,8 @@
       "ESC Gaming",
       "Blessed (Ukrainian team)",
       "FAVBET Team"
-    ]
+    ],
+    "photo": "/players/bondik.png"
   },
   {
     "id": "Boombl4",
@@ -1971,8 +2021,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NAVI",
-      "Cloud9"
+      "Cloud9",
+      "NAVI"
     ],
     "teamOrgsRaw": [
       "Elements Pro Gaming",
@@ -1982,7 +2032,8 @@
       "1win",
       "Cloud9",
       "BetBoom Team"
-    ]
+    ],
+    "photo": "/players/Boombl4.png"
   },
   {
     "id": "br0",
@@ -1995,8 +2046,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "NRG",
       "Astralis",
-      "NRG"
+      "Falcons"
     ],
     "teamOrgsRaw": [
       "ImmuNe",
@@ -2006,7 +2058,8 @@
       "Monte",
       "Astralis",
       "NRG"
-    ]
+    ],
+    "photo": "/players/br0.png"
   },
   {
     "id": "Brehze",
@@ -2028,7 +2081,8 @@
       "NRG Esports",
       "Evil Geniuses",
       "NRG"
-    ]
+    ],
+    "photo": "/players/Brehze.png"
   },
   {
     "id": "brnz4n",
@@ -2043,7 +2097,8 @@
     "teamOrgsRaw": [
       "MIBR Academy",
       "MIBR"
-    ]
+    ],
+    "photo": "/players/brnz4n.png"
   },
   {
     "id": "broky",
@@ -2059,7 +2114,8 @@
       "Epsilon Esports",
       "ex-Epsilon Esports",
       "FaZe Clan"
-    ]
+    ],
+    "photo": "/players/broky.png"
   },
   {
     "id": "Brollan",
@@ -2069,10 +2125,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GODSENT",
-      "fnatic",
+      "MOUZ",
       "NIP",
-      "MOUZ"
+      "fnatic",
+      "GODSENT"
     ],
     "teamOrgsRaw": [
       "passions",
@@ -2081,7 +2137,8 @@
       "Fnatic",
       "Ninjas in Pyjamas",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/Brollan.png"
   },
   {
     "id": "brunk",
@@ -2175,8 +2232,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MAD Lions",
-      "Astralis"
+      "Astralis",
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "Reason Gaming.dk",
@@ -2191,7 +2248,8 @@
       "Tricked Esport",
       "MAD Lions",
       "Astralis"
-    ]
+    ],
+    "photo": "/players/Bubzkji.png"
   },
   {
     "id": "Bullen",
@@ -2281,8 +2339,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "OG",
       "Astralis",
-      "OG"
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "Eruption Esports",
@@ -2295,7 +2354,8 @@
       "Entropiq",
       "OG",
       "ECSTATIC"
-    ]
+    ],
+    "photo": "/players/Buzz.png"
   },
   {
     "id": "byali",
@@ -2321,7 +2381,8 @@
       "Ungentium",
       "Illuminar Gaming",
       "Let Us Cook"
-    ]
+    ],
+    "photo": "/players/byali.png"
   },
   {
     "id": "Bymas",
@@ -2331,8 +2392,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "FaZe",
-      "MOUZ"
+      "MOUZ",
+      "FaZe"
     ],
     "teamOrgsRaw": [
       "Demolition Crew",
@@ -2341,7 +2402,8 @@
       "MOUZ",
       "Into The Breach",
       "Monte"
-    ]
+    ],
+    "photo": "/players/Bymas.png"
   },
   {
     "id": "CacaNito",
@@ -2349,8 +2411,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Apeks"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/CacaNito.png"
   },
   {
     "id": "cadiaN",
@@ -2360,13 +2425,13 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
-      "SK",
-      "North",
-      "Heroic",
-      "Liquid",
+      "OG",
       "Astralis",
-      "OG"
+      "Liquid",
+      "Heroic",
+      "North",
+      "SK",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "DEJAVUE",
@@ -2388,7 +2453,8 @@
       "Team Liquid",
       "Astralis",
       "OG"
-    ]
+    ],
+    "photo": "/players/cadiaN.png"
   },
   {
     "id": "caike",
@@ -2456,12 +2522,12 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Dignitas",
-      "TSM",
-      "Astralis",
       "North",
       "OpTic",
-      "Cloud9"
+      "Cloud9",
+      "Dignitas",
+      "Astralis",
+      "TSM"
     ],
     "teamOrgsRaw": [
       "HastaLaVista",
@@ -2483,7 +2549,8 @@
       "OpTic Gaming",
       "Cloud9",
       "AGF Esport"
-    ]
+    ],
+    "photo": "/players/cajunb.png"
   },
   {
     "id": "calc",
@@ -2525,8 +2592,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Space Soldiers",
-      "Eternal Fire"
+      "Eternal Fire",
+      "EnVyUs",
+      "Space Soldiers"
     ],
     "teamOrgsRaw": [
       "Space Soldiers",
@@ -2540,7 +2608,8 @@
       "GORILLAZ",
       "Eternal Fire",
       "Sangal Esports"
-    ]
+    ],
+    "photo": "/players/Calyx.png"
   },
   {
     "id": "cArn",
@@ -2639,8 +2708,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
-      "Endpoint"
+      "Endpoint",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "PSQ",
@@ -2653,7 +2722,8 @@
       "Endpoint",
       "SAW",
       "9INE"
-    ]
+    ],
+    "photo": "/players/cej0t.png"
   },
   {
     "id": "cENTRYZ",
@@ -2685,8 +2755,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NRG",
-      "EG"
+      "EG",
+      "NRG"
     ],
     "teamOrgsRaw": [
       "WinFiction",
@@ -2695,7 +2765,8 @@
       "Evil Geniuses",
       "BLEED Esports",
       "500"
-    ]
+    ],
+    "photo": "/players/CeRq.png"
   },
   {
     "id": "Chawzyyy",
@@ -2775,11 +2846,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "paiN",
-      "Luminosity",
-      "MIBR",
       "Imperial",
-      "FURIA"
+      "FURIA",
+      "MIBR",
+      "Luminosity",
+      "paiN"
     ],
     "teamOrgsRaw": [
       "Army5 Gaming",
@@ -2800,7 +2871,8 @@
       "MIBR",
       "Imperial Esports",
       "FURIA"
-    ]
+    ],
+    "photo": "/players/chelo.png"
   },
   {
     "id": "chopper",
@@ -2824,7 +2896,8 @@
       "ALL-IN",
       "Vega Squadron",
       "Team Spirit"
-    ]
+    ],
+    "photo": "/players/chopper.png"
   },
   {
     "id": "Chr1zN",
@@ -2870,7 +2943,8 @@
       "mousesports",
       "FunPlus Phoenix",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/chrisJ.png"
   },
   {
     "id": "ckzao",
@@ -2964,7 +3038,8 @@
       "The QUBE Esports",
       "The Huns Esports",
       "The MongolZ"
-    ]
+    ],
+    "photo": "/players/cobrazera.png"
   },
   {
     "id": "cogline",
@@ -3017,11 +3092,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "SK",
-      "MIBR",
+      "Complexity",
       "FaZe",
-      "Complexity"
+      "MIBR",
+      "SK",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "semXorah",
@@ -3039,7 +3114,8 @@
       "RED Canids",
       "ODDIK",
       "Fake do Biru"
-    ]
+    ],
+    "photo": "/players/coldzera.png"
   },
   {
     "id": "COLON",
@@ -3048,7 +3124,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/COLON.png"
   },
   {
     "id": "colorzz",
@@ -3123,7 +3200,8 @@
       "Nomads (Mongolian team)",
       "Chinggis Warriors",
       "The Huns Esports"
-    ]
+    ],
+    "photo": "/players/controlez.png"
   },
   {
     "id": "Corassa",
@@ -3177,9 +3255,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Dignitas",
+      "FaZe",
       "Heroic",
-      "FaZe"
+      "Dignitas"
     ],
     "teamOrgsRaw": [
       "Celestial Gaming",
@@ -3192,7 +3270,8 @@
       "FaZe Clan",
       "2019",
       "Nordavind"
-    ]
+    ],
+    "photo": "/players/cromen.png"
   },
   {
     "id": "CRUC1AL",
@@ -3224,7 +3303,8 @@
       "Endpoint",
       "Into The Breach",
       "Team Nemesis"
-    ]
+    ],
+    "photo": "/players/CRUC1AL.png"
   },
   {
     "id": "crZ",
@@ -3289,7 +3369,8 @@
       "Complexity",
       "Marsborne",
       "Wildcard"
-    ]
+    ],
+    "photo": "/players/Cxzi.png"
   },
   {
     "id": "cype",
@@ -3309,7 +3390,8 @@
       "TEAMGLOBAL",
       "Publiclir.se",
       "DenDD"
-    ]
+    ],
+    "photo": "/players/cype.png"
   },
   {
     "id": "CYPHER",
@@ -3322,8 +3404,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "TSM",
-      "fnatic"
+      "fnatic",
+      "TSM"
     ],
     "teamOrgsRaw": [
       "BuzzKill Esports",
@@ -3340,7 +3422,8 @@
       "BC.Game Esports",
       "Fnatic",
       "500"
-    ]
+    ],
+    "photo": "/players/CYPHER.png"
   },
   {
     "id": "cyx",
@@ -3385,7 +3468,8 @@
       "EHOME",
       "TYLOO Academy",
       "Ever Growing Gaming"
-    ]
+    ],
+    "photo": "/players/DANK1NG.png"
   },
   {
     "id": "danoco",
@@ -3430,11 +3514,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Liquid",
-      "OpTic",
       "NRG",
+      "EG",
       "Cloud9",
-      "Gen.G"
+      "OpTic",
+      "Liquid"
     ],
     "teamOrgsRaw": [
       "Dynamo Gaming",
@@ -3452,7 +3536,8 @@
       "Evil Geniuses",
       "Orgless (American team)",
       "NRG"
-    ]
+    ],
+    "photo": "/players/daps.png"
   },
   {
     "id": "DarK",
@@ -3496,8 +3581,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "paiN"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/dav1deuS.png"
   },
   {
     "id": "DavCost",
@@ -3510,8 +3598,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "FlipSid3",
-      "Spirit"
+      "Spirit",
+      "FlipSid3"
     ],
     "teamOrgsRaw": [
       "OneShot",
@@ -3531,7 +3619,8 @@
       "JiJieHao International",
       "Invictus Gaming International",
       "JiJieHao"
-    ]
+    ],
+    "photo": "/players/DavCost.png"
   },
   {
     "id": "davidp",
@@ -3590,7 +3679,8 @@
       "Torqued",
       "GX",
       "subtLe"
-    ]
+    ],
+    "photo": "/players/DaZeD.png"
   },
   {
     "id": "dboorN",
@@ -3639,7 +3729,8 @@
       "Wings Up Gaming",
       "Steel Helmet",
       "WDNMD"
-    ]
+    ],
+    "photo": "/players/DD.png"
   },
   {
     "id": "decenty",
@@ -3664,7 +3755,8 @@
       "Imperial Esports",
       "Fluxo",
       "Fluxo W7M"
-    ]
+    ],
+    "photo": "/players/decenty.png"
   },
   {
     "id": "degster",
@@ -3677,10 +3769,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Spirit",
-      "OG",
+      "Falcons",
       "Heroic",
-      "Falcons"
+      "OG",
+      "Spirit"
     ],
     "teamOrgsRaw": [
       "ESPADA",
@@ -3688,7 +3780,8 @@
       "OG",
       "HEROIC",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/degster.png"
   },
   {
     "id": "delboNi",
@@ -3739,7 +3832,6 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "fnatic",
       "SK"
     ],
     "teamOrgsRaw": [
@@ -3751,7 +3843,8 @@
       "Lemondogs",
       "ESG!",
       "Team Property"
-    ]
+    ],
+    "photo": "/players/Delpan.png"
   },
   {
     "id": "DemQQ",
@@ -3777,7 +3870,8 @@
       "Monte",
       "Passion UA",
       "Eternal Fire"
-    ]
+    ],
+    "photo": "/players/DemQQ.png"
   },
   {
     "id": "denis",
@@ -3785,8 +3879,13 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Sprout",
+      "BIG",
+      "MOUZ"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/denis.png"
   },
   {
     "id": "dennis",
@@ -3796,13 +3895,12 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "SK",
-      "G2",
-      "fnatic",
-      "GODSENT",
-      "NIP",
+      "Apeks",
       "GamerLegion",
-      "Apeks"
+      "NIP",
+      "GODSENT",
+      "fnatic",
+      "G2"
     ],
     "teamOrgsRaw": [
       "duttdutt",
@@ -3824,7 +3922,8 @@
       "Ninjas in Pyjamas",
       "GamerLegion",
       "Apeks"
-    ]
+    ],
+    "photo": "/players/dennis.png"
   },
   {
     "id": "dennyslaw",
@@ -3833,7 +3932,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/dennyslaw.png"
   },
   {
     "id": "desi",
@@ -3846,8 +3946,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "iBUYPOWER",
-      "Complexity"
+      "Complexity",
+      "iBUYPOWER"
     ],
     "teamOrgsRaw": [
       "LunatiK eSports",
@@ -3869,7 +3969,8 @@
       "absolute mad lads",
       "SapphireKelownaDotCom",
       "Recon 5"
-    ]
+    ],
+    "photo": "/players/desi.png"
   },
   {
     "id": "DESPE",
@@ -3886,7 +3987,8 @@
     ],
     "teamOrgsRaw": [
       "Space Soldiers"
-    ]
+    ],
+    "photo": "/players/DESPE.png"
   },
   {
     "id": "destiny",
@@ -3934,11 +4036,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Dignitas",
-      "TSM",
+      "100T",
       "Astralis",
       "NIP",
-      "100T"
+      "TSM",
+      "Dignitas"
     ],
     "teamOrgsRaw": [
       "Copenhagen Wolves",
@@ -3949,7 +4051,8 @@
       "Astralis",
       "Ninjas in Pyjamas",
       "100 Thieves"
-    ]
+    ],
+    "photo": "/players/device.png"
   },
   {
     "id": "DEVIL",
@@ -3963,8 +4066,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "EnVyUs",
-      "3DMAX"
+      "3DMAX",
+      "EnVyUs"
     ],
     "teamOrgsRaw": [
       "Platinium",
@@ -3978,7 +4081,8 @@
       "The Dice",
       "Team Heretics",
       "UBITEAM"
-    ]
+    ],
+    "photo": "/players/DEVIL.png"
   },
   {
     "id": "devoduvek",
@@ -4010,7 +4114,8 @@
       "GenOne",
       "FUT Esports",
       "Mousquetaires"
-    ]
+    ],
+    "photo": "/players/devoduvek.png"
   },
   {
     "id": "dexter",
@@ -4020,10 +4125,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Renegades",
-      "MOUZ",
+      "FlyQuest",
       "fnatic",
-      "FlyQuest"
+      "MOUZ",
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "SYF Gaming",
@@ -4039,7 +4144,8 @@
       "Jeeves",
       "FlyQuest",
       "THUNDERdOWNUNDER"
-    ]
+    ],
+    "photo": "/players/dexter.png"
   },
   {
     "id": "dgt",
@@ -4047,8 +4153,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "paiN"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/dgt.png"
   },
   {
     "id": "DickStacy",
@@ -4068,7 +4177,8 @@
       "Athletico Esports",
       "Grayhound Gaming",
       "Renegades"
-    ]
+    ],
+    "photo": "/players/DickStacy.png"
   },
   {
     "id": "diGitaL",
@@ -4167,8 +4277,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "fnatic",
-      "GODSENT"
+      "GODSENT",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "Aftermatch",
@@ -4182,7 +4292,8 @@
       "ex-SMASH Esports",
       "Selectah!",
       "Galaxy Racer"
-    ]
+    ],
+    "photo": "/players/disco_doplan.png"
   },
   {
     "id": "Djoko",
@@ -4205,7 +4316,8 @@
       "Mercenaires",
       "Mousquetaires",
       "GenOne"
-    ]
+    ],
+    "photo": "/players/Djoko.png"
   },
   {
     "id": "dobbo",
@@ -4266,7 +4378,8 @@
       "Aravt",
       "Eruption",
       "ATOX Esports"
-    ]
+    ],
+    "photo": "/players/dobu.png"
   },
   {
     "id": "donk",
@@ -4281,7 +4394,8 @@
     "teamOrgsRaw": [
       "Team Spirit Academy",
       "Team Spirit"
-    ]
+    ],
+    "photo": "/players/donk.png"
   },
   {
     "id": "Dosia",
@@ -4295,9 +4409,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
+      "Gambit",
       "HellRaisers",
-      "Gambit"
+      "Virtus.pro"
     ],
     "teamOrgsRaw": [
       "AgAt",
@@ -4319,7 +4433,8 @@
       "Free TON",
       "Forward Gaming",
       "XGOD"
-    ]
+    ],
+    "photo": "/players/Dosia.png"
   },
   {
     "id": "draken",
@@ -4329,10 +4444,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NIP",
-      "fnatic",
+      "GODSENT",
       "GamerLegion",
-      "GODSENT"
+      "NIP",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "Aftermatch",
@@ -4351,7 +4466,8 @@
       "GODSENT",
       "IKLA",
       "Johnny Speeds"
-    ]
+    ],
+    "photo": "/players/draken.png"
   },
   {
     "id": "Drally",
@@ -4420,8 +4536,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "FURIA",
-      "MIBR"
+      "MIBR",
+      "FURIA"
     ],
     "teamOrgsRaw": [
       "KSHORRADA S.A",
@@ -4432,7 +4548,8 @@
       "FURIA Esports",
       "MIBR",
       "RED Canids"
-    ]
+    ],
+    "photo": "/players/drop.png"
   },
   {
     "id": "dsn",
@@ -4522,8 +4639,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Imperial",
-      "GODSENT"
+      "GODSENT",
+      "Imperial"
     ],
     "teamOrgsRaw": [
       "NO ORG",
@@ -4534,7 +4651,8 @@
       "00 Nation",
       "Fake Natty",
       "Legacy"
-    ]
+    ],
+    "photo": "/players/dumau.png"
   },
   {
     "id": "dupreeh",
@@ -4544,13 +4662,13 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
-      "Dignitas",
-      "TSM",
-      "Astralis",
-      "Vitality",
+      "Falcons",
       "Heroic",
-      "Falcons"
+      "Vitality",
+      "Astralis",
+      "TSM",
+      "Dignitas",
+      "3DMAX"
     ],
     "teamOrgsRaw": [
       "3DMAX",
@@ -4565,7 +4683,8 @@
       "Heroic",
       "Preasy Esport",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/dupreeh.png"
   },
   {
     "id": "dycha",
@@ -4575,8 +4694,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
-      "ENCE"
+      "ENCE",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "Piast Gliwice Esports",
@@ -4592,7 +4711,8 @@
       "Monte",
       "Betclic Apogee Esports",
       "illwill"
-    ]
+    ],
+    "photo": "/players/dycha.png"
   },
   {
     "id": "dzt",
@@ -4684,8 +4804,6 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
-      "HellRaisers",
       "NAVI"
     ],
     "teamOrgsRaw": [
@@ -4701,7 +4819,8 @@
       "KHAN",
       "Cossacks",
       "ESC Gaming"
-    ]
+    ],
+    "photo": "/players/Edward.png"
   },
   {
     "id": "eGene",
@@ -4744,10 +4863,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "FlipSid3",
-      "NAVI",
+      "Virtus.pro",
       "Cloud9",
-      "Virtus.pro"
+      "NAVI",
+      "FlipSid3"
     ],
     "teamOrgsRaw": [
       "ACES",
@@ -4762,7 +4881,8 @@
       "Cloud9",
       "Virtus.pro",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/electronic.png"
   },
   {
     "id": "elemeNt",
@@ -4804,8 +4924,8 @@
     "cs2": true,
     "teamsNotable": [
       "Liquid",
-      "Complexity",
-      "FaZe"
+      "FaZe",
+      "Complexity"
     ],
     "teamOrgsRaw": [
       "Team JusTus",
@@ -4814,7 +4934,8 @@
       "Team Liquid",
       "Complexity Gaming",
       "FaZe Clan"
-    ]
+    ],
+    "photo": "/players/EliGE.png"
   },
   {
     "id": "emi",
@@ -4846,7 +4967,8 @@
       "TYLOO",
       "Pompa Team",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/emi.png"
   },
   {
     "id": "emilio",
@@ -4977,11 +5099,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
-      "Astralis",
-      "Cloud9",
+      "NIP",
       "Complexity",
-      "NIP"
+      "Cloud9",
+      "Astralis",
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "KappaKappa",
@@ -4996,7 +5118,8 @@
       "Cloud9",
       "Complexity Gaming",
       "Ninjas in Pyjamas"
-    ]
+    ],
+    "photo": "/players/es3tag.png"
   },
   {
     "id": "Ethan",
@@ -5006,8 +5129,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "NRG",
-      "EG"
+      "EG",
+      "NRG"
     ],
     "teamOrgsRaw": [
       "Ex-Astral Authority",
@@ -5018,7 +5141,8 @@
       "CLG",
       "NRG Esports",
       "Evil Geniuses"
-    ]
+    ],
+    "photo": "/players/Ethan.png"
   },
   {
     "id": "evaN",
@@ -5097,7 +5221,8 @@
       "HEET",
       "Looking4Org (French team)",
       "3DMAX"
-    ]
+    ],
+    "photo": "/players/Ex3rcice.png"
   },
   {
     "id": "Ex6TenZ",
@@ -5107,9 +5232,10 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "VeryGames",
+      "GamerLegion",
+      "G2",
       "Titan",
-      "G2"
+      "VeryGames"
     ],
     "teamOrgsRaw": [
       "Hardcore-Style",
@@ -5124,7 +5250,8 @@
       "Team LDLC.com",
       "Uruguay3",
       "Team GamerLegion"
-    ]
+    ],
+    "photo": "/players/Ex6TenZ.png"
   },
   {
     "id": "exit",
@@ -5147,7 +5274,8 @@
       "Sharks Esports",
       "MIBR",
       "Fluxo W7M"
-    ]
+    ],
+    "photo": "/players/exit.png"
   },
   {
     "id": "exodus",
@@ -5176,10 +5304,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "fnatic",
-      "SK",
-      "NIP",
-      "Dignitas"
+      "Dignitas",
+      "NIP"
     ],
     "teamOrgsRaw": [
       "da4ce",
@@ -5192,7 +5318,8 @@
       "SK Gaming",
       "Ninjas in Pyjamas",
       "Dignitas"
-    ]
+    ],
+    "photo": "/players/f0rest.png"
   },
   {
     "id": "F1KU",
@@ -5205,8 +5332,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "OG",
-      "ENCE"
+      "ENCE",
+      "OG"
     ],
     "teamOrgsRaw": [
       "Vex.eSport",
@@ -5215,7 +5342,8 @@
       "Wildcard",
       "ENCE",
       "Metizport"
-    ]
+    ],
+    "photo": "/players/F1KU.png"
   },
   {
     "id": "f4stzin",
@@ -5255,13 +5383,12 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Complexity",
-      "Luminosity",
-      "SK",
-      "MIBR",
-      "Liquid",
+      "FURIA",
       "Imperial",
-      "FURIA"
+      "Liquid",
+      "MIBR",
+      "SK",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "crashers",
@@ -5291,7 +5418,8 @@
       "Last Dance",
       "Imperial Esports",
       "FURIA"
-    ]
+    ],
+    "photo": "/players/FalleN.png"
   },
   {
     "id": "fame",
@@ -5311,7 +5439,8 @@
       "K23",
       "Virtus.pro",
       "K27"
-    ]
+    ],
+    "photo": "/players/fame.png"
   },
   {
     "id": "FaNg",
@@ -5324,8 +5453,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Complexity",
-      "NRG"
+      "NRG",
+      "Complexity"
     ],
     "teamOrgsRaw": [
       "Birdup",
@@ -5349,7 +5478,8 @@
       "BOSS",
       "Party Astronauts",
       "Getting Info"
-    ]
+    ],
+    "photo": "/players/FaNg.png"
   },
   {
     "id": "farlig",
@@ -5362,8 +5492,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "GODSENT",
-      "Astralis"
+      "Astralis",
+      "GODSENT"
     ],
     "teamOrgsRaw": [
       "SUBLIFE",
@@ -5372,7 +5502,8 @@
       "FunPlus Phoenix",
       "Astralis",
       "ex-Copenhagen Flames"
-    ]
+    ],
+    "photo": "/players/farlig.png"
   },
   {
     "id": "FASHR",
@@ -5385,8 +5516,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "OG",
       "fnatic",
-      "OG"
+      "Endpoint"
     ],
     "teamOrgsRaw": [
       "LowLandLions",
@@ -5403,7 +5535,8 @@
       "OG",
       "00 Nation",
       "Entropiq"
-    ]
+    ],
+    "photo": "/players/FASHR.png"
   },
   {
     "id": "faveN",
@@ -5413,8 +5546,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
-      "BIG"
+      "BIG",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "FAB Games eSport",
@@ -5427,7 +5560,8 @@
       "BIG",
       "BLEED Esports",
       "9INE"
-    ]
+    ],
+    "photo": "/players/faveN.png"
   },
   {
     "id": "fbm",
@@ -5478,7 +5612,8 @@
       "The Witchers",
       "Passion UA",
       "Fnatic"
-    ]
+    ],
+    "photo": "/players/fear.png"
   },
   {
     "id": "fejtZ",
@@ -5516,7 +5651,8 @@
       "ESTOWNIA",
       "sYnck",
       "Prestige Esport"
-    ]
+    ],
+    "photo": "/players/fejtZ.png"
   },
   {
     "id": "felps",
@@ -5526,12 +5662,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Immortals",
-      "SK",
-      "MIBR",
-      "Luminosity",
+      "Imperial",
       "GODSENT",
-      "Imperial"
+      "MIBR",
+      "SK",
+      "Immortals"
     ],
     "teamOrgsRaw": [
       "semXorah",
@@ -5560,7 +5695,8 @@
       "Imperial Esports",
       "RED Canids",
       "Gaimin Gladiators"
-    ]
+    ],
+    "photo": "/players/felps.png"
   },
   {
     "id": "fer",
@@ -5570,10 +5706,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "SK",
+      "Imperial",
       "MIBR",
-      "Imperial"
+      "SK",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "SUAP",
@@ -5592,7 +5728,8 @@
       "00 Nation",
       "Last Dance",
       "Gaimin Gladiators"
-    ]
+    ],
+    "photo": "/players/fer.png"
   },
   {
     "id": "Fessor",
@@ -5692,7 +5829,8 @@
       "Quantum Bellator Fire",
       "forZe",
       "Virtus.pro"
-    ]
+    ],
+    "photo": "/players/FL1T.png"
   },
   {
     "id": "FL4MUS",
@@ -5705,9 +5843,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GamerLegion",
+      "OG",
       "Virtus.pro",
-      "OG"
+      "GamerLegion"
     ],
     "teamOrgsRaw": [
       "Worst Enemy",
@@ -5723,7 +5861,8 @@
       "Virtus.pro",
       "OG",
       "BetBoom Team"
-    ]
+    ],
+    "photo": "/players/FL4MUS.png"
   },
   {
     "id": "flameZ",
@@ -5733,9 +5872,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Endpoint",
+      "Vitality",
       "OG",
-      "Vitality"
+      "Endpoint"
     ],
     "teamOrgsRaw": [
       "exDT",
@@ -5745,7 +5884,8 @@
       "Endpoint",
       "OG",
       "Team Vitality"
-    ]
+    ],
+    "photo": "/players/flameZ.png"
   },
   {
     "id": "flamie",
@@ -5755,8 +5895,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "HellRaisers",
-      "NAVI"
+      "NAVI",
+      "HellRaisers"
     ],
     "teamOrgsRaw": [
       "USSR Team",
@@ -5766,7 +5906,8 @@
       "1win",
       "CYBERSHOKE Esports",
       "Flame Sharks"
-    ]
+    ],
+    "photo": "/players/flamie.png"
   },
   {
     "id": "Flarich",
@@ -5820,8 +5961,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Cloud9",
-      "Complexity"
+      "Complexity",
+      "Cloud9"
     ],
     "teamOrgsRaw": [
       "ex-Onclick",
@@ -5841,7 +5982,8 @@
       "Cloud9",
       "Extra Salt",
       "Complexity Gaming"
-    ]
+    ],
+    "photo": "/players/floppy.png"
   },
   {
     "id": "flusha",
@@ -5852,8 +5994,8 @@
     "cs2": true,
     "teamsNotable": [
       "fnatic",
-      "GODSENT",
-      "Cloud9"
+      "Cloud9",
+      "GODSENT"
     ],
     "teamOrgsRaw": [
       "WRTT",
@@ -5865,7 +6007,8 @@
       "Cloud9",
       "GORILLAZ",
       "EYEBALLERS"
-    ]
+    ],
+    "photo": "/players/flusha.png"
   },
   {
     "id": "Fly",
@@ -5893,9 +6036,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "TSM",
+      "Cloud9",
       "Complexity",
-      "Cloud9"
+      "TSM"
     ],
     "teamOrgsRaw": [
       "mouseSpaz",
@@ -5908,7 +6051,8 @@
       "eUnited",
       "Riot Squad Esports",
       "Orgless (Canadian team)"
-    ]
+    ],
+    "photo": "/players/FNS.png"
   },
   {
     "id": "fnx",
@@ -5918,14 +6062,10 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "MIBR",
-      "Complexity",
-      "paiN",
-      "Luminosity",
-      "SK",
+      "Imperial",
       "Immortals",
-      "100T",
-      "Imperial"
+      "SK",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "LeTs",
@@ -5962,7 +6102,8 @@
       "Imperial Esports",
       "Paquetá Gaming",
       "Last Dance"
-    ]
+    ],
+    "photo": "/players/fnx.png"
   },
   {
     "id": "forget",
@@ -6003,7 +6144,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Virtus.pro"
+      "Dignitas",
+      "FaZe",
+      "G2"
     ],
     "teamOrgsRaw": [
       "forZe",
@@ -6020,7 +6163,8 @@
       "5FRAGS.ORG",
       "forZe.FY",
       "Moscow Five Academy"
-    ]
+    ],
+    "photo": "/players/Fox.png"
   },
   {
     "id": "FrankstaH",
@@ -6071,7 +6215,8 @@
       "Mythic",
       "Beyond Cooked",
       "Third Prime"
-    ]
+    ],
+    "photo": "/players/freakazoid.png"
   },
   {
     "id": "freddieb",
@@ -6158,10 +6303,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NIP",
-      "OpTic",
+      "Dignitas",
       "Heroic",
-      "Dignitas"
+      "OpTic",
+      "NIP"
     ],
     "teamOrgsRaw": [
       "Games4u.se",
@@ -6176,7 +6321,8 @@
       "Heroic",
       "Dignitas",
       "Johnny Speeds"
-    ]
+    ],
+    "photo": "/players/friberg.png"
   },
   {
     "id": "Friis",
@@ -6189,9 +6335,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "fnatic",
+      "Heroic",
       "SK",
-      "Heroic"
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "way2go",
@@ -6211,7 +6357,8 @@
       "Heroic",
       "Tricked Esport",
       "Gux & Friends"
-    ]
+    ],
+    "photo": "/players/Friis.png"
   },
   {
     "id": "frozen",
@@ -6221,8 +6368,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
-      "FaZe"
+      "FaZe",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "Cyborg Factory",
@@ -6235,7 +6382,8 @@
       "mousesports",
       "MOUZ",
       "FaZe Clan"
-    ]
+    ],
+    "photo": "/players/frozen.png"
   },
   {
     "id": "frozt",
@@ -6272,8 +6420,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Liquid",
-      "NRG"
+      "EnVyUs",
+      "NRG",
+      "Liquid"
     ],
     "teamOrgsRaw": [
       "LunatiK eSports",
@@ -6284,7 +6433,8 @@
       "NRG Esports",
       "Team Envy",
       "ex-Recon 5"
-    ]
+    ],
+    "photo": "/players/FugLy.png"
   },
   {
     "id": "FYRR73",
@@ -6316,8 +6466,13 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "BIG",
+      "North",
+      "OpTic"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/gade.png"
   },
   {
     "id": "GeT_RiGhT",
@@ -6327,10 +6482,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "NIP",
-      "SK",
-      "fnatic",
-      "Dignitas"
+      "Dignitas",
+      "NIP"
     ],
     "teamOrgsRaw": [
       "Begrip Gaming",
@@ -6344,7 +6497,8 @@
       "Giants Gaming",
       "Fnatic",
       "Dignitas"
-    ]
+    ],
+    "photo": "/players/GeT_RiGhT.png"
   },
   {
     "id": "gla1ve",
@@ -6354,10 +6508,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
-      "Heroic",
+      "ENCE",
       "Astralis",
-      "ENCE"
+      "Heroic",
+      "3DMAX"
     ],
     "teamOrgsRaw": [
       "PENTIA",
@@ -6384,7 +6538,8 @@
       "Astralis",
       "ENCE",
       "100 Thieves"
-    ]
+    ],
+    "photo": "/players/gla1ve.png"
   },
   {
     "id": "gMd",
@@ -6436,7 +6591,8 @@
       "Clan-Mystik",
       "Epsilon eSports",
       "melty eSport Club"
-    ]
+    ],
+    "photo": "/players/GMX.png"
   },
   {
     "id": "gob b",
@@ -6446,9 +6602,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
+      "BIG",
       "NRG",
-      "BIG"
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "Frankfurts Finest",
@@ -6461,7 +6617,8 @@
       "NRG eSports",
       "BIG",
       "BIG Academy"
-    ]
+    ],
+    "photo": "/players/gob_b.png"
   },
   {
     "id": "goddess",
@@ -6497,9 +6654,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "GODSENT",
       "fnatic",
-      "Cloud9",
-      "GODSENT"
+      "Cloud9"
     ],
     "teamOrgsRaw": [
       "visomvet",
@@ -6510,7 +6667,8 @@
       "GODSENT",
       "EYEBALLERS",
       "SAW"
-    ]
+    ],
+    "photo": "/players/Golden.png"
   },
   {
     "id": "GoodFella",
@@ -6595,7 +6753,8 @@
       "Wisła Kraków",
       "9INE",
       "ENCE"
-    ]
+    ],
+    "photo": "/players/Goofy.png"
   },
   {
     "id": "GoZie",
@@ -6630,7 +6789,8 @@
       "Team LDLC",
       "ghoulsW",
       "3DMAX"
-    ]
+    ],
+    "photo": "/players/Graviti.png"
   },
   {
     "id": "gravityy",
@@ -6683,10 +6843,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Dignitas",
-      "Liquid",
+      "NRG",
       "Complexity",
-      "NRG"
+      "Liquid",
+      "Dignitas"
     ],
     "teamOrgsRaw": [
       "Broken Alliance",
@@ -6703,7 +6863,8 @@
       "Complexity",
       "Passion UA",
       "NRG"
-    ]
+    ],
+    "photo": "/players/Grim.png"
   },
   {
     "id": "Grus",
@@ -6758,10 +6919,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
-      "Virtus.pro",
       "NAVI",
-      "FaZe"
+      "FaZe",
+      "Virtus.pro",
+      "3DMAX"
     ],
     "teamOrgsRaw": [
       "zTs",
@@ -6787,7 +6948,8 @@
       "Team Singularity",
       "Team Sampi",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/GuardiaN.png"
   },
   {
     "id": "H4RR3",
@@ -6843,8 +7005,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "ENCE",
-      "G2"
+      "G2",
+      "ENCE"
     ],
     "teamOrgsRaw": [
       "Invizy Esport",
@@ -6862,7 +7024,8 @@
       "G2 Esports",
       "Inner Circle Esports",
       "Betclic Apogee Esports"
-    ]
+    ],
+    "photo": "/players/hades.png"
   },
   {
     "id": "hAdji",
@@ -6876,7 +7039,9 @@
     "cs2": true,
     "teamsNotable": [
       "3DMAX",
-      "Falcons"
+      "Falcons",
+      "Imperial",
+      "EnVyUs"
     ],
     "teamOrgsRaw": [
       "Platinium eSport",
@@ -6895,7 +7060,8 @@
       "Monte",
       "DRILLAS",
       "illwill"
-    ]
+    ],
+    "photo": "/players/hAdji.png"
   },
   {
     "id": "hallzerk",
@@ -6905,8 +7071,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Dignitas",
-      "Complexity"
+      "Complexity",
+      "Dignitas"
     ],
     "teamOrgsRaw": [
       "Tien Len EK",
@@ -6919,7 +7085,8 @@
       "Dignitas",
       "Complexity",
       "Passion UA"
-    ]
+    ],
+    "photo": "/players/hallzerk.png"
   },
   {
     "id": "hampus",
@@ -6929,9 +7096,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GODSENT",
+      "NIP",
       "GamerLegion",
-      "NIP"
+      "GODSENT"
     ],
     "teamOrgsRaw": [
       "Trepunktnoll",
@@ -6946,7 +7113,8 @@
       "Johnny Speeds",
       "Metizport",
       "500"
-    ]
+    ],
+    "photo": "/players/hampus.png"
   },
   {
     "id": "Hanes",
@@ -7002,9 +7170,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "VeryGames",
-      "3DMAX",
-      "Vitality"
+      "Vitality",
+      "EnVyUs"
     ],
     "teamOrgsRaw": [
       "Hardcore-Style",
@@ -7027,7 +7194,8 @@
       "Team Envy",
       "Team Vitality",
       "Team LDLC"
-    ]
+    ],
+    "photo": "/players/Happy.png"
   },
   {
     "id": "hardzao",
@@ -7050,7 +7218,8 @@
       "RED Canids",
       "Fake do Biru",
       "2Game Esports"
-    ]
+    ],
+    "photo": "/players/hardzao.png"
   },
   {
     "id": "Harriman",
@@ -7097,7 +7266,8 @@
       "IHC Esports",
       "The MongolZ",
       "Nomads (Mongolian team)"
-    ]
+    ],
+    "photo": "/players/hasteka.png"
   },
   {
     "id": "Hatz",
@@ -7123,7 +7293,8 @@
       "LookingForOrg (Australian team)",
       "Bad News Kangaroos",
       "Rooster"
-    ]
+    ],
+    "photo": "/players/Hatz.png"
   },
   {
     "id": "Havoc",
@@ -7150,7 +7321,8 @@
       "Renegades",
       "Legacy eSports",
       "Athletico Esports"
-    ]
+    ],
+    "photo": "/players/Havoc.png"
   },
   {
     "id": "HaZ",
@@ -7204,7 +7376,8 @@
       "OpTic Gaming",
       "Muffin Lightning",
       "Mythic"
-    ]
+    ],
+    "photo": "/players/hazed.png"
   },
   {
     "id": "Head",
@@ -7244,7 +7417,8 @@
       "B8",
       "Inner Circle Esports",
       "IC Esports"
-    ]
+    ],
+    "photo": "/players/headtr1ck.png"
   },
   {
     "id": "HEAP",
@@ -7282,10 +7456,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Endpoint",
-      "OG",
+      "G2",
       "Cloud9",
-      "G2"
+      "OG",
+      "Endpoint"
     ],
     "teamOrgsRaw": [
       "MAESTRO",
@@ -7298,7 +7472,8 @@
       "OG",
       "Cloud9",
       "G2 Esports"
-    ]
+    ],
+    "photo": "/players/HeavyGod.png"
   },
   {
     "id": "HEL1",
@@ -7326,13 +7501,12 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Immortals",
-      "100T",
-      "Luminosity",
-      "FURIA",
-      "GODSENT",
+      "Imperial",
       "MIBR",
-      "Imperial"
+      "GODSENT",
+      "FURIA",
+      "Luminosity",
+      "Immortals"
     ],
     "teamOrgsRaw": [
       "OPENGAME",
@@ -7354,7 +7528,8 @@
       "Imperial Esports",
       "RED Canids",
       "Gaimin Gladiators"
-    ]
+    ],
+    "photo": "/players/HEN1.png"
   },
   {
     "id": "HENU",
@@ -7444,8 +7619,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "EG",
-      "NRG"
+      "NRG",
+      "EG"
     ],
     "teamOrgsRaw": [
       "SRC Gaming",
@@ -7457,7 +7632,8 @@
       "NRG",
       "M80",
       "Wildcard"
-    ]
+    ],
+    "photo": "/players/HexT.png"
   },
   {
     "id": "Hiko",
@@ -7467,10 +7643,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Complexity",
+      "Liquid",
       "Cloud9",
-      "iBUYPOWER",
-      "Liquid"
+      "Complexity"
     ],
     "teamOrgsRaw": [
       "Temporary",
@@ -7487,7 +7662,8 @@
       "Maximum Effort",
       "Team Liquid",
       "Rogue"
-    ]
+    ],
+    "photo": "/players/Hiko.png"
   },
   {
     "id": "Hobbit",
@@ -7497,9 +7673,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "Cloud9",
       "Gambit",
-      "HellRaisers",
-      "Cloud9"
+      "HellRaisers"
     ],
     "teamOrgsRaw": [
       "PARTY",
@@ -7510,7 +7686,8 @@
       "Gambit Youngsters",
       "Cloud9",
       "1win Team"
-    ]
+    ],
+    "photo": "/players/Hobbit.png"
   },
   {
     "id": "honda",
@@ -7535,7 +7712,8 @@
       "Vikings KR",
       "KRÜ Esports",
       "ODDIK"
-    ]
+    ],
+    "photo": "/players/honda.png"
   },
   {
     "id": "hool",
@@ -7563,9 +7741,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MAD Lions",
+      "Astralis",
       "G2",
-      "Astralis"
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "myXMG",
@@ -7580,7 +7758,8 @@
       "MAD Lions",
       "G2 Esports",
       "Astralis"
-    ]
+    ],
+    "photo": "/players/HooXi.png"
   },
   {
     "id": "hostile",
@@ -7616,6 +7795,7 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "GamerLegion",
       "OpTic"
     ],
     "teamOrgsRaw": [
@@ -7639,7 +7819,8 @@
       "ORKS (Polish team)",
       "Prestige Esport",
       "Millennium Esports"
-    ]
+    ],
+    "photo": "/players/HS.png"
   },
   {
     "id": "hudzG",
@@ -7718,7 +7899,8 @@
       "Valiance",
       "CR4ZY",
       "G2 Esports"
-    ]
+    ],
+    "photo": "/players/huNter-.png"
   },
   {
     "id": "Hyb",
@@ -7761,7 +7943,8 @@
       "BIG Academy",
       "BIG",
       "ALTERNATE aTTaX"
-    ]
+    ],
+    "photo": "/players/hyped.png"
   },
   {
     "id": "Hyper",
@@ -7786,7 +7969,8 @@
       "SK Gaming",
       "Ninjas in Pyjamas",
       "Raw Gaming"
-    ]
+    ],
+    "photo": "/players/Hyper.png"
   },
   {
     "id": "hypex",
@@ -7810,7 +7994,8 @@
       "9INE Academy",
       "Betclic Apogee Esports",
       "GamerLegion"
-    ]
+    ],
+    "photo": "/players/hypex.png"
   },
   {
     "id": "ICY",
@@ -7818,8 +8003,12 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Virtus.pro",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/ICY.png"
   },
   {
     "id": "iDISBALANCE",
@@ -7885,8 +8074,12 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "NAVI",
+      "GamerLegion"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/iM.png"
   },
   {
     "id": "imoRR",
@@ -7986,8 +8179,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "MAD Lions",
       "Sprout",
-      "MAD Lions"
+      "G2"
     ],
     "teamOrgsRaw": [
       "to Make odds even",
@@ -8014,7 +8208,8 @@
       "Rebels Gaming",
       "KOLESIE",
       "Team Venom"
-    ]
+    ],
+    "photo": "/players/innocent.png"
   },
   {
     "id": "ins",
@@ -8025,8 +8220,8 @@
     "csgo": false,
     "cs2": false,
     "teamsNotable": [
-      "NIP",
-      "fnatic"
+      "FlyQuest",
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "Lania",
@@ -8037,7 +8232,8 @@
       "Fastlane",
       "Ninjas in Pyjamas",
       "Fnatic"
-    ]
+    ],
+    "photo": "/players/ins.png"
   },
   {
     "id": "insani",
@@ -8057,7 +8253,8 @@
       "RUSH Esports",
       "MIBR Academy",
       "MIBR"
-    ]
+    ],
+    "photo": "/players/insani.png"
   },
   {
     "id": "interz",
@@ -8067,9 +8264,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Gambit",
       "Cloud9",
-      "TSM"
+      "TSM",
+      "Gambit"
     ],
     "teamOrgsRaw": [
       "Comanche",
@@ -8081,7 +8278,8 @@
       "Cloud9",
       "TSM",
       "1win Team"
-    ]
+    ],
+    "photo": "/players/interz.png"
   },
   {
     "id": "isak",
@@ -8091,8 +8289,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GamerLegion",
-      "NIP"
+      "NIP",
+      "GamerLegion"
     ],
     "teamOrgsRaw": [
       "Valorix Esport",
@@ -8102,7 +8300,8 @@
       "GamerLegion",
       "Ninjas in Pyjamas",
       "Metizport"
-    ]
+    ],
+    "photo": "/players/isak.png"
   },
   {
     "id": "ISSAA",
@@ -8110,8 +8309,13 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Eternal Fire",
+      "OG",
+      "HellRaisers"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/ISSAA.png"
   },
   {
     "id": "jabbi",
@@ -8121,8 +8325,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
-      "Astralis"
+      "Astralis",
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "GoldenGitte",
@@ -8132,7 +8336,8 @@
       "Copenhagen Flames",
       "Heroic",
       "Astralis"
-    ]
+    ],
+    "photo": "/players/jabbi.png"
   },
   {
     "id": "jackasmo",
@@ -8150,7 +8355,8 @@
     "teamOrgsRaw": [
       "Passion UA",
       "Fnatic"
-    ]
+    ],
+    "photo": "/players/jackasmo.png"
   },
   {
     "id": "Jackinho",
@@ -8187,10 +8393,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
-      "G2",
       "TSM",
-      "NIP"
+      "G2",
+      "3DMAX"
     ],
     "teamOrgsRaw": [
       "Team eXtensive!",
@@ -8211,7 +8416,8 @@
       "Ninjas in Pyjamas",
       "FUT Esports",
       "Mousquetaires"
-    ]
+    ],
+    "photo": "/players/JACKZ.png"
   },
   {
     "id": "jambo",
@@ -8230,7 +8436,8 @@
       "The Witchers",
       "Passion UA",
       "Fnatic"
-    ]
+    ],
+    "photo": "/players/jambo.png"
   },
   {
     "id": "jame",
@@ -8248,7 +8455,8 @@
       "AVANGAR",
       "Virtus.pro",
       "PARIVISION"
-    ]
+    ],
+    "photo": "/players/jame.png"
   },
   {
     "id": "Jamppi",
@@ -8288,7 +8496,8 @@
       "Rare Atom",
       "5yclone",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/JamYoung.png"
   },
   {
     "id": "Jap",
@@ -8329,7 +8538,8 @@
       "DOGMEN",
       "Splyce",
       "OpTic Gaming"
-    ]
+    ],
+    "photo": "/players/jasonR.png"
   },
   {
     "id": "Jayzwalkingz",
@@ -8373,7 +8583,8 @@
       "9INE",
       "Betclic Apogee Esports",
       "FaZe Clan"
-    ]
+    ],
+    "photo": "/players/jcobbb.png"
   },
   {
     "id": "JDC",
@@ -8386,8 +8597,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
-      "BIG"
+      "BIG",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "BLUEJAYS",
@@ -8399,7 +8610,8 @@
       "MOUZ",
       "00 Nation",
       "BIG"
-    ]
+    ],
+    "photo": "/players/JDC.png"
   },
   {
     "id": "jdm64",
@@ -8412,6 +8624,7 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
+      "EnVyUs",
       "Liquid"
     ],
     "teamOrgsRaw": [
@@ -8423,7 +8636,8 @@
       "Counter Logic Gaming",
       "Team Liquid",
       "Team Envy"
-    ]
+    ],
+    "photo": "/players/jdm64.png"
   },
   {
     "id": "Jee",
@@ -8443,7 +8657,8 @@
       "TakeMeAway Gaming",
       "Lynn Vision Gaming",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/Jee.png"
   },
   {
     "id": "Jeorge",
@@ -8456,8 +8671,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "EG",
-      "NRG"
+      "NRG",
+      "EG"
     ],
     "teamOrgsRaw": [
       "Make War Not Love",
@@ -8473,7 +8688,8 @@
       "Evil Geniuses",
       "NRG",
       "Team Voca"
-    ]
+    ],
+    "photo": "/players/Jeorge.png"
   },
   {
     "id": "Jerry",
@@ -8494,7 +8710,8 @@
       "Spirit of Amiga",
       "team9",
       "team chemistry"
-    ]
+    ],
+    "photo": "/players/Jerry.png"
   },
   {
     "id": "JIaYm",
@@ -8562,7 +8779,8 @@
       "Conquer Gaming",
       "MOUZ NXT",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/Jimpphat.png"
   },
   {
     "id": "JiNKZ",
@@ -8595,12 +8813,12 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "G2",
-      "FaZe",
-      "Dignitas",
-      "Renegades",
+      "Apeks",
       "100T",
-      "Apeks"
+      "Renegades",
+      "Dignitas",
+      "FaZe",
+      "G2"
     ],
     "teamOrgsRaw": [
       "ClutchIT.org",
@@ -8617,7 +8835,8 @@
       "EXTREMUM",
       "BLEED Esports",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/jkaem.png"
   },
   {
     "id": "jks",
@@ -8627,12 +8846,12 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Renegades",
-      "100T",
-      "Complexity",
-      "G2",
+      "FlyQuest",
       "Liquid",
-      "FlyQuest"
+      "G2",
+      "Complexity",
+      "100T",
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "Team Exile5",
@@ -8645,7 +8864,8 @@
       "G2 Esports",
       "Team Liquid",
       "FlyQuest"
-    ]
+    ],
+    "photo": "/players/jks.png"
   },
   {
     "id": "jL",
@@ -8655,10 +8875,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MAD Lions",
-      "Apeks",
       "NAVI",
-      "MOUZ"
+      "MOUZ",
+      "Apeks",
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "selectah!",
@@ -8666,7 +8886,8 @@
       "Apeks",
       "Natus Vincere",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/jL.png"
   },
   {
     "id": "joel",
@@ -8752,8 +8973,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MIBR",
-      "Imperial"
+      "Imperial",
+      "MIBR"
     ],
     "teamOrgsRaw": [
       "Play4Lan",
@@ -8766,7 +8987,8 @@
       "w7m esports",
       "DESEMPREGUEIDOS",
       "Gaimin Gladiators"
-    ]
+    ],
+    "photo": "/players/JOTA.png"
   },
   {
     "id": "jottAAA",
@@ -8786,7 +9008,8 @@
       "Sangal Esports",
       "Eternal Fire",
       "Aurora Gaming"
-    ]
+    ],
+    "photo": "/players/jottAAA.png"
   },
   {
     "id": "jR",
@@ -8816,7 +9039,8 @@
       "Betera Esports",
       "TEAM NEXT LEVEL",
       "Inner Circle Esports"
-    ]
+    ],
+    "photo": "/players/jR.png"
   },
   {
     "id": "jresy",
@@ -8849,8 +9073,12 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Complexity",
+      "Cloud9"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/JT.png"
   },
   {
     "id": "JUGi",
@@ -8863,10 +9091,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
-      "OpTic",
+      "Astralis",
       "North",
-      "Astralis"
+      "OpTic",
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "madjicK Gaming",
@@ -8879,7 +9107,8 @@
       "North",
       "Astralis",
       "South (Danish team)"
-    ]
+    ],
+    "photo": "/players/JUGi.png"
   },
   {
     "id": "junior",
@@ -8892,9 +9121,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "FURIA",
+      "EG",
       "Complexity",
-      "EG"
+      "FURIA"
     ],
     "teamOrgsRaw": [
       "Hot Ass",
@@ -8912,7 +9141,8 @@
       "BLUEJAYS",
       "SkinRave Esports",
       "Team Voca"
-    ]
+    ],
+    "photo": "/players/junior.png"
   },
   {
     "id": "just9n",
@@ -8958,7 +9188,8 @@
       "Fnatic",
       "GODSENT",
       "EYEBALLERS"
-    ]
+    ],
+    "photo": "/players/JW.png"
   },
   {
     "id": "k0nfig",
@@ -8968,13 +9199,13 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "SK",
-      "Dignitas",
-      "North",
-      "OpTic",
-      "Complexity",
+      "NIP",
       "Astralis",
-      "NIP"
+      "Complexity",
+      "OpTic",
+      "North",
+      "Dignitas",
+      "SK"
     ],
     "teamOrgsRaw": [
       "team123",
@@ -8988,7 +9219,8 @@
       "Complexity",
       "Astralis",
       "Ninjas in Pyjamas"
-    ]
+    ],
+    "photo": "/players/k0nfig.png"
   },
   {
     "id": "k1to",
@@ -8998,9 +9230,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
+      "OG",
       "BIG",
-      "OG"
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "EASYPLAY",
@@ -9013,7 +9245,8 @@
       "BIG Academy",
       "OG",
       "AM Gaming"
-    ]
+    ],
+    "photo": "/players/k1to.png"
   },
   {
     "id": "kabal",
@@ -9039,7 +9272,8 @@
       "Checkmate (Mongolian team)",
       "IHC Esports",
       "ATOX Esports"
-    ]
+    ],
+    "photo": "/players/kabal.png"
   },
   {
     "id": "KaiR0N-",
@@ -9052,7 +9286,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro"
+      "Virtus.pro",
+      "Spirit"
     ],
     "teamOrgsRaw": [
       "Wolsung",
@@ -9068,7 +9303,8 @@
       "P0RTUGAL",
       "AMKAL ESPORTS",
       "Nemiga Gaming"
-    ]
+    ],
+    "photo": "/players/KaiR0N-.png"
   },
   {
     "id": "kajsk1ng",
@@ -9149,13 +9385,14 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
-      "fnatic",
-      "Dignitas",
-      "TSM",
-      "Astralis",
+      "Falcons",
       "FaZe",
-      "Falcons"
+      "MOUZ",
+      "EnVyUs",
+      "Astralis",
+      "TSM",
+      "Dignitas",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "Volt-Gaming",
@@ -9177,7 +9414,8 @@
       "FaZe Clan",
       "Team Envy",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/karrigan.png"
   },
   {
     "id": "kauez",
@@ -9199,7 +9437,8 @@
       "FURIA Academy",
       "paiN Gaming",
       "RED Canids"
-    ]
+    ],
+    "photo": "/players/kauez.png"
   },
   {
     "id": "kaz",
@@ -9269,7 +9508,8 @@
       "KILLERFISH eSport",
       "ALTERNATE aTTaX",
       "BIG"
-    ]
+    ],
+    "photo": "/players/keev.png"
   },
   {
     "id": "KEi",
@@ -9296,7 +9536,8 @@
       "Monte",
       "Inner Circle Esports",
       "Phantom Esports"
-    ]
+    ],
+    "photo": "/players/KEi.png"
   },
   {
     "id": "kennyS",
@@ -9306,11 +9547,11 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "VeryGames",
-      "Titan",
-      "EnVyUs",
+      "Falcons",
       "G2",
-      "Falcons"
+      "EnVyUs",
+      "Titan",
+      "VeryGames"
     ],
     "teamOrgsRaw": [
       "Team eXtensive!",
@@ -9324,7 +9565,8 @@
       "Team EnVyUs",
       "G2 Esports",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/kennyS.png"
   },
   {
     "id": "Keoz",
@@ -9337,8 +9579,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Falcons",
-      "GamerLegion"
+      "GamerLegion",
+      "Falcons"
     ],
     "teamOrgsRaw": [
       "Oserv Esport",
@@ -9353,7 +9595,8 @@
       "The Last Resort",
       "kONO.ECF",
       "GenOne"
-    ]
+    ],
+    "photo": "/players/Keoz.png"
   },
   {
     "id": "KF3",
@@ -9392,7 +9635,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "3DMAX"
+      "3DMAX",
+      "ENCE"
     ],
     "teamOrgsRaw": [
       "CARAMBA",
@@ -9414,7 +9658,8 @@
       "Minttu",
       "SuperJymy",
       "SJ Gaming"
-    ]
+    ],
+    "photo": "/players/KHRN.png"
   },
   {
     "id": "kHRYSTAL",
@@ -9512,10 +9757,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "3DMAX",
+      "Cloud9",
       "EnVyUs",
-      "FaZe",
-      "Cloud9"
+      "FaZe"
     ],
     "teamOrgsRaw": [
       "e2g",
@@ -9532,7 +9776,8 @@
       "Team Envy",
       "Cloud9",
       "Team Heretics"
-    ]
+    ],
+    "photo": "/players/kioShiMa.png"
   },
   {
     "id": "Kjaerbye",
@@ -9542,11 +9787,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Dignitas",
-      "Astralis",
-      "North",
+      "Endpoint",
       "FaZe",
-      "Endpoint"
+      "North",
+      "Astralis",
+      "Dignitas"
     ],
     "teamOrgsRaw": [
       "NO SIR!",
@@ -9560,7 +9805,8 @@
       "HYENAS",
       "Endpoint",
       "JiJieHao"
-    ]
+    ],
+    "photo": "/players/Kjaerbye.png"
   },
   {
     "id": "kl1m",
@@ -9594,9 +9840,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Immortals",
-      "100T",
-      "MIBR"
+      "MIBR",
+      "Immortals"
     ],
     "teamOrgsRaw": [
       "HMM",
@@ -9620,7 +9865,8 @@
       "MIBR",
       "O Plano",
       "00 Nation"
-    ]
+    ],
+    "photo": "/players/kNgV-.png"
   },
   {
     "id": "koj",
@@ -9650,9 +9896,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Liquid",
       "Cloud9",
-      "Gen.G"
+      "Liquid"
     ],
     "teamOrgsRaw": [
       "Tempo Gaming",
@@ -9666,7 +9911,8 @@
       "Cloud9",
       "Gen.G Esports",
       "Orgless (American team)"
-    ]
+    ],
+    "photo": "/players/koosta.png"
   },
   {
     "id": "KQLY",
@@ -9674,8 +9920,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Titan"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/KQLY.png"
   },
   {
     "id": "kRaSnaL",
@@ -9698,7 +9947,8 @@
       "Monte",
       "Inner Circle Esports",
       "ENCE"
-    ]
+    ],
+    "photo": "/players/kRaSnaL.png"
   },
   {
     "id": "kreaz",
@@ -9783,7 +10033,8 @@
       "ALTERNATE aTTaX",
       "cowana Gaming",
       "BIG"
-    ]
+    ],
+    "photo": "/players/Krimbo.png"
   },
   {
     "id": "KRIMZ",
@@ -9804,7 +10055,8 @@
       "TEAMGLOBAL",
       "Fnatic",
       "GODSENT"
-    ]
+    ],
+    "photo": "/players/KRIMZ.png"
   },
   {
     "id": "kristou",
@@ -9866,8 +10118,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
-      "GODSENT"
+      "GODSENT",
+      "Imperial",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "Team ALTERNATE",
@@ -9891,7 +10144,8 @@
       "ESC Gaming",
       "Huskies eSport",
       "MINLATE (European team)"
-    ]
+    ],
+    "photo": "/players/kRYSTAL.png"
   },
   {
     "id": "kscerato",
@@ -9915,7 +10169,8 @@
       "Dai Dai Gaming",
       "FURIA Academy",
       "FURIA"
-    ]
+    ],
+    "photo": "/players/kscerato.png"
   },
   {
     "id": "kUcheR",
@@ -9928,8 +10183,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Virtus.pro",
-      "HellRaisers"
+      "HellRaisers",
+      "Virtus.pro"
     ],
     "teamOrgsRaw": [
       "KerchNET",
@@ -9942,7 +10197,8 @@
       "HellRaisers",
       "Team Empire",
       "NokSuKao"
-    ]
+    ],
+    "photo": "/players/kUcheR.png"
   },
   {
     "id": "Kulspruta",
@@ -9987,7 +10243,8 @@
       "PIGNOUF",
       "Nakama Esports",
       "GamerLegion"
-    ]
+    ],
+    "photo": "/players/Kursy.png"
   },
   {
     "id": "kuviCk",
@@ -10015,7 +10272,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/Kvem.png"
   },
   {
     "id": "KWERTZZ",
@@ -10068,7 +10326,8 @@
       "ENCE",
       "Inner Circle Esports",
       "Phantom Esports"
-    ]
+    ],
+    "photo": "/players/Kylar.png"
   },
   {
     "id": "Kyojin",
@@ -10081,8 +10340,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Vitality",
-      "Falcons"
+      "Falcons",
+      "Vitality"
     ],
     "teamOrgsRaw": [
       "Warthox Esport",
@@ -10096,7 +10355,8 @@
       "The Young Prodigies",
       "Nakama Esports",
       "Clutchain"
-    ]
+    ],
+    "photo": "/players/Kyojin.png"
   },
   {
     "id": "kyousuke",
@@ -10114,7 +10374,8 @@
     "teamOrgsRaw": [
       "Team Spirit Academy",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/kyousuke.png"
   },
   {
     "id": "kyuubii",
@@ -10127,9 +10388,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
+      "BIG",
       "fnatic",
-      "BIG"
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "Voltage Gaming",
@@ -10142,7 +10403,8 @@
       "BIG",
       "BIG Academy",
       "AM Gaming"
-    ]
+    ],
+    "photo": "/players/kyuubii.png"
   },
   {
     "id": "kzy",
@@ -10218,7 +10480,8 @@
       "00 Nation",
       "Fake Natty",
       "Legacy"
-    ]
+    ],
+    "photo": "/players/latto.png"
   },
   {
     "id": "Lekr0",
@@ -10228,11 +10491,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GODSENT",
-      "fnatic",
-      "NIP",
+      "Dignitas",
       "North",
-      "Dignitas"
+      "NIP",
+      "fnatic",
+      "GODSENT"
     ],
     "teamOrgsRaw": [
       "Team Decerto",
@@ -10249,7 +10512,8 @@
       "IKLA",
       "Johnny Speeds",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/Lekr0.png"
   },
   {
     "id": "leo_drk",
@@ -10277,7 +10541,8 @@
       "Swingers",
       "BESTIA",
       "Keyd Stars"
-    ]
+    ],
+    "photo": "/players/leo_drk.png"
   },
   {
     "id": "levi",
@@ -10324,9 +10589,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "FlyQuest",
       "Renegades",
-      "100T",
-      "FlyQuest"
+      "100T"
     ],
     "teamOrgsRaw": [
       "Alpha Sydney",
@@ -10342,7 +10607,8 @@
       "Jeeves",
       "FlyQuest",
       "THUNDERdOWNUNDER"
-    ]
+    ],
+    "photo": "/players/Liazz.png"
   },
   {
     "id": "Lin",
@@ -10389,9 +10655,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NIP",
+      "MIBR",
       "Heroic",
-      "MIBR"
+      "NIP"
     ],
     "teamOrgsRaw": [
       "CeX",
@@ -10404,7 +10670,8 @@
       "Sangal Esports",
       "HEROIC",
       "MIBR"
-    ]
+    ],
+    "photo": "/players/LNZ.png"
   },
   {
     "id": "LOGAN",
@@ -10429,7 +10696,8 @@
       "ex-3DMAX",
       "FrenchFrogs",
       "Team Heretics"
-    ]
+    ],
+    "photo": "/players/LOGAN.png"
   },
   {
     "id": "loomit",
@@ -10475,7 +10743,8 @@
       "Fluxo",
       "MIBR",
       "Fluxo W7M"
-    ]
+    ],
+    "photo": "/players/Lucaozy.png"
   },
   {
     "id": "lucas1",
@@ -10485,11 +10754,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Immortals",
-      "100T",
-      "Luminosity",
       "MIBR",
-      "Imperial"
+      "Imperial",
+      "Luminosity",
+      "Immortals"
     ],
     "teamOrgsRaw": [
       "sixty9",
@@ -10510,7 +10778,8 @@
       "00 Nation",
       "Flamengo Esports",
       "Nitro.GG"
-    ]
+    ],
+    "photo": "/players/lucas1.png"
   },
   {
     "id": "luckeRRR",
@@ -10562,7 +10831,8 @@
       "Double Poney",
       "HEET",
       "Looking4Org (French team)"
-    ]
+    ],
+    "photo": "/players/Lucky.png"
   },
   {
     "id": "lugseN",
@@ -10639,7 +10909,8 @@
       "Fluxo",
       "paiN Gaming",
       "Legacy"
-    ]
+    ],
+    "photo": "/players/lux.png"
   },
   {
     "id": "lyrics3",
@@ -10698,8 +10969,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "G2",
-      "Falcons"
+      "Falcons",
+      "G2"
     ],
     "teamOrgsRaw": [
       "NewBALLS",
@@ -10708,7 +10979,8 @@
       "Natus Vincere Youth",
       "G2 Esports",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/m0NESY.png"
   },
   {
     "id": "maaryy",
@@ -10743,8 +11015,14 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "fnatic",
+      "Falcons",
+      "ENCE",
+      "GODSENT"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/Maden.png"
   },
   {
     "id": "Magisk",
@@ -10754,13 +11032,13 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "SK",
-      "Dignitas",
-      "North",
-      "OpTic",
       "Astralis",
+      "Falcons",
       "Vitality",
-      "Falcons"
+      "OpTic",
+      "North",
+      "Dignitas",
+      "SK"
     ],
     "teamOrgsRaw": [
       "stfuNerd",
@@ -10773,7 +11051,8 @@
       "Astralis",
       "Team Vitality",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/Magisk.png"
   },
   {
     "id": "Magix",
@@ -10814,7 +11093,8 @@
     "teamOrgsRaw": [
       "ESPADA",
       "Team Spirit"
-    ]
+    ],
+    "photo": "/players/magixx.png"
   },
   {
     "id": "MagnumZ",
@@ -10847,14 +11127,12 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "3DMAX",
-      "SK",
-      "MOUZ",
-      "NIP",
-      "G2",
-      "FaZe",
+      "GODSENT",
       "Dignitas",
-      "GODSENT"
+      "NIP",
+      "FaZe",
+      "G2",
+      "SK"
     ],
     "teamOrgsRaw": [
       "Begrip Gaming",
@@ -10886,7 +11164,8 @@
       "SMASH Esports",
       "GODSENT",
       "ULTI Agency"
-    ]
+    ],
+    "photo": "/players/Maikelele.png"
   },
   {
     "id": "MaiL09",
@@ -10921,8 +11200,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Space Soldiers",
-      "Eternal Fire"
+      "Eternal Fire",
+      "Space Soldiers"
     ],
     "teamOrgsRaw": [
       "Cowboyz",
@@ -10941,7 +11220,8 @@
       "Sangal Esports",
       "Eternal Fire",
       "Aurora Gaming"
-    ]
+    ],
+    "photo": "/players/MAJ3R.png"
   },
   {
     "id": "Maka",
@@ -10967,7 +11247,8 @@
       "Team Falcons",
       "HEET",
       "Looking4Org (French team)"
-    ]
+    ],
+    "photo": "/players/Maka.png"
   },
   {
     "id": "makazze",
@@ -10975,8 +11256,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "NAVI"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/makazze.png"
   },
   {
     "id": "malbsMd",
@@ -10986,8 +11270,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "G2",
-      "Liquid"
+      "Liquid",
+      "G2"
     ],
     "teamOrgsRaw": [
       "Team Jaguar",
@@ -11002,7 +11286,8 @@
       "M80",
       "G2 Esports",
       "Team Liquid"
-    ]
+    ],
+    "photo": "/players/malbsMd.png"
   },
   {
     "id": "malta",
@@ -11026,7 +11311,8 @@
       "Grayhound Gaming",
       "Renegades",
       "VERTEX Esports Club"
-    ]
+    ],
+    "photo": "/players/malta.png"
   },
   {
     "id": "Maluk3",
@@ -11110,8 +11396,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "OG",
-      "BIG"
+      "BIG",
+      "OG"
     ],
     "teamOrgsRaw": [
       "n0_0rg",
@@ -11121,7 +11407,8 @@
       "OG",
       "BIG",
       "9INE"
-    ]
+    ],
+    "photo": "/players/mantuu.png"
   },
   {
     "id": "Marcelious",
@@ -11156,9 +11443,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
+      "FlipSid3",
       "HellRaisers",
-      "NAVI",
-      "FlipSid3"
+      "NAVI"
     ],
     "teamOrgsRaw": [
       "Amazing Gaming",
@@ -11170,7 +11457,8 @@
       "dAT Team",
       "Flipsid3 Tactics",
       "ESC Gaming"
-    ]
+    ],
+    "photo": "/players/markeloff.png"
   },
   {
     "id": "MartinezSa",
@@ -11179,7 +11467,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/MartinezSa.png"
   },
   {
     "id": "mASKED",
@@ -11246,8 +11535,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "fnatic",
-      "G2"
+      "G2",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "Team Gravity",
@@ -11257,7 +11546,8 @@
       "Team Sampi",
       "Fnatic",
       "G2 Esports"
-    ]
+    ],
+    "photo": "/players/matys.png"
   },
   {
     "id": "maxcel",
@@ -11446,7 +11736,8 @@
       "Rare Atom",
       "5yclone",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/Mercury.png"
   },
   {
     "id": "mertz",
@@ -11459,8 +11750,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "North",
-      "Heroic"
+      "Heroic",
+      "North"
     ],
     "teamOrgsRaw": [
       "Eastern Vikings",
@@ -11483,7 +11774,8 @@
       "Sashi Esport",
       "XI Esport",
       "Denial (Danish team)"
-    ]
+    ],
+    "photo": "/players/mertz.png"
   },
   {
     "id": "method",
@@ -11514,11 +11806,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GamerLegion",
-      "Cloud9",
-      "Endpoint",
+      "Vitality",
       "fnatic",
-      "Vitality"
+      "Endpoint",
+      "Cloud9",
+      "GamerLegion"
     ],
     "teamOrgsRaw": [
       "Dog Gaming",
@@ -11531,7 +11823,8 @@
       "Endpoint",
       "Fnatic",
       "Team Vitality"
-    ]
+    ],
+    "photo": "/players/mezii.png"
   },
   {
     "id": "mhL",
@@ -11544,8 +11837,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Endpoint",
-      "Falcons"
+      "Falcons",
+      "Endpoint"
     ],
     "teamOrgsRaw": [
       "Invizy Esport",
@@ -11557,7 +11850,8 @@
       "TALON",
       "Wildcard Academy",
       "Wildcard"
-    ]
+    ],
+    "photo": "/players/mhL.png"
   },
   {
     "id": "MICHU",
@@ -11567,9 +11861,12 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
+      "Apeks",
+      "MAD Lions",
       "EG",
-      "MAD Lions"
+      "EnVyUs",
+      "Virtus.pro",
+      "G2"
     ],
     "teamOrgsRaw": [
       "GF-Gaming",
@@ -11587,7 +11884,8 @@
       "Evil Geniuses",
       "MAD Lions",
       "IKLA"
-    ]
+    ],
+    "photo": "/players/MICHU.png"
   },
   {
     "id": "miKnutty",
@@ -11691,9 +11989,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Gambit",
+      "Virtus.pro",
       "Spirit",
-      "Virtus.pro"
+      "Gambit"
     ],
     "teamOrgsRaw": [
       "Wrecking Gaming",
@@ -11706,7 +12004,8 @@
       "Team Spirit",
       "Entropiq",
       "Virtus.pro"
-    ]
+    ],
+    "photo": "/players/mir.png"
   },
   {
     "id": "mirbit",
@@ -11741,9 +12040,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Vitality",
+      "3DMAX",
       "Falcons",
-      "3DMAX"
+      "Vitality"
     ],
     "teamOrgsRaw": [
       "MateMeUp",
@@ -11758,7 +12057,8 @@
       "FUT Esports",
       "GenOne",
       "3DMAX"
-    ]
+    ],
+    "photo": "/players/misutaaa.png"
   },
   {
     "id": "mitch",
@@ -11793,8 +12093,14 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Cloud9",
+      "North",
+      "G2",
+      "OpTic"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/mixwell.png"
   },
   {
     "id": "mK",
@@ -11874,8 +12180,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "FURIA"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/molodoy.png"
   },
   {
     "id": "moose",
@@ -11883,8 +12192,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "EnVyUs"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/moose.png"
   },
   {
     "id": "morelz",
@@ -11924,7 +12236,8 @@
       "Pompa Team",
       "Permitta Esports",
       "Project G"
-    ]
+    ],
+    "photo": "/players/morelz.png"
   },
   {
     "id": "Moseyuh",
@@ -11945,7 +12258,8 @@
       "Rare Atom",
       "5yclone",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/Moseyuh.png"
   },
   {
     "id": "motm",
@@ -11992,7 +12306,8 @@
       "Undone",
       "Marsborne",
       "SportsBetExpert"
-    ]
+    ],
+    "photo": "/players/motm.png"
   },
   {
     "id": "mou",
@@ -12000,8 +12315,12 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Gambit",
+      "HellRaisers"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/mou.png"
   },
   {
     "id": "mshz",
@@ -12038,10 +12357,10 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "3DMAX",
-      "Dignitas",
       "North",
-      "OpTic"
+      "OpTic",
+      "Dignitas",
+      "3DMAX"
     ],
     "teamOrgsRaw": [
       "Badboyk",
@@ -12066,7 +12385,8 @@
       "GORILLAZ",
       "TITANS",
       "Sashi Esport"
-    ]
+    ],
+    "photo": "/players/MSL.png"
   },
   {
     "id": "mug",
@@ -12173,7 +12493,8 @@
       "The Shine",
       "Flaggers",
       "The MongolZ"
-    ]
+    ],
+    "photo": "/players/mzinho.png"
   },
   {
     "id": "n0rb3r7",
@@ -12196,7 +12517,8 @@
       "K23",
       "Virtus.pro",
       "HOTU"
-    ]
+    ],
+    "photo": "/players/n0rb3r7.png"
   },
   {
     "id": "n0thing",
@@ -12206,7 +12528,6 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "EG",
       "Complexity",
       "Cloud9"
     ],
@@ -12225,7 +12546,8 @@
       "Cloud9",
       "Old Guys Club",
       "compLexity"
-    ]
+    ],
+    "photo": "/players/n0thing.png"
   },
   {
     "id": "n1ssim",
@@ -12249,7 +12571,8 @@
       "Flamengo Esports",
       "paiN Gaming",
       "Legacy"
-    ]
+    ],
+    "photo": "/players/n1ssim.png"
   },
   {
     "id": "NAF",
@@ -12260,9 +12583,9 @@
     "cs2": true,
     "teamsNotable": [
       "Liquid",
-      "Luminosity",
+      "Renegades",
       "OpTic",
-      "Renegades"
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "mouseSpaz",
@@ -12277,7 +12600,8 @@
       "Conquest",
       "OpTic Gaming",
       "Renegades"
-    ]
+    ],
+    "photo": "/players/NAF.png"
   },
   {
     "id": "nafany",
@@ -12287,8 +12611,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Gambit",
-      "Cloud9"
+      "Cloud9",
+      "Gambit"
     ],
     "teamOrgsRaw": [
       "FLuffy Gangsters",
@@ -12299,7 +12623,8 @@
       "BetBoom Team",
       "AMKAL ESPORTS",
       "TDK"
-    ]
+    ],
+    "photo": "/players/nafany.png"
   },
   {
     "id": "Nasty",
@@ -12330,10 +12655,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GamerLegion",
-      "NIP",
+      "fnatic",
       "Apeks",
-      "fnatic"
+      "NIP",
+      "GamerLegion"
     ],
     "teamOrgsRaw": [
       "Team Refuse",
@@ -12348,7 +12673,8 @@
       "BC.Game Esports",
       "Metizport",
       "Johnny Speeds"
-    ]
+    ],
+    "photo": "/players/nawwk.png"
   },
   {
     "id": "NBK",
@@ -12392,8 +12718,18 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Falcons",
+      "MOUZ",
+      "OG",
+      "Vitality",
+      "G2",
+      "EnVyUs",
+      "Titan",
+      "VeryGames"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/NBK-.png"
   },
   {
     "id": "Neityu",
@@ -12451,7 +12787,8 @@
       "Legacy",
       "DESEMPREGUEIDOS",
       "Gaimin Gladiators"
-    ]
+    ],
+    "photo": "/players/NEKIZ.png"
   },
   {
     "id": "NEO",
@@ -12461,8 +12798,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
-      "FaZe"
+      "FaZe",
+      "Virtus.pro"
     ],
     "teamOrgsRaw": [
       "STER-Projekt",
@@ -12484,7 +12821,8 @@
       "FaZe Clan",
       "ARCY",
       "HONORIS"
-    ]
+    ],
+    "photo": "/players/NEO.png"
   },
   {
     "id": "NEOFRAG",
@@ -12513,7 +12851,8 @@
       "Into The Breach",
       "Dynamo Eclot",
       "UNiTY esports"
-    ]
+    ],
+    "photo": "/players/NEOFRAG.png"
   },
   {
     "id": "NertZ",
@@ -12526,11 +12865,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Endpoint",
-      "ENCE",
-      "Heroic",
+      "G2",
       "Liquid",
-      "G2"
+      "Heroic",
+      "ENCE",
+      "Endpoint"
     ],
     "teamOrgsRaw": [
       "uniquestars",
@@ -12546,7 +12885,8 @@
       "HEROIC",
       "Team Liquid",
       "G2 Esports"
-    ]
+    ],
+    "photo": "/players/NertZ.png"
   },
   {
     "id": "NEUZ",
@@ -12586,8 +12926,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "MOUZ",
-      "BIG"
+      "BIG",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "EYES ON U",
@@ -12597,7 +12937,8 @@
       "Planetkey Dynamics",
       "PENTA Sports",
       "BIG"
-    ]
+    ],
+    "photo": "/players/nex.png"
   },
   {
     "id": "nexa",
@@ -12607,9 +12948,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Renegades",
       "G2",
-      "OG"
+      "OG",
+      "Imperial",
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "iNation",
@@ -12626,7 +12968,8 @@
       "OG",
       "BLEED Esports",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/nexa.png"
   },
   {
     "id": "Nexius",
@@ -12649,7 +12992,8 @@
       "OG",
       "Team Nemesis",
       "Nexus Gaming"
-    ]
+    ],
+    "photo": "/players/Nexius.png"
   },
   {
     "id": "ngiN",
@@ -12673,7 +13017,8 @@
       "Turkey5",
       "Demise",
       "Sangal Esports"
-    ]
+    ],
+    "photo": "/players/ngiN.png"
   },
   {
     "id": "nicks",
@@ -12715,7 +13060,8 @@
       "LeftoverZ",
       "Team Dignitas",
       "HastaLaVista"
-    ]
+    ],
+    "photo": "/players/Nico.png"
   },
   {
     "id": "nicoodoz",
@@ -12725,9 +13071,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "fnatic",
+      "OG",
       "Heroic",
-      "OG"
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "Ground Zero (Lebanese team)",
@@ -12742,7 +13088,8 @@
       "Gaimin Gladiators",
       "OG",
       "ECSTATIC"
-    ]
+    ],
+    "photo": "/players/nicoodoz.png"
   },
   {
     "id": "NicoustiE",
@@ -12785,7 +13132,8 @@
       "timbermen",
       "Complexity",
       "Passion UA"
-    ]
+    ],
+    "photo": "/players/nicx.png"
   },
   {
     "id": "Niels K.",
@@ -12814,6 +13162,7 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "EnVyUs",
       "Renegades"
     ],
     "teamOrgsRaw": [
@@ -12827,7 +13176,8 @@
       "4ORMULA",
       "Take Flyte",
       "MIGHT"
-    ]
+    ],
+    "photo": "/players/Nifty.png"
   },
   {
     "id": "NiKo",
@@ -12837,10 +13187,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
-      "FaZe",
+      "Falcons",
       "G2",
-      "Falcons"
+      "FaZe",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "FullProof",
@@ -12858,7 +13208,8 @@
       "FaZe Clan",
       "G2 Esports",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/NiKo.png"
   },
   {
     "id": "Nille",
@@ -12907,7 +13258,8 @@
       "Young Ninjas",
       "Metizport",
       "HEROIC"
-    ]
+    ],
+    "photo": "/players/nilo.png"
   },
   {
     "id": "nin9",
@@ -13005,9 +13357,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "iBUYPOWER",
+      "NRG",
       "Liquid",
-      "NRG"
+      "iBUYPOWER"
     ],
     "teamOrgsRaw": [
       "Area 51 Gaming",
@@ -13017,7 +13369,8 @@
       "Chill guys",
       "Team Liquid",
       "NRG"
-    ]
+    ],
+    "photo": "/players/nitr0.png"
   },
   {
     "id": "Nivera",
@@ -13114,7 +13467,8 @@
       "Getting Info",
       "NRG",
       "Team Voca"
-    ]
+    ],
+    "photo": "/players/nosraC.png"
   },
   {
     "id": "noway",
@@ -13131,7 +13485,8 @@
     ],
     "teamOrgsRaw": [
       "Imperial Esports"
-    ]
+    ],
+    "photo": "/players/noway.png"
   },
   {
     "id": "npl",
@@ -13151,7 +13506,8 @@
       "Natus Vincere Junior",
       "Natus Vincere",
       "B8"
-    ]
+    ],
+    "photo": "/players/npl.png"
   },
   {
     "id": "nqz",
@@ -13177,7 +13533,8 @@
       "Fake Natty",
       "Legacy",
       "paiN Gaming"
-    ]
+    ],
+    "photo": "/players/nqz.png"
   },
   {
     "id": "NSTY",
@@ -13213,7 +13570,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "HellRaisers"
+      "HellRaisers",
+      "Imperial"
     ],
     "teamOrgsRaw": [
       "Impulse Gaming",
@@ -13223,7 +13581,8 @@
       "NoChance",
       "HellRaisers",
       "ALGO Esports"
-    ]
+    ],
+    "photo": "/players/nukkye.png"
   },
   {
     "id": "nython",
@@ -13247,7 +13606,8 @@
       "paiN Gaming",
       "Team Solid",
       "Galorys"
-    ]
+    ],
+    "photo": "/players/nython.png"
   },
   {
     "id": "oBo",
@@ -13260,8 +13620,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Complexity",
-      "EG"
+      "EG",
+      "Complexity"
     ],
     "teamOrgsRaw": [
       "Adaptation",
@@ -13270,7 +13630,8 @@
       "Old Guys Club",
       "Complexity Gaming",
       "Evil Geniuses"
-    ]
+    ],
+    "photo": "/players/oBo.png"
   },
   {
     "id": "OKOLICIOUZ",
@@ -13340,8 +13701,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "fnatic",
-      "FaZe"
+      "FaZe",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "RG-Esports",
@@ -13352,7 +13713,8 @@
       "TEAMGLOBAL",
       "Fnatic",
       "FaZe Clan"
-    ]
+    ],
+    "photo": "/players/olofmeister.png"
   },
   {
     "id": "ONLY",
@@ -13377,9 +13739,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Cloud9",
+      "NRG",
       "Liquid",
-      "NRG"
+      "Cloud9"
     ],
     "teamOrgsRaw": [
       "Ben's Anime Team",
@@ -13398,7 +13760,8 @@
       "Extra Salt",
       "Team Liquid",
       "NRG"
-    ]
+    ],
+    "photo": "/players/oSee.png"
   },
   {
     "id": "oskar",
@@ -13408,10 +13771,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
+      "Sprout",
       "HellRaisers",
       "MOUZ",
-      "Sprout"
+      "3DMAX"
     ],
     "teamOrgsRaw": [
       "K.G.B.",
@@ -13446,7 +13809,8 @@
       "Inner Circle Esports",
       "ALGO Esports",
       "Fingers Crossed"
-    ]
+    ],
+    "photo": "/players/oskar.png"
   },
   {
     "id": "Otgoo",
@@ -13470,7 +13834,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/ottoNd.png"
   },
   {
     "id": "OWNER",
@@ -13504,8 +13869,7 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Virtus.pro",
-      "Liquid"
+      "Virtus.pro"
     ],
     "teamOrgsRaw": [
       "infernal Connection",
@@ -13524,7 +13888,8 @@
       "Virtus.pro",
       "AGO",
       "Team Liquid"
-    ]
+    ],
+    "photo": "/players/pashaBiceps.png"
   },
   {
     "id": "Patr1ck",
@@ -13557,8 +13922,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Spirit",
-      "Liquid"
+      "Liquid",
+      "Spirit"
     ],
     "teamOrgsRaw": [
       "ESPADA",
@@ -13569,7 +13934,8 @@
       "Aurora Gaming",
       "Astrum",
       "Sangal Esports"
-    ]
+    ],
+    "photo": "/players/Patsi.png"
   },
   {
     "id": "pauf",
@@ -13670,8 +14036,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Space Soldiers",
-      "Eternal Fire"
+      "Eternal Fire",
+      "Space Soldiers"
     ],
     "teamOrgsRaw": [
       "Phoenix e-Sports",
@@ -13682,7 +14048,8 @@
       "Sangal Esports",
       "Eternal Fire",
       "Fire Flux Esports"
-    ]
+    ],
+    "photo": "/players/paz.png"
   },
   {
     "id": "Peppzor",
@@ -13777,9 +14144,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NAVI",
+      "Virtus.pro",
       "Cloud9",
-      "Virtus.pro"
+      "NAVI"
     ],
     "teamOrgsRaw": [
       "Atlants Gaming",
@@ -13787,7 +14154,8 @@
       "Natus Vincere",
       "Cloud9",
       "Virtus.pro"
-    ]
+    ],
+    "photo": "/players/Perfecto.png"
   },
   {
     "id": "PEZ",
@@ -13889,7 +14257,8 @@
       "Wisła Kraków",
       "AGO esports",
       "Adaptation"
-    ]
+    ],
+    "photo": "/players/phr.png"
   },
   {
     "id": "phzy",
@@ -13902,8 +14271,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NIP",
-      "Astralis"
+      "Astralis",
+      "NIP"
     ],
     "teamOrgsRaw": [
       "Singularity Academy.se",
@@ -13917,7 +14286,8 @@
       "Rare Atom",
       "Wildcard",
       "Astralis"
-    ]
+    ],
+    "photo": "/players/phzy.png"
   },
   {
     "id": "piriajr",
@@ -13960,8 +14330,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "paiN"
+      "paiN",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "eXecurity",
@@ -13982,7 +14352,8 @@
       "Fluxo",
       "Fake do Biru",
       "2Game Esports"
-    ]
+    ],
+    "photo": "/players/PKL.png"
   },
   {
     "id": "PlesseN",
@@ -14020,8 +14391,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NIP",
-      "GODSENT"
+      "GODSENT",
+      "NIP"
     ],
     "teamOrgsRaw": [
       "x6tence",
@@ -14032,7 +14403,8 @@
       "Ninjas in Pyjamas",
       "GODSENT",
       "Metizport"
-    ]
+    ],
+    "photo": "/players/Plopski.png"
   },
   {
     "id": "podi",
@@ -14088,9 +14460,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Complexity",
+      "TSM",
       "fnatic",
-      "TSM"
+      "Complexity"
     ],
     "teamOrgsRaw": [
       "BPro Gaming",
@@ -14098,7 +14470,8 @@
       "Complexity Gaming",
       "Fnatic",
       "TSM"
-    ]
+    ],
+    "photo": "/players/poizon.png"
   },
   {
     "id": "Porya",
@@ -14167,7 +14540,8 @@
       "Cryptova",
       "MOUZ NXT",
       "GamerLegion"
-    ]
+    ],
+    "photo": "/players/PR.png"
   },
   {
     "id": "pr1metapz",
@@ -14195,7 +14569,8 @@
       "BC.Game Esports",
       "Sangal Esports",
       "OG"
-    ]
+    ],
+    "photo": "/players/pr1metapz.png"
   },
   {
     "id": "prb",
@@ -14220,7 +14595,8 @@
       "Temp.no",
       "H2k Gaming",
       "London Conspiracy"
-    ]
+    ],
+    "photo": "/players/prb.png"
   },
   {
     "id": "pred",
@@ -14280,7 +14656,8 @@
       "w2c",
       "Mazaalai",
       "The MongolZ"
-    ]
+    ],
+    "photo": "/players/PRISM.png"
   },
   {
     "id": "pronax",
@@ -14290,8 +14667,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "fnatic",
-      "GODSENT"
+      "GODSENT",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "Playzone",
@@ -14315,7 +14692,8 @@
       "Enyoy",
       "Digital Chaos",
       "Chaos Esports Club"
-    ]
+    ],
+    "photo": "/players/pronax.png"
   },
   {
     "id": "proph",
@@ -14352,7 +14730,8 @@
       "ALTERNATE aTTaX",
       "Fnatic Rising",
       "BIG"
-    ]
+    ],
+    "photo": "/players/prosus.png"
   },
   {
     "id": "pt",
@@ -14391,10 +14770,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "NRG",
+      "Dignitas",
       "Complexity",
-      "Dignitas"
+      "NRG",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "Vindicated",
@@ -14418,7 +14797,8 @@
       "ex-Chaos Esports Club",
       "Retirement Home",
       "playing for fun"
-    ]
+    ],
+    "photo": "/players/ptr.png"
   },
   {
     "id": "puCSt",
@@ -14447,10 +14827,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "SK",
-      "FlipSid3",
-      "Luminosity",
-      "NIP"
+      "GODSENT",
+      "NIP",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "Laidback",
@@ -14480,7 +14859,8 @@
       "Vexed Gaming",
       "Lilmix",
       "The Final Tribe"
-    ]
+    ],
+    "photo": "/players/pyth.png"
   },
   {
     "id": "Python",
@@ -14565,7 +14945,8 @@
       "ex-Marlian eSports",
       "B8",
       "Ninjas in Pyjamas"
-    ]
+    ],
+    "photo": "/players/r1nkle.png"
   },
   {
     "id": "raalz",
@@ -14578,8 +14959,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
-      "Sprout"
+      "Sprout",
+      "3DMAX"
     ],
     "teamOrgsRaw": [
       "Anexis eSports",
@@ -14605,7 +14986,8 @@
       "Copenhagen Flames",
       "ex-Copenhagen Flames",
       "9INE"
-    ]
+    ],
+    "photo": "/players/raalz.png"
   },
   {
     "id": "Radifaction",
@@ -14640,9 +15022,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "G2",
+      "100T",
       "FaZe",
-      "100T"
+      "G2"
     ],
     "teamOrgsRaw": [
       "partyastronauts",
@@ -14654,7 +15036,8 @@
       "G2 Esports",
       "FaZe Clan",
       "100 Thieves"
-    ]
+    ],
+    "photo": "/players/rain.png"
   },
   {
     "id": "Rainwaker",
@@ -14680,7 +15063,8 @@
       "500",
       "Team Liquid",
       "Monte"
-    ]
+    ],
+    "photo": "/players/Rainwaker.png"
   },
   {
     "id": "RattlesnK",
@@ -14799,11 +15183,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "OpTic",
-      "MAD Lions",
-      "Heroic",
+      "EG",
       "Sprout",
-      "EG"
+      "Heroic",
+      "MAD Lions",
+      "OpTic"
     ],
     "teamOrgsRaw": [
       "midlertidig",
@@ -14822,7 +15206,8 @@
       "Preasy Esport",
       "ex-Preasy Esport",
       "9INE"
-    ]
+    ],
+    "photo": "/players/refrezh.png"
   },
   {
     "id": "regali",
@@ -14830,8 +15215,14 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Eternal Fire",
+      "FlyQuest",
+      "OG",
+      "fnatic"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/regali.png"
   },
   {
     "id": "reiko",
@@ -14912,7 +15303,8 @@
       "New Identity",
       "Team Singularity",
       "Swole Identity"
-    ]
+    ],
+    "photo": "/players/Relyks.png"
   },
   {
     "id": "REZ",
@@ -14922,15 +15314,16 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NIP",
-      "GamerLegion"
+      "GamerLegion",
+      "NIP"
     ],
     "teamOrgsRaw": [
       "Cringe Gods",
       "Epsilon eSports",
       "Ninjas in Pyjamas",
       "GamerLegion"
-    ]
+    ],
+    "photo": "/players/REZ.png"
   },
   {
     "id": "Rickeh",
@@ -14943,8 +15336,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Renegades",
-      "Complexity"
+      "Complexity",
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "Team Immunity",
@@ -14955,7 +15348,8 @@
       "ORDER",
       "Team Aftershock",
       "Mindfreak (Australian team)"
-    ]
+    ],
+    "photo": "/players/Rickeh.png"
   },
   {
     "id": "RIKO",
@@ -15019,7 +15413,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/riskyb0b.png"
   },
   {
     "id": "Ro1f",
@@ -15128,8 +15523,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MAD Lions",
-      "fnatic"
+      "fnatic",
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "Odense eSport",
@@ -15142,7 +15537,8 @@
       "Preasy Esport",
       "ex-Preasy Esport",
       "Gaimin Gladiators"
-    ]
+    ],
+    "photo": "/players/roeJ.png"
   },
   {
     "id": "roman",
@@ -15162,7 +15558,8 @@
       "Team ALTERNATE",
       "mousesports",
       "dotpiXels"
-    ]
+    ],
+    "photo": "/players/roman.png"
   },
   {
     "id": "ROMJkE",
@@ -15195,9 +15592,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
+      "Vitality",
       "FaZe",
-      "Vitality"
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "OnlineBOTS",
@@ -15206,7 +15603,8 @@
       "MOUZ",
       "FaZe Clan",
       "Team Vitality"
-    ]
+    ],
+    "photo": "/players/ropz.png"
   },
   {
     "id": "roque",
@@ -15258,10 +15656,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "VeryGames",
-      "Titan",
+      "Vitality",
+      "EnVyUs",
       "G2",
-      "Vitality"
+      "Titan",
+      "VeryGames"
     ],
     "teamOrgsRaw": [
       "evidence",
@@ -15277,7 +15676,8 @@
       "G2 Esports",
       "Team Envy",
       "Team Vitality"
-    ]
+    ],
+    "photo": "/players/RpK.png"
   },
   {
     "id": "RUBINO",
@@ -15291,9 +15691,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
+      "Heroic",
       "Dignitas",
-      "North",
-      "Heroic"
+      "North"
     ],
     "teamOrgsRaw": [
       "Expert Gaming",
@@ -15308,7 +15708,8 @@
       "Heroic",
       "2019",
       "Nordavind"
-    ]
+    ],
+    "photo": "/players/RUBINO.png"
   },
   {
     "id": "RUSH",
@@ -15318,10 +15719,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "OpTic",
-      "Cloud9",
+      "EG",
       "Complexity",
-      "EG"
+      "Cloud9",
+      "OpTic"
     ],
     "teamOrgsRaw": [
       "Monomaniac eSports",
@@ -15340,7 +15741,8 @@
       "Evil Geniuses Black",
       "Party Astronauts",
       "Nouns Esports"
-    ]
+    ],
+    "photo": "/players/RUSH.png"
   },
   {
     "id": "RuStY",
@@ -15416,7 +15818,8 @@
       "Monte Gen",
       "Monte",
       "Astralis"
-    ]
+    ],
+    "photo": "/players/ryu.png"
   },
   {
     "id": "ryx",
@@ -15457,8 +15860,7 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Complexity",
-      "Gen.G"
+      "EnVyUs"
     ],
     "teamOrgsRaw": [
       "Naventic",
@@ -15468,7 +15870,8 @@
       "Old Guys Club",
       "Team Envy",
       "Gen.G Esports"
-    ]
+    ],
+    "photo": "/players/s0m.png"
   },
   {
     "id": "S0tF1k",
@@ -15532,12 +15935,12 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "HellRaisers",
-      "FlipSid3",
-      "Liquid",
       "NAVI",
+      "FaZe",
       "Falcons",
-      "FaZe"
+      "Liquid",
+      "HellRaisers",
+      "FlipSid3"
     ],
     "teamOrgsRaw": [
       "LAN DODGERS",
@@ -15555,7 +15958,8 @@
       "Team Falcons",
       "FaZe Clan",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/s1mple.png"
   },
   {
     "id": "s1n",
@@ -15582,7 +15986,8 @@
       "BIG Academy",
       "BIG",
       "M80"
-    ]
+    ],
+    "photo": "/players/s1n.png"
   },
   {
     "id": "s1ren",
@@ -15603,7 +16008,8 @@
       "Team Spirit Academy",
       "Team Spirit",
       "BetBoom Team"
-    ]
+    ],
+    "photo": "/players/s1ren.png"
   },
   {
     "id": "saadzin",
@@ -15612,7 +16018,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/saadzin.png"
   },
   {
     "id": "SADDYX",
@@ -15646,8 +16053,8 @@
     "cs2": true,
     "teamsNotable": [
       "paiN",
-      "FURIA",
-      "MIBR"
+      "MIBR",
+      "FURIA"
     ],
     "teamOrgsRaw": [
       "eletronicArt",
@@ -15662,7 +16069,8 @@
       "paiN Gaming",
       "FURIA Esports",
       "MIBR"
-    ]
+    ],
+    "photo": "/players/saffee.png"
   },
   {
     "id": "Sally",
@@ -15799,11 +16207,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "3DMAX",
-      "VeryGames",
-      "Titan",
+      "GamerLegion",
+      "EnVyUs",
       "G2",
-      "fnatic"
+      "Titan",
+      "VeryGames"
     ],
     "teamOrgsRaw": [
       "hf.MOTHER",
@@ -15833,7 +16241,8 @@
       "Team GamerLegion",
       "FUT Esports",
       "Clutchain"
-    ]
+    ],
+    "photo": "/players/ScreaM.png"
   },
   {
     "id": "Sdaim",
@@ -15864,10 +16273,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Spirit",
-      "MAD Lions",
+      "ENCE",
       "NAVI",
-      "ENCE"
+      "MAD Lions",
+      "Spirit"
     ],
     "teamOrgsRaw": [
       "5FRAGS.ORG",
@@ -15880,7 +16289,8 @@
       "Monte",
       "ENCE",
       "Passion UA"
-    ]
+    ],
+    "photo": "/players/sdy.png"
   },
   {
     "id": "seized",
@@ -15890,10 +16300,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
-      "NAVI",
+      "Gambit",
       "FlipSid3",
-      "Gambit"
+      "NAVI"
     ],
     "teamOrgsRaw": [
       "fbgaming",
@@ -15917,7 +16326,8 @@
       "Team Singularity",
       "9Pandas",
       "Flame Sharks"
-    ]
+    ],
+    "photo": "/players/seized.png"
   },
   {
     "id": "sense",
@@ -15942,7 +16352,8 @@
       "Apeks",
       "Copenhagen Wolves (American organization)",
       "Nordix Esport"
-    ]
+    ],
+    "photo": "/players/sense.png"
   },
   {
     "id": "Senzu",
@@ -15963,7 +16374,8 @@
       "Team NKT",
       "Passion UA",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/Senzu.png"
   },
   {
     "id": "sergej",
@@ -15982,7 +16394,8 @@
       "ENCE",
       "GORILLAZ",
       "TITANS"
-    ]
+    ],
+    "photo": "/players/sergej.png"
   },
   {
     "id": "sh1ro",
@@ -16004,7 +16417,8 @@
       "Gambit Esports",
       "Cloud9",
       "Team Spirit"
-    ]
+    ],
+    "photo": "/players/sh1ro.png"
   },
   {
     "id": "shaGuar",
@@ -16039,10 +16453,9 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Cloud9",
+      "Complexity",
       "OpTic",
-      "TSM",
-      "Complexity"
+      "Cloud9"
     ],
     "teamOrgsRaw": [
       "Just Cause Project",
@@ -16058,7 +16471,8 @@
       "Team SoloMid",
       "Misfits Gaming",
       "Complexity Gaming"
-    ]
+    ],
+    "photo": "/players/ShahZaM.png"
   },
   {
     "id": "SHANEY",
@@ -16101,8 +16515,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "FlipSid3"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/Shara.png"
   },
   {
     "id": "shinobi",
@@ -16209,14 +16626,13 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "VeryGames",
-      "3DMAX",
+      "Apeks",
+      "Liquid",
+      "Vitality",
+      "G2",
       "Titan",
       "EnVyUs",
-      "G2",
-      "Vitality",
-      "Liquid",
-      "Apeks"
+      "VeryGames"
     ],
     "teamOrgsRaw": [
       "Dimension4",
@@ -16247,7 +16663,8 @@
       "Team Liquid",
       "Apeks",
       "Nakama Esports"
-    ]
+    ],
+    "photo": "/players/shox.png"
   },
   {
     "id": "shroud",
@@ -16257,7 +16674,6 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Complexity",
       "Cloud9"
     ],
     "teamOrgsRaw": [
@@ -16266,7 +16682,8 @@
       "Manajuma",
       "compLexity",
       "Cloud9"
-    ]
+    ],
+    "photo": "/players/shroud.png"
   },
   {
     "id": "shz",
@@ -16336,7 +16753,8 @@
       "Rogue",
       "Complexity Gaming",
       "Chaos Esports Club"
-    ]
+    ],
+    "photo": "/players/SicK.png"
   },
   {
     "id": "Sico",
@@ -16344,8 +16762,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Renegades"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/Sico.png"
   },
   {
     "id": "silencer",
@@ -16446,9 +16867,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GamerLegion",
+      "Liquid",
       "MOUZ",
-      "Liquid"
+      "GamerLegion"
     ],
     "teamOrgsRaw": [
       "Izako Boars",
@@ -16456,7 +16877,8 @@
       "GamerLegion",
       "MOUZ",
       "Team Liquid"
-    ]
+    ],
+    "photo": "/players/siuhy.png"
   },
   {
     "id": "sjuush",
@@ -16466,9 +16888,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MAD Lions",
+      "NIP",
       "Heroic",
-      "NIP"
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "Ambush E-Sport",
@@ -16478,7 +16900,8 @@
       "MAD Lions",
       "HEROIC",
       "Ninjas in Pyjamas"
-    ]
+    ],
+    "photo": "/players/sjuush.png"
   },
   {
     "id": "sk0R",
@@ -16502,7 +16925,8 @@
       "TYLOO",
       "The Huns Esports",
       "Eruption"
-    ]
+    ],
+    "photo": "/players/sk0R.png"
   },
   {
     "id": "Skadoodle",
@@ -16512,8 +16936,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "iBUYPOWER",
-      "Cloud9"
+      "Cloud9",
+      "iBUYPOWER"
     ],
     "teamOrgsRaw": [
       "Hold Mouse One",
@@ -16523,7 +16947,8 @@
       "GX",
       "Cloud9",
       "Undone"
-    ]
+    ],
+    "photo": "/players/Skadoodle.png"
   },
   {
     "id": "skullz",
@@ -16533,11 +16958,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "paiN",
-      "Liquid",
+      "Imperial",
       "FURIA",
-      "Imperial"
+      "Liquid",
+      "paiN"
     ],
     "teamOrgsRaw": [
       "YeaH Gaming",
@@ -16555,7 +16979,8 @@
       "Team Liquid",
       "FURIA",
       "Imperial Esports"
-    ]
+    ],
+    "photo": "/players/skullz.png"
   },
   {
     "id": "SKYTTEN",
@@ -16586,7 +17011,8 @@
       "PiedPiper",
       "Denial eSports",
       "Defusekids"
-    ]
+    ],
+    "photo": "/players/SKYTTEN.png"
   },
   {
     "id": "sL1m3",
@@ -16616,8 +17042,12 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "GamerLegion",
+      "Endpoint"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/sl3nd.png"
   },
   {
     "id": "slaxz-",
@@ -16641,7 +17071,8 @@
       "ALTERNATE aTTaX",
       "Sprout",
       "M80"
-    ]
+    ],
+    "photo": "/players/slaxz-.png"
   },
   {
     "id": "Slemmy",
@@ -16690,7 +17121,8 @@
       "Rough.Shark",
       "EHOME",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/SLOWLY.png"
   },
   {
     "id": "smike",
@@ -16728,10 +17160,10 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "VeryGames",
-      "EnVyUs",
+      "G2",
       "Titan",
-      "G2"
+      "EnVyUs",
+      "VeryGames"
     ],
     "teamOrgsRaw": [
       "1pL",
@@ -16752,7 +17184,8 @@
       "ex-Titan",
       "G2 Esports",
       "Nakama Esports"
-    ]
+    ],
+    "photo": "/players/SmithZz.png"
   },
   {
     "id": "smn",
@@ -16781,8 +17214,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "fnatic",
       "BIG",
-      "fnatic"
+      "Renegades"
     ],
     "teamOrgsRaw": [
       "CAZ eSports",
@@ -16800,7 +17234,8 @@
       "Fnatic",
       "Into The Breach",
       "The Witchers"
-    ]
+    ],
+    "photo": "/players/smooya.png"
   },
   {
     "id": "Snajdan",
@@ -16869,12 +17304,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
-      "OpTic",
-      "Astralis",
-      "ENCE",
+      "NIP",
       "Falcons",
-      "NIP"
+      "ENCE",
+      "Heroic",
+      "OpTic"
     ],
     "teamOrgsRaw": [
       "Playzone",
@@ -16901,7 +17335,8 @@
       "ENCE",
       "Team Falcons",
       "Ninjas in Pyjamas"
-    ]
+    ],
+    "photo": "/players/Snappi.png"
   },
   {
     "id": "Snax",
@@ -16911,10 +17346,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
-      "MOUZ",
       "GamerLegion",
-      "G2"
+      "G2",
+      "Virtus.pro",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "UF Gaming",
@@ -16935,7 +17370,8 @@
       "Pompa Team",
       "GamerLegion",
       "G2 Esports"
-    ]
+    ],
+    "photo": "/players/Snax.png"
   },
   {
     "id": "sneix",
@@ -16998,7 +17434,8 @@
       "Sharks Youngsters",
       "Case Esports",
       "paiN Gaming"
-    ]
+    ],
+    "photo": "/players/snow.png"
   },
   {
     "id": "socN",
@@ -17062,7 +17499,8 @@
       "Steel Helmet",
       "Rare Atom",
       "TBO"
-    ]
+    ],
+    "photo": "/players/somebody.png"
   },
   {
     "id": "SpawN",
@@ -17126,7 +17564,8 @@
       "88-Gaming",
       "MayBe (Russian team)",
       "Oxuji Esports"
-    ]
+    ],
+    "photo": "/players/spaze.png"
   },
   {
     "id": "SPELLAN",
@@ -17168,9 +17607,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "ENCE",
+      "MOUZ",
       "Vitality",
-      "MOUZ"
+      "ENCE"
     ],
     "teamOrgsRaw": [
       "NOM-Gaming",
@@ -17179,7 +17618,8 @@
       "ENCE",
       "Team Vitality",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/Spinx.png"
   },
   {
     "id": "Spitfire",
@@ -17258,8 +17698,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
-      "Astralis"
+      "Astralis",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "Jyderup Enigma",
@@ -17268,7 +17708,8 @@
       "OPAA Gaming",
       "Sprout",
       "Astralis"
-    ]
+    ],
+    "photo": "/players/Staehr.png"
   },
   {
     "id": "stanislaw",
@@ -17281,11 +17722,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "OpTic",
-      "Liquid",
-      "Complexity",
+      "EG",
       "NRG",
-      "EG"
+      "Complexity",
+      "OpTic",
+      "Liquid"
     ],
     "teamOrgsRaw": [
       "Mobility Gaming",
@@ -17309,7 +17750,8 @@
       "Wildcard",
       "BOSS",
       "Metizport"
-    ]
+    ],
+    "photo": "/players/stanislaw.png"
   },
   {
     "id": "starDUST",
@@ -17342,8 +17784,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "NAVI",
-      "Spirit"
+      "Spirit",
+      "NAVI"
     ],
     "teamOrgsRaw": [
       "GSC Pro-Team",
@@ -17362,7 +17804,8 @@
       "AVE",
       "Aurora Gaming",
       "Ursa"
-    ]
+    ],
+    "photo": "/players/starix.png"
   },
   {
     "id": "Starry",
@@ -17383,7 +17826,8 @@
       "Invictus Gaming",
       "Lynn Vision Gaming",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/Starry.png"
   },
   {
     "id": "stavn",
@@ -17393,9 +17837,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
+      "NIP",
       "Astralis",
-      "NIP"
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "walkover",
@@ -17405,7 +17849,8 @@
       "FunPlus Phoenix",
       "Astralis",
       "Ninjas in Pyjamas"
-    ]
+    ],
+    "photo": "/players/stavn.png"
   },
   {
     "id": "stavros",
@@ -17418,8 +17863,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "MOUZ",
-      "3DMAX"
+      "3DMAX",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "solstice",
@@ -17439,7 +17884,8 @@
       "DIVIZON",
       "Playing Ducks",
       "AYB Esports"
-    ]
+    ],
+    "photo": "/players/stavros.png"
   },
   {
     "id": "steel",
@@ -17449,10 +17895,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "Immortals",
-      "Liquid",
-      "MIBR"
+      "iBUYPOWER",
+      "Dignitas"
     ],
     "teamOrgsRaw": [
       "CNB e-Sports Club",
@@ -17470,7 +17914,8 @@
       "Case Esports",
       "Flamengo Esports",
       "MIBR"
-    ]
+    ],
+    "photo": "/players/steel.png"
   },
   {
     "id": "steno",
@@ -17510,7 +17955,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/sterling.png"
   },
   {
     "id": "stewie2k",
@@ -17520,11 +17966,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Cloud9",
-      "SK",
-      "MIBR",
+      "EG",
       "Liquid",
-      "EG"
+      "MIBR",
+      "SK",
+      "Cloud9"
     ],
     "teamOrgsRaw": [
       "SapphireKelownaDotCom",
@@ -17537,7 +17983,8 @@
       "Team Liquid",
       "Evil Geniuses",
       "Legacy"
-    ]
+    ],
+    "photo": "/players/stewie2k.png"
   },
   {
     "id": "stingeR",
@@ -17572,6 +18019,7 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
+      "ENCE",
       "3DMAX"
     ],
     "teamOrgsRaw": [
@@ -17592,7 +18040,8 @@
       "ENCE eSports",
       "HAVU Gaming",
       "NYYRIKKI Esports"
-    ]
+    ],
+    "photo": "/players/stonde.png"
   },
   {
     "id": "Storm",
@@ -17626,8 +18075,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "FlyQuest"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/story.png"
   },
   {
     "id": "striker",
@@ -17662,8 +18114,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "MOUZ",
-      "3DMAX"
+      "3DMAX",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "mousesports",
@@ -17676,7 +18128,8 @@
       "ex-Team 3DMAX",
       "Planetkey Dynamics",
       "PENTA Sports"
-    ]
+    ],
+    "photo": "/players/strux1.png"
   },
   {
     "id": "STYKO",
@@ -17686,11 +18139,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "HellRaisers",
+      "Apeks",
+      "GODSENT",
       "MOUZ",
       "Cloud9",
-      "GODSENT",
-      "Apeks"
+      "HellRaisers"
     ],
     "teamOrgsRaw": [
       "SnoopYgame",
@@ -17713,7 +18166,8 @@
       "Apeks",
       "Monte",
       "Inner Circle Esports"
-    ]
+    ],
+    "photo": "/players/STYKO.png"
   },
   {
     "id": "Subroza",
@@ -17740,7 +18194,8 @@
       "Lazarus Esports",
       "Cloud9",
       "Orgless (Canadian team)"
-    ]
+    ],
+    "photo": "/players/Subroza.png"
   },
   {
     "id": "Summer",
@@ -17765,7 +18220,8 @@
       "Flash Gaming",
       "VG.FlashGaming",
       "Rare Atom"
-    ]
+    ],
+    "photo": "/players/Summer.png"
   },
   {
     "id": "sunman",
@@ -17801,8 +18257,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "MOUZ",
-      "ENCE"
+      "ENCE",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "ajuri",
@@ -17821,7 +18277,8 @@
       "GORILLAZ",
       "TITANS",
       "Ambush"
-    ]
+    ],
+    "photo": "/players/suNny.png"
   },
   {
     "id": "SunPayus",
@@ -17829,8 +18286,14 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "G2",
+      "Heroic",
+      "Falcons",
+      "ENCE"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/SunPayus.png"
   },
   {
     "id": "supra",
@@ -17914,7 +18377,8 @@
       "Metizport",
       "Wildcard",
       "HEROIC"
-    ]
+    ],
+    "photo": "/players/susp.png"
   },
   {
     "id": "swag",
@@ -17924,9 +18388,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Complexity",
+      "Cloud9",
       "iBUYPOWER",
-      "Cloud9"
+      "Complexity"
     ],
     "teamOrgsRaw": [
       "Ultimax Gaming",
@@ -17944,7 +18408,8 @@
       "Lazarus Esports",
       "Swole Identity",
       "Third Prime"
-    ]
+    ],
+    "photo": "/players/swag.png"
   },
   {
     "id": "swicher",
@@ -18029,8 +18494,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Sprout",
-      "BIG"
+      "BIG",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "dotpiXels e.V.",
@@ -18047,7 +18512,8 @@
       "BIG",
       "00 Nation",
       "AM Gaming"
-    ]
+    ],
+    "photo": "/players/syrsoN.png"
   },
   {
     "id": "tabseN",
@@ -18057,9 +18523,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
+      "BIG",
       "NRG",
-      "BIG"
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "DkH Multigaming",
@@ -18075,7 +18541,8 @@
       "PENTA Sports",
       "NRG eSports",
       "BIG"
-    ]
+    ],
+    "photo": "/players/tabseN.png"
   },
   {
     "id": "TACO",
@@ -18085,11 +18552,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Luminosity",
-      "SK",
-      "Liquid",
+      "GODSENT",
       "MIBR",
-      "GODSENT"
+      "Liquid",
+      "SK",
+      "Luminosity"
     ],
     "teamOrgsRaw": [
       "WHATEVER GAMING",
@@ -18107,7 +18574,8 @@
       "00 Nation",
       "Fake Natty",
       "Legacy"
-    ]
+    ],
+    "photo": "/players/TACO.png"
   },
   {
     "id": "tarik",
@@ -18117,11 +18585,11 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "OpTic",
-      "Cloud9",
-      "MIBR",
+      "EG",
       "NRG",
-      "EG"
+      "MIBR",
+      "Cloud9",
+      "OpTic"
     ],
     "teamOrgsRaw": [
       "NetcodeGuides.com",
@@ -18132,7 +18600,8 @@
       "MIBR",
       "NRG Esports",
       "Evil Geniuses"
-    ]
+    ],
+    "photo": "/players/tarik.png"
   },
   {
     "id": "tatazin",
@@ -18189,7 +18658,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "GamerLegion"
+      "GamerLegion",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "Jyderup Enigma",
@@ -18203,7 +18673,8 @@
       "Team Secret",
       "ECSTATIC",
       "GamerLegion"
-    ]
+    ],
+    "photo": "/players/Tauson.png"
   },
   {
     "id": "TaZ",
@@ -18238,7 +18709,8 @@
       "HONORIS",
       "G2 Esports",
       "BC.Game Esports"
-    ]
+    ],
+    "photo": "/players/TaZ.png"
   },
   {
     "id": "Techno4K",
@@ -18361,9 +18833,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "OpTic",
+      "Falcons",
       "Heroic",
-      "Falcons"
+      "OpTic"
     ],
     "teamOrgsRaw": [
       "UNBOUND",
@@ -18374,7 +18846,8 @@
       "Copenhagen Flames",
       "HEROIC",
       "Team Falcons"
-    ]
+    ],
+    "photo": "/players/TeSeS.png"
   },
   {
     "id": "TheKaiser",
@@ -18509,8 +18982,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MOUZ",
-      "BIG"
+      "BIG",
+      "MOUZ"
     ],
     "teamOrgsRaw": [
       "dotpiXels e.V.",
@@ -18526,7 +18999,8 @@
       "aimclub",
       "Reveal (German team)",
       "AM Gaming"
-    ]
+    ],
+    "photo": "/players/tiziaN.png"
   },
   {
     "id": "TMB",
@@ -18562,8 +19036,12 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "Spirit",
+      "Heroic"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/tN1R.png"
   },
   {
     "id": "tO0RO",
@@ -18581,7 +19059,8 @@
     "teamOrgsRaw": [
       "VP.Prodigy",
       "Virtus.pro"
-    ]
+    ],
+    "photo": "/players/tO0RO.png"
   },
   {
     "id": "TOAO",
@@ -18700,7 +19179,8 @@
       "Legacy eSports",
       "Athletico Esports",
       "Renegades"
-    ]
+    ],
+    "photo": "/players/topguN.png"
   },
   {
     "id": "torzsi",
@@ -18720,7 +19200,8 @@
       "Budapest Five",
       "MOUZ NXT",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/torzsi.png"
   },
   {
     "id": "tr1p",
@@ -18789,7 +19270,8 @@
       "&#47;10&#47;",
       "Planetkey Dynamics",
       "PENTA Sports"
-    ]
+    ],
+    "photo": "/players/Troubley.png"
   },
   {
     "id": "truth",
@@ -18829,7 +19311,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/try.png"
   },
   {
     "id": "Tsogoo",
@@ -18904,7 +19387,8 @@
       "ODDIK",
       "Bounty Hunters Esports",
       "Fake do Biru"
-    ]
+    ],
+    "photo": "/players/Tuurtle.png"
   },
   {
     "id": "twist",
@@ -18914,11 +19398,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "SK",
-      "FlipSid3",
-      "GODSENT",
+      "NIP",
       "fnatic",
-      "NIP"
+      "GODSENT",
+      "FlipSid3",
+      "SK"
     ],
     "teamOrgsRaw": [
       "Team Decertos",
@@ -18941,7 +19425,8 @@
       "Savage (Swedish team)",
       "Team Finest",
       "Alliance"
-    ]
+    ],
+    "photo": "/players/twist.png"
   },
   {
     "id": "Twistzz",
@@ -18951,9 +19436,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "TSM",
+      "FaZe",
       "Liquid",
-      "FaZe"
+      "TSM"
     ],
     "teamOrgsRaw": [
       "Tectonic",
@@ -18964,7 +19449,8 @@
       "Misfits",
       "Team Liquid",
       "FaZe Clan"
-    ]
+    ],
+    "photo": "/players/Twistzz.png"
   },
   {
     "id": "tyron",
@@ -19026,7 +19512,8 @@
       "NOM Esports",
       "Illuminar Gaming",
       "Team Liquid"
-    ]
+    ],
+    "photo": "/players/ultimate.png"
   },
   {
     "id": "USTILO",
@@ -19048,7 +19535,8 @@
       "Tainted Minds",
       "ICON Esports",
       "ORDER"
-    ]
+    ],
+    "photo": "/players/USTILO.png"
   },
   {
     "id": "v$m",
@@ -19084,11 +19572,11 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Heroic",
-      "North",
-      "OG",
+      "TSM",
       "ENCE",
-      "TSM"
+      "OG",
+      "North",
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "PRIES",
@@ -19102,7 +19590,8 @@
       "ENCE",
       "TSM",
       "Tricked Esport"
-    ]
+    ],
+    "photo": "/players/valde.png"
   },
   {
     "id": "Vegi",
@@ -19136,7 +19625,8 @@
       "Mission Possible",
       "Wild Lotus",
       "The Last Resort"
-    ]
+    ],
+    "photo": "/players/Vegi.png"
   },
   {
     "id": "venomzera",
@@ -19213,7 +19703,8 @@
       "Grayhound Gaming",
       "Jeeves",
       "FlyQuest"
-    ]
+    ],
+    "photo": "/players/Vexite.png"
   },
   {
     "id": "vice",
@@ -19226,8 +19717,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "TSM",
-      "Cloud9"
+      "Cloud9",
+      "TSM"
     ],
     "teamOrgsRaw": [
       "ignite",
@@ -19241,7 +19732,8 @@
       "Enigma6 Group",
       "Rogue",
       "Cloud9"
-    ]
+    ],
+    "photo": "/players/vice.png"
   },
   {
     "id": "VicoN",
@@ -19314,8 +19806,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "FURIA",
-      "Imperial"
+      "Imperial",
+      "FURIA"
     ],
     "teamOrgsRaw": [
       "TO THE TOP",
@@ -19326,7 +19818,8 @@
       "FURIA Esports",
       "Last Dance",
       "Imperial Esports"
-    ]
+    ],
+    "photo": "/players/VINI.png"
   },
   {
     "id": "viol",
@@ -19496,10 +19989,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "HellRaisers",
-      "Spirit",
+      "NAVI",
       "Sprout",
-      "NAVI"
+      "Spirit",
+      "HellRaisers"
     ],
     "teamOrgsRaw": [
       "MAJESTY",
@@ -19509,7 +20002,8 @@
       "Team Spirit",
       "Sprout",
       "Natus Vincere"
-    ]
+    ],
+    "photo": "/players/w0nderful.png"
   },
   {
     "id": "Walco",
@@ -19576,7 +20070,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/WARDELL.png"
   },
   {
     "id": "wayLander",
@@ -19589,8 +20084,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Gambit",
-      "FlipSid3"
+      "FlipSid3",
+      "Gambit"
     ],
     "teamOrgsRaw": [
       "b.s3x",
@@ -19601,7 +20096,8 @@
       "FlipSid3 Tactics",
       "Winstrike Team",
       "pro100"
-    ]
+    ],
+    "photo": "/players/wayLander.png"
   },
   {
     "id": "wenton",
@@ -19691,7 +20187,8 @@
       "The Chosen Few",
       "Eternal Fire",
       "Aurora Gaming"
-    ]
+    ],
+    "photo": "/players/Wicadia.png"
   },
   {
     "id": "wilzOOO",
@@ -19769,7 +20266,8 @@
       "Evil Geniuses Black",
       "Evil Geniuses",
       "Forsaken (American team)"
-    ]
+    ],
+    "photo": "/players/wiz.png"
   },
   {
     "id": "Wonder",
@@ -19821,7 +20319,8 @@
       "MIBR",
       "Fluxo",
       "ODDIK"
-    ]
+    ],
+    "photo": "/players/WOOD7.png"
   },
   {
     "id": "WorldEdit",
@@ -19848,7 +20347,8 @@
       "Winstrike Team",
       "pro100",
       "HAPPY PEOPLE"
-    ]
+    ],
+    "photo": "/players/WorldEdit.png"
   },
   {
     "id": "Woro2k",
@@ -19861,8 +20361,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "MAD Lions",
-      "Eternal Fire"
+      "Eternal Fire",
+      "MAD Lions"
     ],
     "teamOrgsRaw": [
       "Esports Club Kyiv",
@@ -19874,7 +20374,8 @@
       "Passion UA",
       "illwill",
       "Eternal Fire"
-    ]
+    ],
+    "photo": "/players/Woro2k.png"
   },
   {
     "id": "woxic",
@@ -19884,10 +20385,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "HellRaisers",
-      "MOUZ",
+      "Eternal Fire",
       "Cloud9",
-      "Eternal Fire"
+      "MOUZ",
+      "HellRaisers"
     ],
     "teamOrgsRaw": [
       "Hardware Arena",
@@ -19902,7 +20403,8 @@
       "Cloud9",
       "Eternal Fire",
       "Aurora Gaming"
-    ]
+    ],
+    "photo": "/players/woxic.png"
   },
   {
     "id": "xall",
@@ -19932,16 +20434,17 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Space Soldiers",
+      "Eternal Fire",
       "BIG",
-      "Eternal Fire"
+      "Space Soldiers"
     ],
     "teamOrgsRaw": [
       "Space Soldiers",
       "BIG",
       "Eternal Fire",
       "Aurora Gaming"
-    ]
+    ],
+    "photo": "/players/XANTARES.png"
   },
   {
     "id": "xccurate",
@@ -19949,8 +20452,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "TYLOO"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/xccurate.png"
   },
   {
     "id": "xCeeD",
@@ -20023,7 +20529,8 @@
       "AliGon",
       "Crowns Esports Club",
       "MyGame Esports"
-    ]
+    ],
+    "photo": "/players/xelos.png"
   },
   {
     "id": "Xenitron",
@@ -20125,7 +20632,8 @@
       "OompaLoompa",
       "MOUZ NXT",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/xertioN.png"
   },
   {
     "id": "xeta",
@@ -20133,8 +20641,11 @@
     "roles": [],
     "csgo": true,
     "cs2": true,
-    "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamsNotable": [
+      "TYLOO"
+    ],
+    "teamOrgsRaw": [],
+    "photo": "/players/xeta.png"
   },
   {
     "id": "xfl0ud",
@@ -20144,8 +20655,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Eternal Fire",
-      "Heroic"
+      "Heroic",
+      "Eternal Fire"
     ],
     "teamOrgsRaw": [
       "Zoom Gaming",
@@ -20157,7 +20668,8 @@
       "Eternal Fire",
       "Project G",
       "HEROIC"
-    ]
+    ],
+    "photo": "/players/xfl0ud.png"
   },
   {
     "id": "xiu",
@@ -20187,10 +20699,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "Dignitas",
       "fnatic",
-      "NIP",
       "FaZe",
-      "Dignitas"
+      "NIP"
     ],
     "teamOrgsRaw": [
       "Laget",
@@ -20202,7 +20714,8 @@
       "FaZe Clan",
       "Dignitas",
       "Heroic"
-    ]
+    ],
+    "photo": "/players/Xizt.png"
   },
   {
     "id": "xKacpersky",
@@ -20215,15 +20728,16 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "ENCE",
-      "NIP"
+      "NIP",
+      "ENCE"
     ],
     "teamOrgsRaw": [
       "Illusion Esports",
       "Young Ninjas",
       "ENCE",
       "Ninjas in Pyjamas"
-    ]
+    ],
+    "photo": "/players/xKacpersky.png"
   },
   {
     "id": "XotiC",
@@ -20261,7 +20775,8 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [],
-    "teamOrgsRaw": []
+    "teamOrgsRaw": [],
+    "photo": "/players/xsepower.png"
   },
   {
     "id": "xseveN",
@@ -20289,7 +20804,8 @@
       "iGame.com",
       "ENCE",
       "HAVU Gaming"
-    ]
+    ],
+    "photo": "/players/xseveN.png"
   },
   {
     "id": "Xyp9x",
@@ -20299,10 +20815,10 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "fnatic",
-      "Dignitas",
+      "Astralis",
       "TSM",
-      "Astralis"
+      "Dignitas",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "zeDANES",
@@ -20321,7 +20837,8 @@
       "Astralis",
       "Astralis Talent",
       "MOUZ"
-    ]
+    ],
+    "photo": "/players/Xyp9x.png"
   },
   {
     "id": "yAmi",
@@ -20382,7 +20899,8 @@
       "Lazarus Esports",
       "Swole Patrol",
       "Orgless (Canadian team)"
-    ]
+    ],
+    "photo": "/players/yay.png"
   },
   {
     "id": "YEKINDAR",
@@ -20392,9 +20910,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
+      "FURIA",
       "Liquid",
-      "FURIA"
+      "Virtus.pro"
     ],
     "teamOrgsRaw": [
       "Elements Pro Gaming",
@@ -20402,7 +20920,8 @@
       "Virtus.pro",
       "Team Liquid",
       "FURIA"
-    ]
+    ],
+    "photo": "/players/YEKINDAR.png"
   },
   {
     "id": "yuurih",
@@ -20421,7 +20940,8 @@
       "INTZ eSports",
       "Virtue Gaming",
       "FURIA"
-    ]
+    ],
+    "photo": "/players/yuurih.png"
   },
   {
     "id": "yxngstxr",
@@ -20441,7 +20961,8 @@
       "Metizport",
       "Sangal Esports",
       "HEROIC"
-    ]
+    ],
+    "photo": "/players/yxngstxr.png"
   },
   {
     "id": "yzn",
@@ -20538,7 +21059,8 @@
     "teamOrgsRaw": [
       "TYLOO",
       "BORING PLAYER"
-    ]
+    ],
+    "photo": "/players/zdr.png"
   },
   {
     "id": "zehN",
@@ -20552,8 +21074,8 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "Sprout",
-      "GODSENT"
+      "GODSENT",
+      "Sprout"
     ],
     "teamOrgsRaw": [
       "DICKHOUSE",
@@ -20575,7 +21097,8 @@
       "SMASH Esports",
       "GODSENT",
       "FunPlus Phoenix"
-    ]
+    ],
+    "photo": "/players/zehN.png"
   },
   {
     "id": "Zellsis",
@@ -20604,7 +21127,8 @@
       "Rugratz",
       "eUnited",
       "Ze Pug Godz"
-    ]
+    ],
+    "photo": "/players/Zellsis.png"
   },
   {
     "id": "zende",
@@ -20636,7 +21160,8 @@
       "Team Preparation",
       "zzz",
       "The Gatekeepers"
-    ]
+    ],
+    "photo": "/players/zende.png"
   },
   {
     "id": "Zero",
@@ -20649,12 +21174,14 @@
     "csgo": false,
     "cs2": true,
     "teamsNotable": [
-      "TYLOO"
+      "GamerLegion",
+      "HellRaisers"
     ],
     "teamOrgsRaw": [
       "Change The Game",
       "TYLOO"
-    ]
+    ],
+    "photo": "/players/Zero.png"
   },
   {
     "id": "ZeroGravity",
@@ -20717,7 +21244,6 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "Virtus.pro",
       "NAVI",
       "Gambit"
     ],
@@ -20731,7 +21257,8 @@
       "Natus Vincere",
       "Gambit Esports",
       "CIS Esports League"
-    ]
+    ],
+    "photo": "/players/Zeus.png"
   },
   {
     "id": "zevy",
@@ -20809,11 +21336,11 @@
     "csgo": true,
     "cs2": false,
     "teamsNotable": [
-      "fnatic",
-      "FlipSid3",
-      "Dignitas",
+      "GODSENT",
       "HellRaisers",
-      "GODSENT"
+      "Dignitas",
+      "FlipSid3",
+      "fnatic"
     ],
     "teamOrgsRaw": [
       "Hellslayers",
@@ -20832,7 +21359,8 @@
       "Singularity Esports",
       "EURONICS Gaming",
       "Lemondogs"
-    ]
+    ],
+    "photo": "/players/znajder.png"
   },
   {
     "id": "zneel",
@@ -20893,7 +21421,8 @@
       "Marlian eSports",
       "Team Spirit Academy",
       "Team Spirit"
-    ]
+    ],
+    "photo": "/players/zont1x.png"
   },
   {
     "id": "ztr",
@@ -20907,9 +21436,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
-      "NIP",
+      "GamerLegion",
       "GODSENT",
-      "GamerLegion"
+      "NIP"
     ],
     "teamOrgsRaw": [
       "Represent Gaming",
@@ -20923,7 +21452,8 @@
       "Metizport",
       "GamerLegion",
       "FOKUS"
-    ]
+    ],
+    "photo": "/players/ztr.png"
   },
   {
     "id": "zweih",
@@ -20945,7 +21475,8 @@
       "Nemiga Gaming",
       "Team Spirit",
       "PARIVISION"
-    ]
+    ],
+    "photo": "/players/zweih.png"
   },
   {
     "id": "Zyphon",
@@ -20958,8 +21489,9 @@
     "csgo": true,
     "cs2": true,
     "teamsNotable": [
+      "TSM",
       "Sprout",
-      "TSM"
+      "Heroic"
     ],
     "teamOrgsRaw": [
       "eSpuma.Pro",
@@ -20972,7 +21504,8 @@
       "Sprout",
       "TSM",
       "Sashi Esport"
-    ]
+    ],
+    "photo": "/players/Zyphon.png"
   },
   {
     "id": "ZywOo",
@@ -20991,6 +21524,7 @@
       "WySix Team",
       "against All authority",
       "Team Vitality"
-    ]
+    ],
+    "photo": "/players/ZywOo.png"
   }
 ]

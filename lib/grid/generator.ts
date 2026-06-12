@@ -63,11 +63,13 @@ export function solveRemaining(
       const key = `${r}-${c}`;
       if (!filled[key]) empties.push({ key, r, c });
     }
-  const domain = empties.map((e) =>
-    eligiblePlayers(players, puzzle.rows[e.r], puzzle.cols[e.c])
-      .map((p) => p.id)
-      .filter((id) => !used.has(id))
+  // Domínio distinto (sem repetir jogadores do usuário) e domínio completo
+  // (qualquer elegível) p/ a célula. O completo é o último recurso do reveal:
+  // garante que NENHUMA célula fique em branco enquanto houver ≥1 elegível.
+  const fullDomain = empties.map((e) =>
+    eligiblePlayers(players, puzzle.rows[e.r], puzzle.cols[e.c]).map((p) => p.id)
   );
+  const domain = fullDomain.map((ids) => ids.filter((id) => !used.has(id)));
   const result: Record<string, string> = {};
   const taken = new Set<string>();
   const bt = (i: number): boolean => {
@@ -83,9 +85,15 @@ export function solveRemaining(
     return false;
   };
   if (!bt(0)) {
-    // Fallback: 1ª opção elegível por célula (pode repetir entre células).
-    for (let i = 0; i < empties.length; i++)
-      if (!result[empties[i].key] && domain[i][0]) result[empties[i].key] = domain[i][0];
+    // Fallback guloso: prefere jogador distinto; se não houver (todos já usados
+    // pelo usuário), cai p/ qualquer elegível da célula (pode repetir). Só fica
+    // vazia se a célula realmente não tiver elegível — o que não ocorre num grid
+    // válido (isFullySolvable garante ≥1), só com dado defasado.
+    for (let i = 0; i < empties.length; i++) {
+      if (result[empties[i].key]) continue;
+      const pick = domain[i][0] ?? fullDomain[i][0];
+      if (pick) result[empties[i].key] = pick;
+    }
   }
   return result;
 }
