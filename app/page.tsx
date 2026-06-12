@@ -35,6 +35,28 @@ function Top10Preview() {
   );
 }
 
+function ImpostorPreview() {
+  // 6 tiles espalhados: alguns "corretos" (verde ✓) e impostores (✕).
+  const cells = [
+    { ok: true }, { ok: false }, { ok: true },
+    { ok: false }, { ok: true }, { ok: false },
+  ];
+  return (
+    <div className="grid grid-cols-3 gap-1.5">
+      {cells.map((c, i) => (
+        <span
+          key={i}
+          className={`flex aspect-square items-center justify-center rounded-md border text-[11px] font-bold ${
+            c.ok ? "border-cs-green/70 bg-cs-green/[0.12] text-cs-green" : "border-cs-red/60 bg-cs-red/[0.10] text-cs-red"
+          }`}
+        >
+          {c.ok ? "✓" : "✕"}
+        </span>
+      ))}
+    </div>
+  );
+}
+
 function SoonPreview() {
   return (
     <div className="grid grid-cols-3 grid-rows-3 gap-1.5">
@@ -96,7 +118,7 @@ export default function HomePage() {
         <div className="mx-auto grid max-w-[840px] grid-cols-2 gap-4 sm:grid-cols-4 sm:gap-[18px]">
           <GameCard href="/top10" badge="NEW" badgeKind="new" subtitle="CS-FIVE Top 10" preview={<Top10Preview />} />
           <GameCard href="/grid" badge="UPDATE" badgeKind="update" subtitle="CS-FIVE Grid" preview={<GridPreview />} />
-          <GameCard disabled subtitle="CS-FIVE Bingo" preview={<SoonPreview />} />
+          <GameCard href="/impostor" badge="NEW" badgeKind="new" subtitle="CS-FIVE Impostor" preview={<ImpostorPreview />} />
           <GameCard disabled subtitle="CS-FIVE Wordle" preview={<SoonPreview />} />
         </div>
 

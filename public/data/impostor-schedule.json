@@ -1,0 +1,36 @@
+[
+  {
+    "id": "title_major_winner",
+    "title": "Já levantou um troféu de Major",
+    "family": "title",
+    "entityKind": "player",
+    "options": [
+      { "kind": "player", "id": "device", "correct": true },
+      { "kind": "player", "id": "NiKo", "correct": false },
+      { "kind": "player", "id": "gla1ve", "correct": true },
+      { "kind": "player", "id": "kennyS", "correct": false },
+      { "kind": "player", "id": "electronic", "correct": true },
+      { "kind": "player", "id": "EliGE", "correct": false },
+      { "kind": "player", "id": "Magisk", "correct": true },
+      { "kind": "player", "id": "NAF", "correct": false },
+      { "kind": "player", "id": "dupreeh", "correct": true },
+      { "kind": "player", "id": "s1mple", "correct": true }
+    ]
+  },
+  {
+    "id": "team_astralis",
+    "title": "Já jogou pela Astralis",
+    "family": "team",
+    "entityKind": "player",
+    "options": [
+      { "kind": "player", "id": "device", "correct": true },
+      { "kind": "player", "id": "s1mple", "correct": false },
+      { "kind": "player", "id": "Xyp9x", "correct": true },
+      { "kind": "player", "id": "NiKo", "correct": false },
+      { "kind": "player", "id": "dupreeh", "correct": true },
+      { "kind": "player", "id": "kennyS", "correct": false },
+      { "kind": "player", "id": "gla1ve", "correct": true },
+      { "kind": "player", "id": "Magisk", "correct": true }
+    ]
+  }
+]
