@@ -7,12 +7,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "NBK-",
+        "id": "flameZ",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "electronic",
         "correct": false
       },
       {
@@ -22,17 +22,7 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "flameZ",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
+        "id": "s1mple",
         "correct": false
       },
       {
@@ -42,8 +32,8 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
-        "correct": false
+        "id": "Aleksib",
+        "correct": true
       },
       {
         "kind": "player",
@@ -52,8 +42,18 @@
       },
       {
         "kind": "player",
-        "id": "Aleksib",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NBK-",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": false
       }
     ]
   },
@@ -65,27 +65,17 @@
     "options": [
       {
         "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "CeRq",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "jks",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dexter",
         "correct": true
       },
       {
@@ -95,12 +85,22 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "dexter",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "broky",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "TeSeS",
         "correct": false
       }
     ]
@@ -118,17 +118,7 @@
       },
       {
         "kind": "player",
-        "id": "karrigan",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Xyp9x",
+        "id": "olofmeister",
         "correct": true
       },
       {
@@ -138,8 +128,8 @@
       },
       {
         "kind": "player",
-        "id": "olofmeister",
-        "correct": true
+        "id": "rain",
+        "correct": false
       },
       {
         "kind": "player",
@@ -148,13 +138,23 @@
       },
       {
         "kind": "player",
-        "id": "KRIMZ",
+        "id": "karrigan",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "electronic",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": true
       }
     ]
   },
@@ -166,12 +166,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "electronic",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
+        "id": "huNter-",
         "correct": false
       },
       {
@@ -181,27 +176,32 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "s1mple",
         "correct": true
       },
       {
         "kind": "player",
         "id": "b1t",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
         "correct": true
       }
     ]
@@ -214,7 +214,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "swag",
+        "id": "nitr0",
         "correct": true
       },
       {
@@ -224,17 +224,7 @@
       },
       {
         "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "nitr0",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
+        "id": "flameZ",
         "correct": false
       },
       {
@@ -244,17 +234,27 @@
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "Snax",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "m0NESY",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "swag",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "frozen",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
         "correct": false
       }
     ]
@@ -267,17 +267,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "sh1ro",
-        "correct": true
-      },
-      {
-        "kind": "player",
         "id": "electronic",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "woxic",
         "correct": true
       },
       {
@@ -287,18 +277,23 @@
       },
       {
         "kind": "player",
-        "id": "tarik",
+        "id": "woxic",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "ropz",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "gla1ve",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "tarik",
+        "correct": true
       },
       {
         "kind": "player",
@@ -307,7 +302,12 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "sh1ro",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
         "correct": false
       }
     ]
@@ -320,7 +320,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "yuurih",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Brehze",
         "correct": false
       },
       {
@@ -330,23 +335,13 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "huNter-",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "s1mple",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "EliGE",
+        "id": "CeRq",
         "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": true
       },
       {
         "kind": "player",
@@ -355,8 +350,13 @@
       },
       {
         "kind": "player",
-        "id": "Twistzz",
-        "correct": false
+        "id": "s1mple",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": true
       }
     ]
   },
@@ -368,17 +368,27 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "Hobbit",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "stavn",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "NAF",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
         "correct": false
       },
       {
@@ -388,17 +398,7 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Hobbit",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
+        "id": "Magisk",
         "correct": false
       },
       {
@@ -416,23 +416,18 @@
     "options": [
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "coldzera",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "kscerato",
+        "id": "JW",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
       },
       {
         "kind": "player",
@@ -446,13 +441,18 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "kscerato",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "flameZ",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "FalleN",
-        "correct": true
+        "id": "fer",
+        "correct": false
       }
     ]
   },
@@ -464,37 +464,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "AZR",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dycha",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "w0nderful",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
+        "id": "jks",
         "correct": false
       },
       {
@@ -504,13 +474,43 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "w0nderful",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "AZR",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jame",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dycha",
+        "correct": true
       },
       {
         "kind": "player",
         "id": "oskar",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": false
       }
     ]
   },
@@ -522,37 +522,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "roeJ",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "HooXi",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "acoR",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "jL",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
+        "id": "nitr0",
         "correct": false
       },
       {
@@ -562,8 +532,38 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "roeJ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "acoR",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "HooXi",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jL",
+        "correct": true
       }
     ]
   },
@@ -573,26 +573,6 @@
     "family": "team",
     "entityKind": "player",
     "options": [
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Magisk",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
       {
         "kind": "player",
         "id": "NAF",
@@ -605,12 +585,32 @@
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "olofmeister",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "stewie2k",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
         "correct": false
       }
     ]
@@ -623,32 +623,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "boltz",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "fer",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
+        "id": "Twistzz",
         "correct": false
       },
       {
@@ -658,12 +633,37 @@
       },
       {
         "kind": "player",
+        "id": "FalleN",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "chelo",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "FalleN",
+        "id": "fer",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Spinx",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "boltz",
         "correct": true
       }
     ]
@@ -676,18 +676,8 @@
     "options": [
       {
         "kind": "player",
-        "id": "Hobbit",
+        "id": "Ax1Le",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
       },
       {
         "kind": "player",
@@ -696,7 +686,12 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "Hobbit",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "torzsi",
         "correct": false
       },
       {
@@ -706,18 +701,23 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "apEX",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Ax1Le",
-        "correct": true
+        "id": "karrigan",
+        "correct": false
       },
       {
         "kind": "player",
         "id": "Zeus",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
+        "correct": false
       }
     ]
   },
@@ -729,17 +729,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "jks",
+        "id": "AZR",
         "correct": true
       },
       {
@@ -749,13 +739,8 @@
       },
       {
         "kind": "player",
-        "id": "AZR",
+        "id": "device",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
       },
       {
         "kind": "player",
@@ -766,6 +751,21 @@
         "kind": "player",
         "id": "jkaem",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
       }
     ]
   },
@@ -777,42 +777,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "rain",
+        "id": "cadiaN",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "flameZ",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "mezii",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "EliGE",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
+        "id": "NAF",
         "correct": false
       },
       {
@@ -822,7 +792,37 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "flameZ",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FL1T",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "YEKINDAR",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jabbi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "mezii",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
         "correct": false
       }
     ]
@@ -835,8 +835,13 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
+        "id": "nitr0",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "FalleN",
+        "correct": true
       },
       {
         "kind": "player",
@@ -845,17 +850,12 @@
       },
       {
         "kind": "player",
-        "id": "Twistzz",
-        "correct": true
+        "id": "apEX",
+        "correct": false
       },
       {
         "kind": "player",
         "id": "EliGE",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "nitr0",
         "correct": true
       },
       {
@@ -865,12 +865,12 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "Xyp9x",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "FalleN",
+        "id": "Twistzz",
         "correct": true
       },
       {
@@ -888,31 +888,6 @@
     "options": [
       {
         "kind": "player",
-        "id": "jks",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "EliGE",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "k0nfig",
         "correct": true
       },
@@ -923,8 +898,33 @@
       },
       {
         "kind": "player",
+        "id": "broky",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "fer",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "ZywOo",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": true
       }
     ]
   },
@@ -936,17 +936,22 @@
     "options": [
       {
         "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "frozen",
         "correct": true
       },
       {
         "kind": "player",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
         "correct": true
       },
       {
@@ -956,22 +961,17 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "stavn",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
         "correct": false
       },
       {
         "kind": "player",
         "id": "Spinx",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
         "correct": true
       }
     ]
@@ -984,32 +984,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "MAJ3R",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ISSAA",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "XANTARES",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "Wicadia",
+        "id": "ISSAA",
         "correct": true
       },
       {
@@ -1019,13 +999,33 @@
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "MAJ3R",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Wicadia",
+        "correct": true
       },
       {
         "kind": "player",
         "id": "jottAAA",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
       }
     ]
   },
@@ -1037,22 +1037,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "BnTeT",
+        "id": "somebody",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "EliGE",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
+        "id": "NAF",
         "correct": false
       },
       {
@@ -1062,22 +1052,32 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "somebody",
+        "id": "BnTeT",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "stewie2k",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "fer",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "kennyS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "REZ",
         "correct": false
       }
     ]
@@ -1090,7 +1090,27 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "woxic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Twistzz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Aleksib",
         "correct": false
       },
       {
@@ -1100,32 +1120,12 @@
       },
       {
         "kind": "player",
-        "id": "apEX",
+        "id": "FalleN",
         "correct": false
       },
       {
         "kind": "player",
         "id": "NiKo",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NAF",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dupreeh",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
         "correct": true
       }
     ]
@@ -1138,27 +1138,22 @@
     "options": [
       {
         "kind": "player",
+        "id": "Snax",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "Twistzz",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
+        "id": "Brollan",
         "correct": false
       },
       {
@@ -1168,18 +1163,23 @@
       },
       {
         "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "seized",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "EliGE",
+        "id": "Hobbit",
         "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "electronic",
-        "correct": true
       }
     ]
   },
@@ -1191,7 +1191,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "kscerato",
         "correct": false
       },
       {
@@ -1201,12 +1201,7 @@
       },
       {
         "kind": "player",
-        "id": "apEX",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
+        "id": "FalleN",
         "correct": false
       },
       {
@@ -1216,17 +1211,22 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "stavn",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "tarik",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Twistzz",
+        "id": "apEX",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
         "correct": false
       }
     ]
@@ -1239,12 +1239,27 @@
     "options": [
       {
         "kind": "player",
+        "id": "fer",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "yuurih",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "FalleN",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "frozen",
         "correct": false
       },
       {
@@ -1254,32 +1269,17 @@
       },
       {
         "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "NAF",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "fer",
-        "correct": true
-      },
-      {
-        "kind": "player",
         "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
         "correct": false
       }
     ]
@@ -1292,22 +1292,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dupreeh",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "cajunb",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "karrigan",
+        "id": "device",
         "correct": true
       },
       {
@@ -1317,13 +1302,28 @@
       },
       {
         "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "Xyp9x",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "device",
-        "correct": true
+        "id": "frozen",
+        "correct": false
       },
       {
         "kind": "player",
@@ -1332,8 +1332,8 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
+        "id": "cajunb",
+        "correct": true
       }
     ]
   },
@@ -1345,42 +1345,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "jame",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "GuardiaN",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Snax",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "EliGE",
+        "id": "w0nderful",
         "correct": false
       },
       {
@@ -1390,8 +1355,43 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "Ethan",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "b1t",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "mezii",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jame",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "GuardiaN",
+        "correct": true
       }
     ]
   },
@@ -1403,38 +1403,8 @@
     "options": [
       {
         "kind": "player",
-        "id": "TACO",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "JW",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
+        "id": "torzsi",
         "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "KRIMZ",
-        "correct": true
       },
       {
         "kind": "player",
@@ -1448,8 +1418,38 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "FalleN",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "w0nderful",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "TACO",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "JW",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "KRIMZ",
+        "correct": true
       }
     ]
   },
@@ -1461,28 +1461,8 @@
     "options": [
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "m0NESY",
         "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NAF",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "jks",
-        "correct": true
       },
       {
         "kind": "player",
@@ -1491,17 +1471,37 @@
       },
       {
         "kind": "player",
-        "id": "dexter",
+        "id": "NAF",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "cadiaN",
         "correct": false
       },
       {
         "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "jks",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "Liazz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dexter",
         "correct": true
       }
     ]
@@ -1514,7 +1514,17 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "broky",
         "correct": false
       },
       {
@@ -1524,22 +1534,12 @@
       },
       {
         "kind": "player",
-        "id": "GuardiaN",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "dupreeh",
-        "correct": true
-      },
-      {
-        "kind": "player",
         "id": "bodyy",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "sh1ro",
         "correct": false
       },
       {
@@ -1549,8 +1549,8 @@
       },
       {
         "kind": "player",
-        "id": "device",
-        "correct": false
+        "id": "GuardiaN",
+        "correct": true
       }
     ]
   },
@@ -1560,11 +1560,6 @@
     "family": "team",
     "entityKind": "player",
     "options": [
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
       {
         "kind": "player",
         "id": "boltz",
@@ -1577,8 +1572,18 @@
       },
       {
         "kind": "player",
+        "id": "felps",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "kNgV-",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "sh1ro",
+        "correct": false
       },
       {
         "kind": "player",
@@ -1587,23 +1592,18 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "felps",
-        "correct": true
-      },
-      {
-        "kind": "player",
         "id": "fnx",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Spinx",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
       }
     ]
   },
@@ -1615,33 +1615,28 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "olofmeister",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "sh1ro",
+        "id": "jks",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Aleksib",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nitr0",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "donk",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "chopper",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
       },
       {
         "kind": "player",
@@ -1650,7 +1645,12 @@
       },
       {
         "kind": "player",
-        "id": "donk",
+        "id": "sh1ro",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "chopper",
         "correct": true
       }
     ]
@@ -1663,37 +1663,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "bLitz",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ANNIHILATION",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "910",
         "correct": true
       },
       {
@@ -1703,12 +1673,42 @@
       },
       {
         "kind": "player",
+        "id": "torzsi",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ANNIHILATION",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "910",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "stavn",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "Senzu",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "shox",
         "correct": false
       }
     ]
@@ -1721,11 +1721,6 @@
     "options": [
       {
         "kind": "player",
-        "id": "nawwk",
-        "correct": true
-      },
-      {
-        "kind": "player",
         "id": "shox",
         "correct": true
       },
@@ -1736,8 +1731,8 @@
       },
       {
         "kind": "player",
-        "id": "dennis",
-        "correct": true
+        "id": "ZywOo",
+        "correct": false
       },
       {
         "kind": "player",
@@ -1746,22 +1741,27 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
+        "id": "s1mple",
         "correct": false
       },
       {
         "kind": "player",
         "id": "jL",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "m0NESY",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dennis",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "nawwk",
         "correct": true
       }
     ]
@@ -1774,42 +1774,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "Twistzz",
+        "id": "torzsi",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dupreeh",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "EliGE",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "gla1ve",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
+        "id": "Magisk",
         "correct": false
       },
       {
@@ -1819,8 +1789,38 @@
       },
       {
         "kind": "player",
+        "id": "chrisJ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "device",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brollan",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "stavn",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tabseN",
+        "correct": false
       }
     ]
   },
@@ -1832,8 +1832,8 @@
     "options": [
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
+        "id": "Aleksib",
+        "correct": true
       },
       {
         "kind": "player",
@@ -1842,38 +1842,38 @@
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "ZywOo",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Twistzz",
+        "id": "JW",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "EliGE",
+        "id": "kennyS",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Aleksib",
-        "correct": true
+        "id": "Brollan",
+        "correct": false
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "TeSeS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "torzsi",
         "correct": false
       },
       {
         "kind": "player",
         "id": "Spinx",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
       }
     ]
   },
@@ -1885,12 +1885,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
+        "id": "EliGE",
         "correct": false
       },
       {
@@ -1900,12 +1895,17 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "tabseN",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "dupreeh",
         "correct": false
       },
       {
@@ -1915,17 +1915,17 @@
       },
       {
         "kind": "player",
-        "id": "tabseN",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
+        "id": "Xyp9x",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "EliGE",
+        "id": "broky",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ZywOo",
         "correct": false
       }
     ]
@@ -1938,27 +1938,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "Magisk",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "karrigan",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dupreeh",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
+        "id": "f0rest",
         "correct": true
       },
       {
@@ -1968,17 +1948,37 @@
       },
       {
         "kind": "player",
-        "id": "f0rest",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
+        "id": "NAF",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "device",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "kscerato",
         "correct": false
       }
     ]
@@ -1996,32 +1996,12 @@
       },
       {
         "kind": "player",
-        "id": "biguzera",
-        "correct": true
-      },
-      {
-        "kind": "player",
         "id": "chelo",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "saffee",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "nqz",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
+        "id": "nitr0",
         "correct": false
       },
       {
@@ -2031,7 +2011,27 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "biguzera",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "EliGE",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "nqz",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "saffee",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "broky",
         "correct": false
       }
     ]
@@ -2049,8 +2049,8 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
+        "id": "Aleksib",
+        "correct": true
       },
       {
         "kind": "player",
@@ -2059,18 +2059,18 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "Twistzz",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "stavn",
-        "correct": true
+        "id": "Brehze",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "s1mple",
+        "correct": false
       },
       {
         "kind": "player",
@@ -2079,12 +2079,12 @@
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "flusha",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Aleksib",
+        "id": "stavn",
         "correct": true
       }
     ]
@@ -2097,22 +2097,17 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "jks",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "NBK-",
+        "id": "Ex6TenZ",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "SmithZz",
+        "id": "NBK-",
         "correct": true
       },
       {
@@ -2122,13 +2117,13 @@
       },
       {
         "kind": "player",
-        "id": "Ex6TenZ",
+        "id": "SmithZz",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
+        "id": "RpK",
+        "correct": true
       },
       {
         "kind": "player",
@@ -2137,8 +2132,13 @@
       },
       {
         "kind": "player",
-        "id": "RpK",
-        "correct": true
+        "id": "rain",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
       }
     ]
   },
@@ -2150,22 +2150,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "rain",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
+        "id": "NAF",
         "correct": false
       },
       {
@@ -2175,12 +2160,22 @@
       },
       {
         "kind": "player",
-        "id": "EliGE",
+        "id": "Spinx",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "flusha",
         "correct": false
       },
       {
@@ -2190,13 +2185,18 @@
       },
       {
         "kind": "player",
-        "id": "karrigan",
-        "correct": true
+        "id": "woxic",
+        "correct": false
       },
       {
         "kind": "player",
         "id": "dupreeh",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "TACO",
+        "correct": false
       }
     ]
   },
@@ -2208,32 +2208,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "Magisk",
+        "id": "aizy",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "k0nfig",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
       },
       {
         "kind": "player",
         "id": "cajunb",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "aizy",
         "correct": true
       },
       {
@@ -2243,8 +2223,28 @@
       },
       {
         "kind": "player",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "cadiaN",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "k0nfig",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "NiKo",
+        "correct": false
       }
     ]
   },
@@ -2256,12 +2256,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "huNter-",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Ethan",
+        "id": "nitr0",
         "correct": true
       },
       {
@@ -2276,13 +2276,8 @@
       },
       {
         "kind": "player",
-        "id": "nitr0",
+        "id": "tabseN",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
       },
       {
         "kind": "player",
@@ -2291,8 +2286,13 @@
       },
       {
         "kind": "player",
-        "id": "tabseN",
+        "id": "Ethan",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "rain",
+        "correct": false
       }
     ]
   },
@@ -2304,37 +2304,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Calyx",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "EliGE",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "MAJ3R",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "XANTARES",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
+        "id": "apEX",
         "correct": false
       },
       {
@@ -2344,12 +2314,42 @@
       },
       {
         "kind": "player",
+        "id": "fer",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Calyx",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "rain",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Twistzz",
+        "id": "XANTARES",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "MAJ3R",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "olofmeister",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "ropz",
         "correct": false
       }
     ]
@@ -2362,27 +2362,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "apEX",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NAF",
+        "id": "torzsi",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "EliGE",
+        "id": "nitr0",
         "correct": false
       },
       {
@@ -2392,17 +2377,32 @@
       },
       {
         "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "rain",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "TeSeS",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
         "correct": false
       }
     ]
@@ -2415,32 +2415,7 @@
     "options": [
       {
         "kind": "player",
-        "id": "siuhy",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "iM",
-        "correct": true
-      },
-      {
-        "kind": "player",
         "id": "REZ",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dennis",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Snax",
         "correct": true
       },
       {
@@ -2450,8 +2425,33 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "device",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Snax",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "iM",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "siuhy",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "dennis",
+        "correct": true
       }
     ]
   },
@@ -2463,32 +2463,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "s1mple",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Ethan",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "tarik",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Brehze",
+        "id": "CeRq",
         "correct": true
       },
       {
@@ -2498,12 +2478,32 @@
       },
       {
         "kind": "player",
+        "id": "Ethan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "gla1ve",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "electronic",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "stanislaw",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "CeRq",
+        "id": "Brehze",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "tarik",
         "correct": true
       }
     ]
@@ -2516,28 +2516,13 @@
     "options": [
       {
         "kind": "player",
-        "id": "cadiaN",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "ropz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "FalleN",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "Magisk",
-        "correct": true
+        "id": "m0NESY",
+        "correct": false
       },
       {
         "kind": "player",
@@ -2546,23 +2531,38 @@
       },
       {
         "kind": "player",
-        "id": "EliGE",
+        "id": "YEKINDAR",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "REZ",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "Magisk",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "woxic",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "Twistzz",
+        "id": "yuurih",
         "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Ax1Le",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "cadiaN",
+        "correct": true
       }
     ]
   },
@@ -2574,12 +2574,12 @@
     "options": [
       {
         "kind": "player",
-        "id": "RpK",
-        "correct": true
+        "id": "Aleksib",
+        "correct": false
       },
       {
         "kind": "player",
-        "id": "ZywOo",
+        "id": "Xyp9x",
         "correct": false
       },
       {
@@ -2589,12 +2589,12 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
+        "id": "apEX",
+        "correct": true
       },
       {
         "kind": "player",
-        "id": "apEX",
+        "id": "shox",
         "correct": true
       },
       {
@@ -2604,12 +2604,12 @@
       },
       {
         "kind": "player",
-        "id": "device",
+        "id": "rain",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "shox",
+        "id": "RpK",
         "correct": true
       }
     ]
@@ -2622,12 +2622,32 @@
     "options": [
       {
         "kind": "player",
-        "id": "gla1ve",
+        "id": "dupreeh",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "ropz",
+        "id": "karrigan",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "kscerato",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Brehze",
         "correct": false
       },
       {
@@ -2637,38 +2657,18 @@
       },
       {
         "kind": "player",
-        "id": "Xyp9x",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "dupreeh",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "karrigan",
+        "id": "gla1ve",
         "correct": true
       },
       {
         "kind": "player",
         "id": "device",
         "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "shox",
+        "correct": false
       }
     ]
   },
@@ -2680,32 +2680,22 @@
     "options": [
       {
         "kind": "player",
+        "id": "fer",
+        "correct": true
+      },
+      {
+        "kind": "player",
         "id": "tarik",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "coldzera",
-        "correct": true
+        "id": "m0NESY",
+        "correct": false
       },
       {
         "kind": "player",
         "id": "stewie2k",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "ZywOo",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "fer",
         "correct": true
       },
       {
@@ -2715,7 +2705,17 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
+        "id": "REZ",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "coldzera",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "karrigan",
         "correct": false
       }
     ]
@@ -2728,23 +2728,23 @@
     "options": [
       {
         "kind": "player",
+        "id": "kscerato",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "apEX",
+        "correct": true
+      },
+      {
+        "kind": "player",
+        "id": "Xyp9x",
+        "correct": false
+      },
+      {
+        "kind": "player",
         "id": "ropz",
         "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "Twistzz",
-        "correct": false
-      },
-      {
-        "kind": "player",
-        "id": "dupreeh",
-        "correct": true
-      },
-      {
-        "kind": "player",
-        "id": "device",
-        "correct": false
       },
       {
         "kind": "player",
@@ -2753,22 +2753,22 @@
       },
       {
         "kind": "player",
-        "id": "NiKo",
-        "correct": false
-      },
-      {
-        "kind": "player",
         "id": "ZywOo",
         "correct": true
       },
       {
         "kind": "player",
-        "id": "EliGE",
+        "id": "kennyS",
         "correct": false
       },
       {
         "kind": "player",
-        "id": "apEX",
+        "id": "coldzera",
+        "correct": false
+      },
+      {
+        "kind": "player",
+        "id": "dupreeh",
         "correct": true
       }
     ]

@@ -92,18 +92,24 @@ async function main() {
     const p = list[i];
     const ref = hltv.get(norm(p.id));
     const cacheFile = join(CACHE, `hltv_profile_${ref.id}.html`);
+    const dest = join(PHOTO_DIR, `${safeName(p.id)}.png`);
+    const needPhoto = !existsSync(dest);
+    // downloadPhoto faz fetch NO contexto da página (img-cdn dá 403 externo), então
+    // se precisamos da foto temos que NAVEGAR — não basta o HTML do cache.
     let html;
     try {
-      html = existsSync(cacheFile) ? readFileSync(cacheFile, "utf8")
-        : await fetchHtml(`https://www.hltv.org/player/${ref.id}/${ref.slug}`, ".team-breakdown", { timeoutMs: 45000 });
-      if (!existsSync(cacheFile)) writeFileSync(cacheFile, html);
+      if (existsSync(cacheFile) && !needPhoto) {
+        html = readFileSync(cacheFile, "utf8");
+      } else {
+        html = await fetchHtml(`https://www.hltv.org/player/${ref.id}/${ref.slug}`, ".team-breakdown", { timeoutMs: 45000 });
+        writeFileSync(cacheFile, html);
+      }
     } catch (e) { fail++; console.log(`  ✗ ${p.id}: ${e.message}`); continue; }
 
     const abbrs = parseTeams(html);
     if (abbrs && abbrs.length) { p.teamsNotable = abbrs; teamsFixed++; }
 
-    const dest = join(PHOTO_DIR, `${safeName(p.id)}.png`);
-    if (!existsSync(dest)) {
+    if (needPhoto) {
       try { if (await downloadPhoto(html, dest)) { p.photo = `/players/${safeName(p.id)}.png`; photos++; } }
       catch { /* foto é best-effort */ }
     } else { p.photo = `/players/${safeName(p.id)}.png`; }

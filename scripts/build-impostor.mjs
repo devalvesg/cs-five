@@ -66,7 +66,13 @@ function makePuzzle(id, title, family, satisfiesSet) {
   const correct = correctPool.slice(0, nCorrect);
   const total = 8 + Math.floor(rng() * 3); // [8,10]
   const nImp = Math.max(2, total - nCorrect);
-  const impostors = notoriousPlayers.filter((pid) => !satisfiesSet.has(pid)).slice(0, nImp);
+  // Impostores: amostra do TOPO da notoriedade (craques que chegam perto) com o
+  // RNG do dia, p/ ter VARIEDADE entre puzzles em vez de repetir sempre os 4-5
+  // mais notórios (ZywOo/NiKo/device em todo lugar).
+  const impPool = notoriousPlayers.filter((pid) => !satisfiesSet.has(pid));
+  if (impPool.length < 2) return null;
+  const window = Math.min(impPool.length, Math.max(24, nImp * 10));
+  const impostors = shuffle(impPool.slice(0, window), rng).slice(0, nImp);
   if (impostors.length < 2) return null;
   const options = shuffle(
     [...correct.map((pid) => ({ kind: "player", id: pid, correct: true })),
